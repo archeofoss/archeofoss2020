@@ -1,0 +1,30 @@
+title: ArcheoFOSS
+description: >
+  Software, hardware, processi, dati e formati aperti nella ricerca archeologica
+logo: archeofloss-2.svg
+
+exclude:
+  - site
+  - __*
+  - Gemfile
+  - Gemfile.lock
+
+sass:
+    sass_dir: _sass
+
+collections:
+  generale:
+    output: true
+  archivi:
+    output: true
+  progetti:
+    output: true
+  news:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: "news" # a collection in your site, in plural form
+    values:
+      layout: "article"
