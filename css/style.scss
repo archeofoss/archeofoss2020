@@ -13,3 +13,20 @@
 @import "site-navbar";
 /* Blocks */
 @import "site-blocks";
+
+
+.content {
+    h1{
+        text-transform: uppercase;
+        font-weight: 600;
+        margin-top: 5rem;
+    }
+    h2{
+        font-weight: 600;
+        margin-top: 5rem;
+    }
+    h3{
+        font-weight: 400;
+        margin-top: 3rem;
+    }
+}

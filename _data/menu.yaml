@@ -1,14 +1,22 @@
-- title: Chi siamo
-  url: /#chi-siamo
+- title: Papers
+  url: /#call-for-papers
+- title: Workshops
+  url: /#call-for-workshops
+- title: Demos
+  url: /#call-for-demos
+- title: Atti
+  url: /#pubblicazione-degli-atti
+- title: info
+  url: /#ulteriori-informazioni
 
 # - title: Convegni
 #   url: /convegni
 
-- title: Discorsi su ArcheoFOSS
-  url: https://discorsi.archeofoss.org/
+# - title: Discorsi su ArcheoFOSS
+#   url: https://discorsi.archeofoss.org/
 
-- title: Archivio
-  url: https://archivio.archeofoss.org/
+# - title: Archivio
+#   url: https://archivio.archeofoss.org/
 
-- title: Contatti
-  url: /contatti
+# - title: Contatti
+#   url: /contatti
