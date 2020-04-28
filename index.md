@@ -4,6 +4,16 @@ layout: home
 permalink: /
 ---
 
+# TL;DR
+- Termine ultimo per [l'invio]((https://forms.gle/yEqVdk2ApBTSLJoP6)) degli abstract estesi: **mezzanotte del 30 giugno 2020**
+- Termine ultimo per la notifica di accettazione delle proposte: **31 luglio 2020**
+- Termine ultimo per [l'invio](https://forms.gle/TCPNg7NNC3UvnFiEA) di proposte di workshop: mezzanotte del **30 giugno 2020**
+- Termine ultimo per la notifica di accettazione di workshop: **31 luglio 2020**
+- Termine ultimo per l'ivio delle proposte di demo: **mezzanotte del 31 agosto 2020**
+- Date del convegno: **15, 16, 17 ottobre 2020**
+
+---
+
 # Call for papers
 La quattordicesima edizione del **Convegno Internazionale ArcheoFOSS. 
 Software, hardware, processi, dati e formati open nella ricerca archeologica** 
@@ -90,10 +100,20 @@ software, dell'espletamento di un processo o la creazione di mashup.
 
 Si pregano i proponenti ad aderire in maniera rigorosa ai seguenti punti:
 - I workshop devono essere della durata massima di 2 ore;
-- I proponenti dovranno fare in modo che tutti i partecipanti possano essere in grado di seguire in maniera pratica la lezione, optando per ambienti di lavoro multi-piattaforma e comunque il workshop dovrebbe poter essere seguito su sistemi Linux (distribuzioni più diffuse), Windows e MacOS;
-- I proponenti dovranno predisporre un ambiente di lavoro compatibile (software, librerie, dati) o comunque fornire in anticipo istruzioni dettagliate su come prepararlo. I proponenti dovranno eventualmente rimanere a disposizione degli utenti iscritti, prima dell'inizio del workshop, per risolvere eventuali problemi dell'ambiente di lavoro che impediscano la sua piena fruizione. È incoraggiata l’organizzazione, con l’aiuto del comitato organizzatore, di una sessione di follow-up a distanza di 4-5 settimane dai lavori del workshop;
-- I proponenti e partecipanti dovranno acconsentire alla videoregistrazione del workshop e alla pubblicazione del video attraverso i canali di comunicazione di ArcheoFOSS;
-- I proponenti forniranno eventuale materiale didattico al comitato organizzativo di ArcheoFOSS che lo potrà pubblicare sul proprio sito e/o su propri repository pubblici.
+- I proponenti dovranno fare in modo che tutti i partecipanti possano essere in 
+grado di seguire in maniera pratica la lezione, optando per ambienti di lavoro 
+multi-piattaforma e comunque il workshop dovrebbe poter essere seguito su sistemi Linux 
+(distribuzioni più diffuse), Windows e MacOS;
+- I proponenti dovranno predisporre un ambiente di lavoro compatibile (software, librerie, dati) 
+o comunque fornire in anticipo istruzioni dettagliate su come prepararlo. I proponenti dovranno 
+eventualmente rimanere a disposizione degli utenti iscritti, prima dell'inizio del workshop, 
+per risolvere eventuali problemi dell'ambiente di lavoro che impediscano la sua piena fruizione. 
+È incoraggiata l’organizzazione, con l’aiuto del comitato organizzatore, di una sessione 
+di follow-up a distanza di 4-5 settimane dai lavori del workshop;
+- I proponenti e partecipanti dovranno acconsentire alla videoregistrazione del 
+workshop e alla pubblicazione del video attraverso i canali di comunicazione di ArcheoFOSS;
+- I proponenti forniranno eventuale materiale didattico al comitato organizzativo di 
+ArcheoFOSS che lo potrà pubblicare sul proprio sito e/o su propri repository pubblici.
 
 ## Invio della proposta di workshop
 Per proporre un workshop è necessario inviare una descrizione non più lunga di 3000 
@@ -125,16 +145,6 @@ entro e non oltre la mezzanotte del 31 agosto 2020.
 
 ---
 
-# TLDR;
-- Termine ultimo per l'invio degli abstract estesi: mezzanotte del 30 giugno 2020
-- Termine ultimo per la notifica di accettazione delle proposte: 31 luglio 2020
-- Termine ultimo per l'invio di proposte di workshop: mezzanotte del 30 giugno 2020
-- Termine ultimo per la notifica di accettazione di workshop: 31 luglio 2020
-- Termine ultimo per l'ivio delle proposte di demo: mezzanotte del 31 agosto 2020
-- Date del convegno: 15, 16, 17 ottobre 2020
-
----
-
 # Pubblicazione degli atti
 
 **Prima del convegno**
@@ -149,8 +159,9 @@ Al termine dei lavori della conferenza sarà chiesto a tutti i partecipanti di i
 
 # Ulteriori informazioni
 
-Le presentazioni non dovranno superare i 20 minuti, seguiti da 5 minuti dedicati alle domande e risposte
+Le presentazioni non dovranno superare i **20 minuti**, seguiti da **5 minuti dedicati alle domande e risposte**.
 
-Le presentazioni potranno essere tenute esclusivamente in italiano o in inglese;
+Le presentazioni potranno essere tenute esclusivamente in **italiano** o in **inglese**.
 
-Per ulteriori informazioni, scrivici a [info@archeofoss.org](mailto:info@archeofoss.org).
+Per ulteriori informazioni ci potete contattare via email
+al'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
