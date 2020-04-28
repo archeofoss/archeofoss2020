@@ -33,7 +33,7 @@ Il comitato organizzatore incoraggia a presentare le proposte di intervento
 facendo riferimento alle seguenti tre macro-tematiche.
 
 
-### Tema 1. Uso e applicazione di strumenti Free/Libre ed Open source (FLOS) in archeologia
+### ![icon](images/icons/trowel.svg "Trowel") Tema 1. Uso e applicazione di strumenti Free/Libre ed Open source (FLOS) in archeologia
 
 Questa tematica accoglie contributi che riguardano l'applicazione di 
 strumenti (software, hardware, processi) free/libre e open source 
@@ -49,7 +49,7 @@ Esempi di contributi:
 - pubblicazione innovativa dei dati;
 - integrazione, tramite formati aperti, con flussi di lavoro non archeologici (geologia, ingegneria, scienza delle costruzioni, analisi dell’ambiente, etc..).
 
-### Tema 2. Produzione, uso e promozione di open data e open format in archeologia
+### ![icon](images/icons/share.svg "Share") Tema 2. Produzione, uso e promozione di open data e open format in archeologia
 
 La tematica accoglie contributi che trattino la produzione, 
 pubblicazione e l'utilizzo (anche attraverso software proprietario) di 
@@ -63,7 +63,7 @@ Esempi di contributi:
 - processamento, recupero e ripubblicazione di legacy data;
 - strategie di conservazione a lungo termine dei dati di interesse culturale attraverso formati aperti.
 
-### Tema 3. Sviluppo e adattamento di strumenti software e hardware FLOS in ambito culturale
+### ![icon](images/icons/gears.svg "Gears") Tema 3. Sviluppo e adattamento di strumenti software e hardware FLOS in ambito culturale
 
 Questa sessione accoglie contributi relativi alla creazione di 
 strumenti hardware/software FLOS con particolare riferimento 
