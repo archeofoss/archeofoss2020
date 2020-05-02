@@ -11,6 +11,8 @@ permalink: /
 - Termine ultimo per la notifica di accettazione di workshop: **31 luglio 2020**
 - Termine ultimo per l'invio delle proposte di demo: **mezzanotte del 31 agosto 2020**
 - Date del convegno: **15, 16, 17 ottobre 2020**
+- [Scarica la call in versione PDF](./call-for-papers-ArcheoFOSS-XIV-2020.pdf)
+- **Non dimenticare di condividere e diffondere!**
 
 ---
 
