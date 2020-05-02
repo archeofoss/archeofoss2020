@@ -84,7 +84,7 @@ corredate da didascalie e da una breve biografia dell’autore o degli autori.
 Testi e immagini dovranno essere rilasciati con licenza CC BY-ND o licenze CC simili più aperte.
 L'invio della documentazione deve essere fatto esclusivamente attraverso questo link: 
 [https://forms.gle/yEqVdk2ApBTSLJoP6](https://forms.gle/yEqVdk2ApBTSLJoP6) entro e non
-oltre l'improrogabile della mezzanotte del **30 giugno 2020**.
+oltre la mezzanotte del **30 giugno 2020**.
 
 Ogni altro tipo di invio comporterà l'automatica esclusione dalla selezione, senza ulteriore comunicazione.
 
@@ -121,7 +121,7 @@ delle finalità pratiche del workshop e una dettagliata descrizione delle
 configurazioni hardware / software necessarie per seguirne i lavori.
 L'invio della documentazione deve essere fatto esclusivamente attraverso questo indirizzo 
 [https://forms.gle/TCPNg7NNC3UvnFiEA](https://forms.gle/TCPNg7NNC3UvnFiEA) entro e 
-non oltre l'improrogabile della mezzanotte del **30 giugno 2020**.
+non oltre la mezzanotte del **30 giugno 2020**.
 
 Ogni altro tipo di invio comporterà l'automatica esclusione dalla selezione, senza ulteriore comunicazione.
 
@@ -164,4 +164,4 @@ Le presentazioni non dovranno superare i **20 minuti**, seguiti da **5 minuti de
 Le presentazioni potranno essere tenute esclusivamente in **italiano** o in **inglese**.
 
 Per ulteriori informazioni ci potete contattare via email
-al'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
+all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
