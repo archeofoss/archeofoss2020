@@ -9,7 +9,7 @@ permalink: /
 - Termine ultimo per la notifica di accettazione delle proposte: **31 luglio 2020**
 - Termine ultimo per [l'invio](https://forms.gle/TCPNg7NNC3UvnFiEA) di proposte di workshop: mezzanotte del **30 giugno 2020**
 - Termine ultimo per la notifica di accettazione di workshop: **31 luglio 2020**
-- Termine ultimo per l'ivio delle proposte di demo: **mezzanotte del 31 agosto 2020**
+- Termine ultimo per l'invio delle proposte di demo: **mezzanotte del 31 agosto 2020**
 - Date del convegno: **15, 16, 17 ottobre 2020**
 
 ---
