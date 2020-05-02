@@ -1,7 +1,8 @@
 title: ArcheoFOSS 2020
 description: >
   Edizione XIV | 2020 del convegno internazionale ArcheoFOSS: software, hardware, processi, dati e formati aperti nella ricerca archeologica
-logo: archeofoss.png
+logo: images/archeofoss.png
+url: https://2020.archeofoss.org
 
 exclude:
   - site
