@@ -1,5 +1,5 @@
 ---
-title: "Call for papers: ArcheoFOSS XIV 2020"
+title: "ArcheoFOSS XIV 2020"
 description: "Call for papers, workshops & demos per la XIV edizione del convegno Internazionale ArcheoFOSS: software, hardware, processi, dati e formati aperti nella ricerca archeologica"
 layout: home
 permalink: /
