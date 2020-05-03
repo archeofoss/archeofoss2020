@@ -101,4 +101,43 @@ jQuery(document).ready(function($) {
   };
   siteScroll();
 
+  $('strong').each((i, e)=> {
+    const text = $(e).text();
+    const mesi = [
+      'gennaio',
+      'febbraio',
+      'marzo',
+      'aprile',
+      'maggio',
+      'giugno',
+      'luglio',
+      'agosto',
+      'settembre',
+      'ottobre',
+      'novembre',
+      'dicembre',
+    ];
+    const pattern = `(mezzanotte|mezzogiorno)\\s+(del)\\s+([0-9]{1,2})\\s+(${mesi.join('|')})\\s+([0-9]{2,4})`;
+    const regex = new RegExp(pattern, "i");
+    const found = text.match(regex);
+    if (found){
+      const hour = found[1] === 'mezzanotte' ? '23:59' : '12:00';
+      const day = found[3];
+      const month = mesi.indexOf(found[4]) + 1;
+      const year = found[5];
+
+      const endDate = new Date(`${year}/${month}/${day} ${hour}`).getTime();
+      const now = new Date().getTime();
+
+      const remainingMs = endDate - now;
+
+      if (remainingMs > 0){
+        $(e).append(` <span class="text-success"> &rarr; mancano ${Math.floor(remainingMs / (1000 * 60 * 60 * 24))} giorni!</span>`);
+      } else {
+        $(e).append(` <span class="text-danger">Termine scaduto!</span>`);
+      }
+    }
+    
+  })
+
 });
