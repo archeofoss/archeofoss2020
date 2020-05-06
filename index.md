@@ -22,7 +22,9 @@ permalink: /
 # Call for papers
 La quattordicesima edizione del **Convegno Internazionale ArcheoFOSS. 
 Software, hardware, processi, dati e formati open nella ricerca archeologica** 
-si svolgerà online nei giorni **15, 16 e 17 Ottobre 2020**.
+si svolgerà, a causa della situazione determinatasi per COVID-19, 
+**online** nei giorni **15, 16 e 17 Ottobre 2020**. Le modalità, e dettagli pratici
+di svolgimento saranno comunicati più avanti e con largo anticipo.
 
 Il Convegno accoglie contributi relativi alle tematiche connesse alla 
 condivisione di dati, agli strumenti e processi operativi open e libre 
