@@ -157,7 +157,7 @@ entro e non oltre la **mezzanotte del 31 agosto 2020**.
 
 **Prima del convegno**
 
-Gli abstract delle proposte di intervento e di poster approvati, comprensivi della biografia breve (massimo 700 battute), foto, affiliazione e indirizzo email di contatto degli autori  saranno raccolti in un volume edito in golden open access e in formato elettronico. Il volume sarà distribuito a tutti gli autori e ai partecipanti che ne faranno richiesta e sarà liberamente scaricabile dal sito web di ArcheoFOSS.
+Gli abstract delle proposte di intervento approvate, comprensivi della biografia breve (massimo 700 battute), foto, affiliazione e indirizzo email di contatto degli autori  saranno raccolti in un volume edito in golden open access e in formato elettronico. Il volume sarà distribuito a tutti gli autori e ai partecipanti che ne faranno richiesta e sarà liberamente scaricabile dal sito web di ArcheoFOSS.
 
 **Dopo il convegno**
 
