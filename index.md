@@ -133,7 +133,7 @@ Ogni altro tipo di invio comporterà l'automatica esclusione dalla selezione, se
 ---
 
 # Call for demos
-Il convegno prevede, infine, una sessione demo che verranno ospitari 
+Il convegno prevede, infine, una sessione demo che verranno ospitati 
 nelle repository ufficiali di ArcheoFOSS. Sarà possibile pubblicare 
 demo di applicazioni e o mashup web che si vogliono condividere con 
 tutti i partecipanti. È possibile condividere, video, presentazioni 
@@ -145,7 +145,7 @@ L'ultimo giorno del convegno verrà fatta una presentazione generale di tutte le
 
 ## Invio della proposta di demo
 Le eventuali proposte di demo devono essere concordate con il comitato organizzatore, 
-che va contattato via email ([info@archeofoss.org](mailto:info@archeofoss.org)) 
+che va contattato via email ([contributi@archeofoss.org](mailto:contributi@archeofoss.org)) 
 entro e non oltre la **mezzanotte del 31 agosto 2020**.
 
 ---
