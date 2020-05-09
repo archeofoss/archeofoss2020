@@ -76,7 +76,7 @@
                   {% endfor %}
                   <li class="border-left">
                     {% if page.lang == "en" %}
-                    <a href="{{ page.url | replace: "en", "" }}" class="nav-link">Italiano</a>
+                    <a href="{{ page.url | replace: "en/", "" }}" class="nav-link">Italiano</a>
                     {% else %}
                     <a href="/en{{ page.url }}" class="nav-link">English</a>
                     {% endif %}
