@@ -1,13 +1,23 @@
 - title: Papers
+  title_en: Papers
   url: /#call-for-papers
+  url_en: /#call-for-papers
 - title: Workshops
+  title_en: Workshops
   url: /#call-for-workshops
+  url_en: /#call-for-workshops
 - title: Demos
+  title_en: Demos
   url: /#call-for-demos
+  url_en: /#call-for-demos
 - title: Atti
+  title_en: Proceedings
   url: /#pubblicazione-degli-atti
+  url_en: /#publication-of-the-proceedings
 - title: Info
+  title_en: Info
   url: /#ulteriori-informazioni
+  url_en: /#further-information
 
 # - title: Convegni
 #   url: /convegni

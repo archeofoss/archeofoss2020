@@ -63,11 +63,24 @@
                 <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
                   {% for item in site.data.menu %}
                   <li>
-                    <a href="{{ item.url | relative_url }}" title="{{ item.title }}" class="nav-link">
-                      {{ item.title }}
-                    </a>
+                      {% if page.lang == "en" %}
+                      <a href="{{ item.url_en | relative_url }}" title="{{ item.title }}" class="nav-link">
+                        {{ item.title_en }}
+                      </a>
+                      {% else %}
+                      <a href="{{ item.url | relative_url }}" title="{{ item.title }}" class="nav-link">
+                        {{ item.title }}
+                      </a>
+                      {% endif %}
                   </li>
                   {% endfor %}
+                  <li class="border-left">
+                    {% if page.lang == "en" %}
+                    <a href="{{ page.url | replace: "en", "" }}" class="nav-link">Italiano</a>
+                    {% else %}
+                    <a href="/en{{ page.url }}" class="nav-link">English</a>
+                    {% endif %}
+                </li>
                 </ul>
               </nav>
             </div>
