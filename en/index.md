@@ -7,7 +7,7 @@ lang: en
 ---
 
 # TL;DR
-- Deadline for [abstract submissions]((https://forms.gle/yEqVdk2ApBTSLJoP6)): **30/06/2020**
+- Deadline for [abstract submissions](https://forms.gle/yEqVdk2ApBTSLJoP6): **30/06/2020**
 - Notification of acceptance of the abstracts: **31/07/2020**
 - Deadline for [workshop submission](https://forms.gle/TCPNg7NNC3UvnFiEA): **30/06/2020**
 - Notification of acceptance of the workshops: **31/07/2020**
