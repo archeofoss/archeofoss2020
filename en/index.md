@@ -14,7 +14,7 @@ lang: en
 - Deadline for demo submission: **31/08/2020**
 - Conference dates: **15,16, 17 October, 2020**
 - [Scarica la call in italiano, in formato PDF](../call-for-papers-ArcheoFOSS-XIV-2020-it.pdf)
-- [Download the call in inglese, in PDF format](../call-for-papers-ArcheoFOSS-XIV-2020-en.pdf)
+- [Download the call in English, in PDF format](../call-for-papers-ArcheoFOSS-XIV-2020-en.pdf)
 - **Do not forget to share!**
     - [Share on Telegram](https://telegram.me/share/url?url=https://2020.archeofoss.org&text=Opened+call+for+papers+workshops+and+demos)
     - [Share on WhatsApp](https://wa.me/?text=https://2020.archeofoss.org+Opened+call+for+papers+workshops+and+demos)
@@ -102,7 +102,7 @@ and its publication through ArcheoFOSS communication channels;
 - Applicants are required to provide teaching material to the ArcheoFOSS organizing 
 committee, who may publish the material on its website and/or in its public repositories..
 
-## Invio della proposta di workshop
+## Workshop proposal submission
 The proposal (3000 characters max.), which shall include a detailed description 
 of the practical purposes of the workshop and detailed information on required
 hardware/software configuration, must be submitted through this link: 
