@@ -205,5 +205,5 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 - Saverio **Malatesta**
 - Luca **Mandolesi**
 - Riccardo **Montalbano**
-- Augusto **Palombi**
+- Augusto **Palombini**
 - Paolo **Rosati**

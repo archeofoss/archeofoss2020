@@ -181,5 +181,5 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Saverio **Malatesta**
 - Luca **Mandolesi**
 - Riccardo **Montalbano**
-- Augusto **Palombi**
+- Augusto **Palombini**
 - Paolo **Rosati**
