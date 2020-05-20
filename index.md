@@ -174,3 +174,36 @@ Le presentazioni potranno essere tenute esclusivamente in **italiano** o in **in
 
 Per ulteriori informazioni ci potete contattare via email
 all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
+
+---
+
+# Chi siamo
+
+## Comitato scientifico
+- Luca **Bezzi**
+- Paola **Buzi**
+- Marco **Callieri**
+- Enzo **Cocca**
+- Andrea **D'Andrea**
+- Benjamin **Ducke**
+- Gabriele **Gattiglia**
+- Antonella **Guidazzoli**
+- Anna **Marras**
+- Paola **Moscati**
+- Antonella **Negri**
+- Silvia **Orlandi**
+- Sofia **Pescarin**
+- Alessandro **Pintucci** 
+- Serena **Sensini**
+- Mirella **Serlorenzi**
+- Valeria **Vitale**
+
+## Comitato organizzativo
+- Julian **Bogdani**
+- Emanuel **Demetrescu**
+- Sara **Gonizzi**
+- Saverio **Malatesta**
+- Luca **Mandolesi**
+- Riccardo **Montalbano**
+- Augusto **Palombi**
+- Paolo **Rosati**

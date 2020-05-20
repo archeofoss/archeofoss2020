@@ -150,3 +150,36 @@ Presentations should last no longer than 20 minutes;
 The official conference languages are English and Italian.
 
 For any further information, please contact us at: [info@archeofoss.org](mailto:info@archeofoss.org).
+
+---
+
+# About
+
+## Scientific comiteee
+- Luca **Bezzi**
+- Paola **Buzi**
+- Marco **Callieri**
+- Enzo **Cocca**
+- Andrea **D'Andrea**
+- Benjamin **Ducke**
+- Gabriele **Gattiglia**
+- Antonella **Guidazzoli**
+- Anna **Marras**
+- Paola **Moscati**
+- Antonella **Negri**
+- Silvia **Orlandi**
+- Sofia **Pescarin**
+- Alessandro **Pintucci** 
+- Serena **Sensini**
+- Mirella **Serlorenzi**
+- Valeria **Vitale**
+
+## Organizing committee
+- Julian **Bogdani**
+- Emanuel **Demetrescu**
+- Sara **Gonizzi**
+- Saverio **Malatesta**
+- Luca **Mandolesi**
+- Riccardo **Montalbano**
+- Augusto **Palombi**
+- Paolo **Rosati**
