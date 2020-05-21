@@ -175,11 +175,11 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Valeria **Vitale**, Pelagios Commons. London
 
 ## Organizing committee
-- Julian **Bogdani**
-- Emanuel **Demetrescu**
-- Sara **Gonizzi**
-- Saverio **Malatesta**
-- Luca **Mandolesi**
-- Riccardo **Montalbano**
-- Augusto **Palombini**
-- Paolo **Rosati**
+- Julian **Bogdani**, Sapienza Università di Roma
+- Emanuel **Demetrescu**, CNR. Rome
+- Sara **Gonizzi Barsanti**, Politecnico di Milano
+- Saverio G. **Malatesta**, DigiLab, Sapienza Università di Roma
+- Luca **Mandolesi**, Ad Arte snc. Rimini
+- Riccardo **Montalbano**, International Telematic University Uninettuno
+- Augusto **Palombini**, CNR, Roma
+- Paolo **Rosati**, Sapienza Università di Roma

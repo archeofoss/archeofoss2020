@@ -199,11 +199,11 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 - Valeria **Vitale**, Pelagios Commons. Londra
 
 ## Comitato organizzativo
-- Julian **Bogdani**
-- Emanuel **Demetrescu**
-- Sara **Gonizzi**
-- Saverio **Malatesta**
-- Luca **Mandolesi**
-- Riccardo **Montalbano**
-- Augusto **Palombini**
-- Paolo **Rosati**
+- Julian **Bogdani**, Sapienza Università di Roma
+- Emanuel **Demetrescu**, CNR. Roma
+- Sara **Gonizzi Barsanti**, Politecnico di Milano
+- Saverio **Malatesta**, DigiLab, Sapienza Università di Roma
+- Luca **Mandolesi**, Ad Arte snc. Rimini
+- Riccardo **Montalbano**, Università Internazionale Telematica Uninettuno
+- Augusto **Palombini**, CNR, Roma
+- Paolo **Rosati**, Sapienza Università di Roma
