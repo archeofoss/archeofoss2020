@@ -179,7 +179,7 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Emanuel **Demetrescu**, CNR. Rome
 - Sara **Gonizzi Barsanti**, Politecnico di Milano
 - Saverio G. **Malatesta**, DigiLab, Sapienza Università di Roma
-- Luca **Mandolesi**, Ad Arte snc. Rimini
+- Luca **Mandolesi**, adArte Srl. Rimini
 - Riccardo **Montalbano**, International Telematic University Uninettuno
 - Augusto **Palombini**, CNR, Roma
 - Paolo **Rosati**, Sapienza Università di Roma

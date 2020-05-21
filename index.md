@@ -203,7 +203,7 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 - Emanuel **Demetrescu**, CNR. Roma
 - Sara **Gonizzi Barsanti**, Politecnico di Milano
 - Saverio **Malatesta**, DigiLab, Sapienza Università di Roma
-- Luca **Mandolesi**, Ad Arte snc. Rimini
+- Luca **Mandolesi**, adArte Srl. Rimini
 - Riccardo **Montalbano**, Università Internazionale Telematica Uninettuno
 - Augusto **Palombini**, CNR, Roma
 - Paolo **Rosati**, Sapienza Università di Roma
