@@ -180,23 +180,23 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 # Chi siamo
 
 ## Comitato scientifico
-- Luca **Bezzi**
-- Paola **Buzi**
-- Marco **Callieri**
-- Enzo **Cocca**
-- Andrea **D'Andrea**
-- Benjamin **Ducke**
-- Gabriele **Gattiglia**
-- Antonella **Guidazzoli**
-- Anna **Marras**
-- Paola **Moscati**
-- Antonella **Negri**
-- Silvia **Orlandi**
-- Sofia **Pescarin**
-- Alessandro **Pintucci** 
-- Serena **Sensini**
-- Mirella **Serlorenzi**
-- Valeria **Vitale**
+- Luca **Bezzi**, ArcTeam. Cles (TN)
+- Paola **Buzi**, Sapienza Università di Roma
+- Marco **Callieri**, CNR-ISTI. Roma
+- Enzo **Cocca**, Southampton University
+- Andrea **D'Andrea**, Università di Napoli L'Orientale
+- Benjamin **Ducke**, DAI. Berlino
+- Gabriele **Gattiglia**, Università di Pisa
+- Antonella **Guidazzoli**, CINECA. Bologna
+- Anna **Marras**, ICOM
+- Paola **Moscati**, CNR. Roma
+- Antonella **Negri**, ICCD. Roma
+- Silvia **Orlandi**, Sapienza Università di Roma
+- Sofia **Pescarin**, CNR. Bologna
+- Alessandro **Pintucci**, Archeologo, Sviluppatore QGIS
+- Serena **Sensini**, Università degli Studi di Roma "Tor Vergata". Roma
+- Mirella **Serlorenzi**, MiBACT. Roma
+- Valeria **Vitale**, Pelagios Commons. Londra
 
 ## Comitato organizzativo
 - Julian **Bogdani**
