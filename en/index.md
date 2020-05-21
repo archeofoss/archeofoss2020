@@ -156,12 +156,12 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 # About
 
 ## Scientific comiteee
-- Luca **Bezzi**, ArcTeam. Cles (TN)
+- Luca **Bezzi**, ArcTeam. Cles, Trento
 - Paola **Buzi**, Sapienza Università di Roma
 - Marco **Callieri**, CNR-ISTI. Roma
 - Enzo **Cocca**, Southampton University
 - Andrea **D'Andrea**, Università di Napoli L'Orientale
-- Benjamin **Ducke**, DAI. Berlino
+- Benjamin **Ducke**, DAI. Berlin
 - Gabriele **Gattiglia**, Università di Pisa
 - Antonella **Guidazzoli**, CINECA. Bologna
 - Anna **Marras**, ICOM
@@ -169,10 +169,10 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Antonella **Negri**, ICCD. Roma
 - Silvia **Orlandi**, Sapienza Università di Roma
 - Sofia **Pescarin**, CNR. Bologna
-- Alessandro **Pintucci**, Archeologo, Sviluppatore QGIS
+- Alessandro **Pintucci**, Archeologo, QGIS developer
 - Serena **Sensini**, Università degli Studi di Roma "Tor Vergata". Roma
 - Mirella **Serlorenzi**, MiBACT. Roma
-- Valeria **Vitale**, Pelagios Commons. Londra
+- Valeria **Vitale**, Pelagios Commons. London
 
 ## Organizing committee
 - Julian **Bogdani**
