@@ -193,7 +193,7 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 - Antonella **Negri**, ICCD. Roma
 - Silvia **Orlandi**, Sapienza Università di Roma
 - Sofia **Pescarin**, CNR. Bologna
-- Alessandro **Pintucci**, Archeologo, Sviluppatore QGIS
+- Alessandro **Pintucci**, Archeologo, Ricercatore indipendente
 - Serena **Sensini**, Università degli Studi di Roma "Tor Vergata". Roma
 - Mirella **Serlorenzi**, MiBACT. Roma
 - Valeria **Vitale**, Pelagios Commons. Londra

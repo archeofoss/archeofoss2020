@@ -158,20 +158,20 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 ## Scientific comiteee
 - Luca **Bezzi**, ArcTeam. Cles, Trento
 - Paola **Buzi**, Sapienza Università di Roma
-- Marco **Callieri**, CNR-ISTI. Roma
+- Marco **Callieri**, CNR-ISTI. Rome
 - Enzo **Cocca**, Southampton University
 - Andrea **D'Andrea**, Università di Napoli L'Orientale
 - Benjamin **Ducke**, DAI. Berlin
 - Gabriele **Gattiglia**, Università di Pisa
 - Antonella **Guidazzoli**, CINECA. Bologna
 - Anna **Marras**, ICOM
-- Paola **Moscati**, CNR. Roma
-- Antonella **Negri**, ICCD. Roma
+- Paola **Moscati**, CNR. Rome
+- Antonella **Negri**, ICCD. Rome
 - Silvia **Orlandi**, Sapienza Università di Roma
 - Sofia **Pescarin**, CNR. Bologna
-- Alessandro **Pintucci**, Archeologo, QGIS developer
-- Serena **Sensini**, Università degli Studi di Roma "Tor Vergata". Roma
-- Mirella **Serlorenzi**, MiBACT. Roma
+- Alessandro **Pintucci**, Archaeologist, Indipendent researcher
+- Serena **Sensini**, Università degli Studi di Roma "Tor Vergata". Rome
+- Mirella **Serlorenzi**, MiBACT. Rome
 - Valeria **Vitale**, Pelagios Commons. London
 
 ## Organizing committee
@@ -181,5 +181,5 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Saverio G. **Malatesta**, DigiLab, Sapienza Università di Roma
 - Luca **Mandolesi**, adArte Srl. Rimini
 - Riccardo **Montalbano**, International Telematic University Uninettuno
-- Augusto **Palombini**, CNR, Roma
+- Augusto **Palombini**, CNR. Rome
 - Paolo **Rosati**, Sapienza Università di Roma
