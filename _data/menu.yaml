@@ -22,15 +22,7 @@
   title_en: About
   url: '#chi-siamo'
   url_en: '#about'
-
-# - title: Convegni
-#   url: /convegni
-
-# - title: Discorsi su ArcheoFOSS
-#   url: https://discorsi.archeofoss.org/
-
-# - title: Archivio
-#   url: https://archivio.archeofoss.org/
-
-# - title: Contatti
-#   url: /contatti
+- title: Archivio
+  title_en: Archive
+  url: 'https://archivio.archeofoss.org'
+  url_en: 'https://archivio.archeofoss.org'
