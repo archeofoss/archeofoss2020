@@ -180,23 +180,58 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 # Chi siamo
 
 ## Comitato scientifico
-- Luca **Bezzi**, ArcTeam. Cles (TN)
-- Paola **Buzi**, Sapienza Università di Roma
-- Marco **Callieri**, CNR-ISTI. Roma
-- Enzo **Cocca**, Southampton University
-- Andrea **D'Andrea**, Università di Napoli L'Orientale
-- Benjamin **Ducke**, DAI. Berlino
-- Gabriele **Gattiglia**, Università di Pisa
-- Antonella **Guidazzoli**, CINECA. Bologna
-- Anna **Marras**, ICOM
-- Paola **Moscati**, CNR. Roma
-- Antonella **Negri**, ICCD. Roma
-- Silvia **Orlandi**, Sapienza Università di Roma
-- Sofia **Pescarin**, CNR. Bologna
-- Alessandro **Pintucci**, Archeologo, Ricercatore indipendente
-- Serena **Sensini**, Università degli Studi di Roma "Tor Vergata". Roma
-- Mirella **Serlorenzi**, MiBACT. Roma
-- Valeria **Vitale**, Pelagios Commons. Londra
+- **Luca Bezzi**, ArcTeam. Cles (TN)  
+[luca.bezzi@arc-team.com](luca.bezzi@arc-team.com)  
+Ricercatore indipendente e socio di ArcTeam, Cles (TN); fondatore del convegno ArcheoFOSS; esperto e sviluppatore di soluzioni software e hardware per la ricerca archeologica.
+- **Paola Buzi**, Sapienza Università di Roma  
+[paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.it)  
+Professore Ordinario di  Egittologia e Civiltà Copta presso Sapienza Università di Roma; PI del Progetto ERC Advanced 'PAThs' Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, il più importante portale di open data dedicato alla storia e archeologia dell'Egitto tardoantico e medievale.
+- **Marco Callieri**, CNR-ISTI. Roma  
+[marco.callieri@isti.cnr.it](mailto:marco.callieri@isti.cnr.it)  
+Primo Ricercatore presso il Visual Computing Lab, CNR-ISTI, Pisa. Campo di ricerca: 3D Computer Graphics applicata ai beni culturali. Sviluppatore dei software open MeshLab e 3DHOP.
+- **Enzo Cocca**, ISMEO. Roma  
+[enzo.ccc@gmail.com](mailto:enzo.ccc@gmail.com)  
+Socio ISMEO (International Association of Mediterranean and Oriental Studies); consulente GIS per la Honor Frost Foundation (Southampton) per la quale si occupa della gestione dati di survey archeologiche marittime e terrestri in Libano. Tramite la HFF collabora anche con l'EAMENA proj (Endangered Archaeology in the Middle East and North Africa); Pyarchinit developer; HFF-system survey developer.
+- **Andrea D'Andrea**, Università di Napoli L’Orientale  
+[dandrea@unior.it](mailto:dandrea@unior.it)  
+Università di Napoli L'Orientale. Direttore del Centro Interdipartimentale di Servizi di Archeologia dell'Università degli Studi di Napoli L'Orientale. Direttore della Missione Archeologica ad Abou Ghurab (Cairo, Egypt) in collaborazione con il Ministero degli Affari Esteri e Università degli Studi di Napoli L'Orientale.
+- **Benjamin Ducke**, DAI. Berlino  
+[benjamin.ducke@dainst.de](mailto:benjamin.ducke@dainst.de)  
+Direttore del Dipartimento di Tecnologia dell'Informazione - Istituto Archeologico Germanico (DAI), sede centrale di Berlino. È responsabile dello sviluppo e dell'implementazione di software Open Source per l'archeologia e dell'infrastruttura di ricerca dell'Istituto (iDAI.world).  Le sue aree di interesse sono l'analisi spaziale e statistica, i sistemi di informazione geografica, le infrastrutture di dati spaziali, il remote sensing, la modellazione 3D, i sensor data, i modelli predittivi in ambito archeologico.
+- **Gabriele Gattiglia**, Università di Pisa  
+[gabriele.gattiglia@unipi.it](mailto:gabriele.gattiglia@unipi.it)  
+Ricercatore di Metodologie della Ricerca archeologica presso l'Università di Pisa. Coordinatore del ArchAIDE Project. Vicedirettore del MAPPA project.
+- **Antonella Guidazzoli**, CINECA. Bologna  
+[a.guidazzoli@cineca.it](mailto:a.guidazzoli@cineca.it)  
+CINECA e Università di Bologna; Responsabile del VISIT (Visual Information Technology) Lab CINECA.
+- **Anna Marras**, ICOM  
+[am.marras@gmail.com](mailto:am.marras@gmail.com)  
+Università di Torino, AVICOM Board, coordinatrice Commissione Tecnologie Digitali ICOM Italia, vicepresidente Associazione Torino+ cultura accessibile
+- **Paola Moscati**, CNR. Roma  
+[paola.moscati@cnr.it](mailto:paola.moscati@cnr.it)  
+CNR, dal 1990 è Direttore responsabile della Rivista «Archeologia e Calcolatori».
+- **Antonella Negri**, ICCD. Roma  
+[antonella.negri@beniculturali.it](mailto:antonella.negri@beniculturali.it)  
+Istituto Centrale per il Catalogo e la Documentazione (ICCD) - Ministero per i Beni e le Attività Culturali e per il Turismo (MiBACT). Funzionario architetto, responsabile del “Servizio per la qualità del Catalogo generale” e referente del Sistema Informativo Generale del Catalogo (SIGECweb).
+- **Silvia Orlandi**, Sapienza Università di Roma  
+[silvia.orlandi@uniroma1.it](mailto:silvia.orlandi@uniroma1.it)  
+Professore associato di Epigrafia presso Sapienza. Università di Roma. Direttore dell'Epigraphic Database of Rome (EDR).
+- **Sofia Pescarin**, CNR. Bologna  
+[sofia.pescarin@cnr.it](mailto:sofia.pescarin@cnr.it)  
+CNR e Università di Bologna; ex responsabile del "Virtual Heritage: tecnologie digitali integrate per la conoscenza, la valorizzazione e la comunicazione dei beni culturali attraverso sistemi di realtà virtuale"; Chief Editor dal 2017 di «Elsevier Digital Application in Archaeology and Cultural Heritage» (DAACH); ha coordinato e seguito numerosi progetti nel settore “Virtual Heritage”.
+- **Alessandro Pintucci**, Archeologo, Ricercatore indipendente  
+[alessandro.pintucci@gmail.com](mailto:alessandro.pintucci@gmail.com)
+Archeologo esperto di sistemi informativi territoriali e applicazioni aperte per la modellazione 3D in ambito archeologico.
+- **Serena Sensini**, Università degli Studi di Roma "Tor Vergata". Roma  
+[serena.sensini@gmail.com](mailto:serena.sensini@gmail.com)
+Università degli Studi Roma Tre - Si occupa di librerie open source per educazione e divulgazione. Fondatrice di @LugRomaTre; Python developer; Pyarchinit developer.
+- **Mirella Serlorenzi**, MiBACT. Roma  
+[mirella.serlorenzi@beniculturali.it](mailto:mirella.serlorenzi@beniculturali.it)  
+Funzionario MiBACT, dal 2007 dirige e coordina il progetto SITAR (Sistema Informativo Territoriale Archeologico di Roma) della Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma, per la realizzazione del primo catasto archeologico della Città. Ha curato gli atti della VII Edizione ArcheoFOSS.
+- **Valeria Vitale**, Pelagios Commons. Londra  
+[valeria.vitale@sas.ac.uk](valeria.vitale@sas.ac.uk)  
+University of London. Pelagios Commons Education Director. Esperta di 3D per i Beni Culturali e di Linked Open Data.
+
 
 ## Comitato organizzativo
 - Julian **Bogdani**, Sapienza Università di Roma
