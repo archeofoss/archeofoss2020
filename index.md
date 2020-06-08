@@ -229,11 +229,11 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
     - Vicepresidente Associazione Torino+ cultura accessibile
 - **Paola Moscati**, CNR. Roma  
 [paola.moscati@cnr.it](mailto:paola.moscati@cnr.it)  
-    - CNR, Dirigente di Ricerca presso l’ISMA.
-    - Dal 1990 è Direttore responsabile della Rivista «Archeologia e Calcolatori».
-    - Socio fondatore dell’International Academy of Humanities Computing and Digital Humanities
-    - Responsabile scientifico del progetto di ricerca internazionale “La storia dell’informatica archeologica”
-    - Ha da sempre supportato, con Archeologia e calcolatori, il convegno ArcheoFOSS dalla sua nascita.
+    - CNR, Dirigente di Ricerca presso l’ISPC.
+    - Dal 1990 dirige la Rivista «Archeologia e Calcolatori».
+    - Socio fondatore dell’International Academy of Humanities Computing and Digital Humanities.
+    - Responsabile scientifico del progetto di ricerca internazionale “La storia dell’informatica archeologica”, condotto d’intesa con l’Accademia Nazionale dei Lincei.
+    - Ha supportato il convegno ArcheoFOSS dalla sua nascita, ospitando gli Atti di numerose edizioni nella rivista «Archeologia e Calcolatori».
 - **Antonella Negri**, ICCD. Roma  
 [antonella.negri@beniculturali.it](mailto:antonella.negri@beniculturali.it)  
     - Istituto Centrale per il Catalogo e la Documentazione (ICCD) - Ministero per i Beni e le Attività Culturali e per il Turismo (MiBACT). 
