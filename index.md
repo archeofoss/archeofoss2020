@@ -190,6 +190,10 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
     - Professore Ordinario di  Egittologia e Civiltà Copta presso Sapienza Università di Roma
     - Professore Onorario di Egittologia all'Hamburg University
     - PI del Progetto ERC Advanced 'PAThs' Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, il più importante portale di open data dedicato alla storia e archeologia dell'Egitto tardoantico e medievale.
+- **Elena Calandra**, MIBACT. Roma
+[ic-archeo@beniculturali.it](mailto:ic-archeo@beniculturali.it)
+    - Dirigente del Servizio II - Scavi e tutela del patrimonio archeologico, Direzione generale Archeologia, Belle Arti e Paesaggio
+    - Direttore ad interim dell'Istituto Centrale per l'Archeologia
 - **Marco Callieri**, CNR-ISTI. Roma  
 [marco.callieri@isti.cnr.it](mailto:marco.callieri@isti.cnr.it)  
     - Primo Ricercatore presso il Visual Computing Lab, CNR-ISTI, Pisa.

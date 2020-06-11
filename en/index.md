@@ -158,6 +158,7 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 ## Scientific comiteee
 - Luca **Bezzi**, ArcTeam. Cles, Trento
 - Paola **Buzi**, Sapienza Università di Roma
+- Elena **Calandra**, MIBACT. Rome
 - Marco **Callieri**, CNR-ISTI. Rome
 - Enzo **Cocca**, Southampton University
 - Andrea **D'Andrea**, Università di Napoli L'Orientale
