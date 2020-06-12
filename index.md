@@ -184,47 +184,47 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 [luca.bezzi@arc-team.com](luca.bezzi@arc-team.com)
     - Ricercatore indipendente e socio di ArcTeam, Cles (TN)
     - Fondatore del convegno ArcheoFOSS
-    - Esperto e sviluppatore di soluzioni software e hardware per la ricerca archeologica.
+    - Esperto e sviluppatore di soluzioni software e hardware per la ricerca archeologica
 - **Paola Buzi**, Sapienza Università di Roma  
 [paola.buzi@uniroma1.it](mailto:paola.buzi@uniroma1.it)
     - Professore Ordinario di  Egittologia e Civiltà Copta presso Sapienza Università di Roma
     - Professore Onorario di Egittologia all'Hamburg University
-    - PI del Progetto ERC Advanced 'PAThs' Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, il più importante portale di open data dedicato alla storia e archeologia dell'Egitto tardoantico e medievale.
+    - PI del Progetto ERC Advanced 'PAThs' Tracking Papyrus and Parchment Paths An Archaeological Atlas of Coptic Literature, il più importante portale di open data dedicato alla storia e archeologia dell'Egitto tardoantico e medievale
 - **Elena Calandra**, MiBACT. Roma  
 [ic-archeo@beniculturali.it](mailto:ic-archeo@beniculturali.it)
     - MiBACT, Dirigente del Servizio II - Scavi e tutela del patrimonio archeologico, Direzione generale Archeologia, Belle Arti e Paesaggio
     - Direttore _ad interim_ dell'Istituto Centrale per l'Archeologia
 - **Marco Callieri**, CNR-ISTI. Roma  
 [marco.callieri@isti.cnr.it](mailto:marco.callieri@isti.cnr.it)  
-    - Primo Ricercatore presso il Visual Computing Lab, CNR-ISTI, Pisa.
-    - Campo di ricerca: 3D Computer Graphics applicata ai beni culturali.
-    - Sviluppatore dei software open MeshLab e 3DHOP.
+    - Primo Ricercatore presso il Visual Computing Lab, CNR-ISTI, Pisa
+    - Campo di ricerca: 3D Computer Graphics applicata ai beni culturali
+    - Sviluppatore dei software open MeshLab e 3DHOP
 - **Enzo Cocca**, ISMEO. Roma  
 [enzo.ccc@gmail.com](mailto:enzo.ccc@gmail.com)
     - Socio ISMEO (International Association of Mediterranean and Oriental Studies)
-    - Consulente GIS per la Honor Frost Foundation (Southampton) per la quale si occupa della gestione dati di survey archeologiche marittime e terrestri in Libano.
+    - Consulente GIS per la Honor Frost Foundation (Southampton) per la quale si occupa della gestione dati di survey archeologiche marittime e terrestri in Libano
     - Tramite la HFF collabora anche con l'EAMENA proj (Endangered Archaeology in the Middle East and North Africa)
     - Sviluppatore Pyarchinit
-    - Sviluppatore HFF-system survey.
+    - Sviluppatore HFF-system survey
 - **Andrea D'Andrea**, Università di Napoli L’Orientale  
 [dandrea@unior.it](mailto:dandrea@unior.it)  
-    - Università di Napoli L'Orientale. 
-    - Direttore del Centro Interdipartimentale di Servizi di Archeologia dell'Università degli Studi di Napoli L'Orientale. 
-    - Direttore della Missione Archeologica ad Abou Ghurab (Cairo, Egypt) in collaborazione con il Ministero degli Affari Esteri e Università degli Studi di Napoli L'Orientale.
+    - Università di Napoli L'Orientale.
+    - Direttore del Centro Interdipartimentale di Servizi di Archeologia dell'Università degli Studi di Napoli L'Orientale
+    - Direttore della Missione Archeologica ad Abou Ghurab (Cairo, Egypt) in collaborazione con il Ministero degli Affari Esteri e Università degli Studi di Napoli L'Orientale
 - **Benjamin Ducke**, DAI. Berlino  
 [benjamin.ducke@dainst.de](mailto:benjamin.ducke@dainst.de)  
-    - Direttore del Dipartimento di Tecnologia dell'Informazione - Istituto Archeologico Germanico (DAI), sede centrale di Berlino.
-    - Responsabile dello sviluppo e dell'implementazione di software Open Source per l'archeologia e dell'infrastruttura di ricerca dell'Istituto (iDAI.world).
-    - Le sue aree di interesse sono l'analisi spaziale e statistica, i sistemi di informazione geografica, le infrastrutture di dati spaziali, il remote sensing, la modellazione 3D, i sensor data, i modelli predittivi in ambito archeologico.
+    - Direttore del Dipartimento di Tecnologia dell'Informazione - Istituto Archeologico Germanico (DAI), sede centrale di Berlino
+    - Responsabile dello sviluppo e dell'implementazione di software Open Source per l'archeologia e dell'infrastruttura di ricerca dell'Istituto (iDAI.world)
+    - Le sue aree di interesse sono l'analisi spaziale e statistica, i sistemi di informazione geografica, le infrastrutture di dati spaziali, il remote sensing, la modellazione 3D, i sensor data, i modelli predittivi in ambito archeologico
 - **Gabriele Gattiglia**, Università di Pisa  
 [gabriele.gattiglia@unipi.it](mailto:gabriele.gattiglia@unipi.it)  
-    - Ricercatore di Metodologie della Ricerca archeologica presso l'Università di Pisa. 
-    - Coordinatore del ArchAIDE Project. 
-    - Vicedirettore del MAPPA project.
+    - Ricercatore di Metodologie della Ricerca archeologica presso l'Università di Pisa
+    - Coordinatore del ArchAIDE Project
+    - Vicedirettore del MAPPA project
 - **Antonella Guidazzoli**, CINECA. Bologna  
 [a.guidazzoli@cineca.it](mailto:a.guidazzoli@cineca.it)  
     - CINECA e Università di Bologna
-    - Responsabile del VISIT (Visual Information Technology) Lab CINECA.
+    - Responsabile del VISIT (Visual Information Technology) Lab CINECA
 - **Anna Marras**, ICOM  
 [am.marras@gmail.com](mailto:am.marras@gmail.com)  
     - Università di Torino
@@ -233,43 +233,43 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
     - Vicepresidente Associazione Torino+ cultura accessibile
 - **Paola Moscati**, CNR. Roma  
 [paola.moscati@cnr.it](mailto:paola.moscati@cnr.it)  
-    - CNR, Dirigente di Ricerca presso l’ISPC.
-    - Dal 1990 dirige la Rivista «Archeologia e Calcolatori».
-    - Socio fondatore dell’International Academy of Humanities Computing and Digital Humanities.
-    - Responsabile scientifico del progetto di ricerca internazionale “La storia dell’informatica archeologica”, condotto d’intesa con l’Accademia Nazionale dei Lincei.
-    - Ha supportato il convegno ArcheoFOSS dalla sua nascita, ospitando gli Atti di numerose edizioni nella rivista «Archeologia e Calcolatori».
+    - CNR, Dirigente di Ricerca presso l’ISPC
+    - Dal 1990 dirige la Rivista «Archeologia e Calcolatori»
+    - Socio fondatore dell’International Academy of Humanities Computing and Digital Humanities
+    - Responsabile scientifico del progetto di ricerca internazionale “La storia dell’informatica archeologica”, condotto d’intesa con l’Accademia Nazionale dei Lincei
+    - Ha supportato il convegno ArcheoFOSS dalla sua nascita, ospitando gli Atti di numerose edizioni nella rivista «Archeologia e Calcolatori»
 - **Antonella Negri**, ICCD. Roma  
 [antonella.negri@beniculturali.it](mailto:antonella.negri@beniculturali.it)  
-    - Istituto Centrale per il Catalogo e la Documentazione (ICCD) - Ministero per i Beni e le Attività Culturali e per il Turismo (MiBACT). 
-    - Funzionario architetto, responsabile del “Servizio per la qualità del Catalogo generale” e referente del Sistema Informativo Generale del Catalogo (SIGECweb).
+    - Istituto Centrale per il Catalogo e la Documentazione (ICCD) - Ministero per i Beni e le Attività Culturali e per il Turismo (MiBACT)
+    - Funzionario architetto, responsabile del “Servizio per la qualità del Catalogo generale” e referente del Sistema Informativo Generale del Catalogo (SIGECweb)
 - **Silvia Orlandi**, Sapienza Università di Roma  
 [silvia.orlandi@uniroma1.it](mailto:silvia.orlandi@uniroma1.it)  
-    - Professore associato di Epigrafia presso Sapienza. Università di Roma. 
-    - Direttore dell'Epigraphic Database of Rome (EDR).
+    - Professore associato di Epigrafia presso Sapienza. Università di Roma
+    - Direttore dell'Epigraphic Database of Rome (EDR)
 - **Sofia Pescarin**, CNR. Bologna  
 [sofia.pescarin@cnr.it](mailto:sofia.pescarin@cnr.it)  
     - CNR e Università di Bologna; ex responsabile del "Virtual Heritage: tecnologie digitali integrate per la conoscenza, la valorizzazione e la comunicazione dei beni culturali attraverso sistemi di realtà virtuale"
     - Chief Editor dal 2017 di «Elsevier Digital Application in Archaeology and Cultural Heritage» (DAACH)
-    - Ha coordinato e seguito numerosi progetti nel settore “Virtual Heritage”.
+    - Ha coordinato e seguito numerosi progetti nel settore “Virtual Heritage”
 - **Alessandro Pintucci**, Archeologo, Ricercatore indipendente  
 [alessandro.pintucci@gmail.com](mailto:alessandro.pintucci@gmail.com)
-    - Archeologo esperto di sistemi informativi territoriali e applicazioni aperte per la modellazione 3D in ambito archeologico.
+    - Archeologo esperto di sistemi informativi territoriali e applicazioni aperte per la modellazione 3D in ambito archeologico
 - **Serena Sensini**, Università degli Studi di Roma "Tor Vergata". Roma  
 [serena.sensini@gmail.com](mailto:serena.sensini@gmail.com)
     - Università degli Studi Roma Tre 
-    - Si occupa di librerie open source per educazione e divulgazione. 
+    - Si occupa di librerie open source per educazione e divulgazione
     - Fondatrice di @LugRomaTre
-    - Sviluppatrice Python e Pyarchinit.
+    - Sviluppatrice Python e Pyarchinit
 - **Mirella Serlorenzi**, MiBACT. Roma  
 [mirella.serlorenzi@beniculturali.it](mailto:mirella.serlorenzi@beniculturali.it)  
     - Funzionario MiBACT
-    - Dal 2007 dirige e coordina il progetto SITAR (Sistema Informativo Territoriale Archeologico di Roma) della Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma, per la realizzazione del primo catasto archeologico della Città.
-    - Ha curato gli atti della VII Edizione ArcheoFOSS.
+    - Dal 2007 dirige e coordina il progetto SITAR (Sistema Informativo Territoriale Archeologico di Roma) della Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma, per la realizzazione del primo catasto archeologico della Città
+    - Ha curato gli atti della VII Edizione ArcheoFOSS
 - **Valeria Vitale**, Pelagios Commons. Londra  
 [valeria.vitale@sas.ac.uk](valeria.vitale@sas.ac.uk)  
-    - University of London. 
-    - Pelagios Commons Education Director. 
-    - Esperta di 3D per i Beni Culturali e di Linked Open Data.
+    - University of London
+    - Pelagios Commons Education Director
+    - Esperta di 3D per i Beni Culturali e di Linked Open Data
 
 
 ## Comitato organizzativo
