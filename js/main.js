@@ -102,6 +102,7 @@ jQuery(document).ready(function($) {
   siteScroll();
 
   $('strong').each((i, e)=> {
+    let date_str;
     const text = $(e).text();
     const mesi = [
       'gennaio',
@@ -117,27 +118,43 @@ jQuery(document).ready(function($) {
       'novembre',
       'dicembre',
     ];
-    const pattern = `(mezzanotte|mezzogiorno)\\s+(del)\\s+([0-9]{1,2})\\s+(${mesi.join('|')})\\s+([0-9]{2,4})`;
-    const regex = new RegExp(pattern, "i");
-    const found = text.match(regex);
-    if (found){
-      const hour = found[1] === 'mezzanotte' ? '23:59' : '12:00';
-      const day = found[3];
-      const month = mesi.indexOf(found[4]) + 1;
-      const year = found[5];
+    const pattern_it = `^([0-9]{1,2})\\s+(${mesi.join('|')})\\s+([0-9]{2,4})$`;
+    const regex = new RegExp(pattern_it, "i");
+    const found_it = text.match(regex);
+    const found_en = text.match(/^([0-9]{1,2})\/([0-9]{1,2})\/([0-9]{2,4})$/);
 
-      const endDate = new Date(`${year}/${month}/${day} ${hour}`).getTime();
-      const now = new Date().getTime();
+    if (found_it){
+      date_str = `${found_it[3]}/${mesi.indexOf(found_it[2]) + 1}/${found_it[1]}`;
+    } else if (found_en){
+      date_str = `${found_en[3]}/${found_en[2]}/${found_en[1]}`;
+    } else {
+      return;
+    }
 
-      const remainingMs = endDate - now;
+    if (!date_str){
+      return;
+    }
 
-      if (remainingMs > 0){
+    const endDate = new Date(date_str).getTime()
+    const now = new Date().getTime();
+
+    const remainingMs = endDate - now;
+
+    if (remainingMs > 0){
+      if (found_it){
         $(e).append(` <span class="text-success"> &rarr; mancano ${Math.floor(remainingMs / (1000 * 60 * 60 * 24))} giorni!</span>`);
       } else {
+        $(e).append(` <span class="text-success"> &rarr; ${Math.floor(remainingMs / (1000 * 60 * 60 * 24))} days left!</span>`);
+      }
+    } else {
+      if (found_it){
         $(e).append(` <span class="text-danger">Termine scaduto!</span>`);
+      } else {
+        $(e).append(` <span class="text-danger">deadline expired!</span>`);
       }
     }
+
     
-  })
+  });
 
 });

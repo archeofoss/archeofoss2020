@@ -6,12 +6,13 @@ permalink: /
 ---
 
 # TL;DR
+**Aggiorgamento del 30/06/2020: Prolungamento dei termini**
 - Il convegno, i workshop e le demo si svolgeranno **online** a causa della pandemia causata dal COVID-19
-- Termine ultimo per [l'invio](https://forms.gle/yEqVdk2ApBTSLJoP6) degli abstract estesi: **mezzanotte del 30 giugno 2020**
-- Termine ultimo per la notifica di accettazione delle proposte: **31 luglio 2020**
-- Termine ultimo per [l'invio](https://forms.gle/TCPNg7NNC3UvnFiEA) di proposte di workshop: **mezzanotte del 30 giugno 2020**
+- Termine ultimo per [l'invio](https://forms.gle/yEqVdk2ApBTSLJoP6) degli abstract estesi: <strike>30 giugno 2020</strike> **12 luglio 2020** 
+- Termine ultimo per la notifica di accettazione delle proposte: <strike>31 luglio 2020</strike> **1 settembre 2020**
+- Termine ultimo per [l'invio](https://forms.gle/TCPNg7NNC3UvnFiEA) di proposte di workshop: <strike>30 giugno 2020</strike>**12 luglio 2020**
 - Termine ultimo per la notifica di accettazione di workshop: **31 luglio 2020**
-- Termine ultimo per l'invio delle proposte di demo: **mezzanotte del 31 agosto 2020**
+- Termine ultimo per l'invio delle proposte di demo: **31 agosto 2020**
 - Date del convegno: **15, 16, 17 ottobre 2020**
 - [Scarica la call in italiano, in formato PDF](./call-for-papers-ArcheoFOSS-XIV-2020-it.pdf)
 - [Download the call in English in PDF format](./call-for-papers-ArcheoFOSS-XIV-2020-en.pdf)
@@ -93,7 +94,7 @@ corredate da didascalie e da una breve biografia dell’autore o degli autori.
 Testi e immagini dovranno essere rilasciati con licenza CC BY-ND o licenze CC simili più aperte.
 L'invio della documentazione deve essere fatto esclusivamente attraverso questo link: 
 [https://forms.gle/yEqVdk2ApBTSLJoP6](https://forms.gle/yEqVdk2ApBTSLJoP6) entro e non
-oltre la **mezzanotte del 30 giugno 2020**.
+oltre il <strike>30 giugno 2020</strike> **12 luglio 2020**.
 
 Ogni altro tipo di invio comporterà l'automatica esclusione dalla selezione, senza ulteriore comunicazione.
 
@@ -130,7 +131,7 @@ delle finalità pratiche del workshop e una dettagliata descrizione delle
 configurazioni hardware / software necessarie per seguirne i lavori.
 L'invio della documentazione deve essere fatto esclusivamente attraverso questo indirizzo 
 [https://forms.gle/TCPNg7NNC3UvnFiEA](https://forms.gle/TCPNg7NNC3UvnFiEA) entro e 
-non oltre la **mezzanotte del 30 giugno 2020**.
+non oltre il <strike>30 giugno 2020</strike> **12 luglio 2020**.
 
 Ogni altro tipo di invio comporterà l'automatica esclusione dalla selezione, senza ulteriore comunicazione.
 
@@ -150,7 +151,7 @@ L'ultimo giorno del convegno verrà fatta una presentazione generale di tutte le
 ## Invio della proposta di demo
 Le eventuali proposte di demo devono essere concordate con il comitato organizzatore, 
 che va contattato via email ([contributi@archeofoss.org](mailto:contributi@archeofoss.org)) 
-entro e non oltre la **mezzanotte del 31 agosto 2020**.
+entro e non oltre la **31 agosto 2020**.
 
 ---
 

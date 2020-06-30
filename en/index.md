@@ -7,10 +7,11 @@ lang: en
 ---
 
 # TL;DR
-- Deadline for [abstract submissions](https://forms.gle/yEqVdk2ApBTSLJoP6): **30/06/2020**
-- Notification of acceptance of the abstracts: **31/07/2020**
-- Deadline for [workshop submission](https://forms.gle/TCPNg7NNC3UvnFiEA): **30/06/2020**
-- Notification of acceptance of the workshops: **31/07/2020**
+**Updated on 30/06/2020: Extension of the deadlines**
+- Deadline for [abstract submissions](https://forms.gle/yEqVdk2ApBTSLJoP6): <strike>30/06/2020</strike> **12/07/2020**
+- Notification of acceptance of the abstracts: **01/09/2020**
+- Deadline for [workshop submission](https://forms.gle/TCPNg7NNC3UvnFiEA): <strike>30/06/2020</strike> **12/07/2020**
+- Notification of acceptance of the workshops: **1/09/2020**
 - Deadline for demo submission: **31/08/2020**
 - Conference dates: **15,16, 17 October, 2020**
 - [Scarica la call in italiano, in formato PDF](../call-for-papers-ArcheoFOSS-XIV-2020-it.pdf)
@@ -25,7 +26,7 @@ lang: en
 Due to the global coronavirus (COVID-19) outbreak, 
 the 14<sup>th</sup> edition of the international conference 
 **ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research** 
-will be held online on **October, 15th - 17th 2020**.
+will be held online on **October, 15<sup>th</sup> - 17<sup>th</sup> 2020**.
 
 The Conference will address a range of important topics and themes relating to data sharing, open tools, processes and formats in the archaeological domain.
 
@@ -73,7 +74,7 @@ Potential topics include, but are not limited to:
 The abstracts (4000 characters max.), together with prospective images (max. 5), 
 captions and a short biography of the author/authors, must be submitted 
 through this link: [https://forms.gle/yEqVdk2ApBTSLJoP6](https://forms.gle/yEqVdk2ApBTSLJoP6) 
-by **June, 30<sup>th</sup> 2020**. Texts and images should be released under CC BY-ND or similar CC licenses.
+by <strike>30/06/2020</strike>**12/07/2020**. Texts and images should be released under CC BY-ND or similar CC licenses.
 
 Please note that if your abstract does not fully meet the guidelines, it will automatically be discarded without further notice.
 
@@ -106,7 +107,7 @@ committee, who may publish the material on its website and/or in its public repo
 The proposal (3000 characters max.), which shall include a detailed description 
 of the practical purposes of the workshop and detailed information on required
 hardware/software configuration, must be submitted through this link: 
-[https://forms.gle/TCPNg7NNC3UvnFiEA](https://forms.gle/TCPNg7NNC3UvnFiEA) by **June, 30th 2020**.
+[https://forms.gle/TCPNg7NNC3UvnFiEA](https://forms.gle/TCPNg7NNC3UvnFiEA) by <strike>30/06/2020</strike>**12/07/2020**.
 
 Please note that if your proposal does not fully meet the guidelines, it will not be considered for the session.
 
@@ -125,7 +126,7 @@ the conclusive day of the conference.
 ## Demos Submission
 The prospective proposals must be agreed with the organizing committee by mail 
 ([contributi@archeofoss.org](mailto:contributi@archeofoss.org)) no later 
-than **August, 31th 2020**.
+than **01/09/2020**.
 
 ---
 
