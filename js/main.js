@@ -139,6 +139,10 @@ jQuery(document).ready(function($) {
     const now = new Date().getTime();
 
     const remainingMs = endDate - now;
+    console.log(endDate);
+    console.log(now);
+    console.log(remainingMs);
+    
 
     if (remainingMs > 0){
       if (found_it){
