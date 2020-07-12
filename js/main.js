@@ -124,9 +124,9 @@ jQuery(document).ready(function($) {
     const found_en = text.match(/^([0-9]{1,2})\/([0-9]{1,2})\/([0-9]{2,4})$/);
 
     if (found_it){
-      date_str = `${found_it[3]}/${mesi.indexOf(found_it[2]) + 1}/${found_it[1]} 24:00 GTM+2`;
+      date_str = `${found_it[3]}/${mesi.indexOf(found_it[2]) + 1}/${found_it[1]} 24:00 GMT+2`;
     } else if (found_en){
-      date_str = `${found_en[3]}/${found_en[2]}/${found_en[1]} 24:00 GTM+2`;
+      date_str = `${found_en[3]}/${found_en[2]}/${found_en[1]} 24:00 GMT+2`;
     } else {
       return;
     }
