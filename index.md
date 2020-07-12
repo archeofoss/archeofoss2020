@@ -10,7 +10,7 @@ permalink: /
 - Il convegno, i workshop e le demo si svolgeranno **online** a causa della pandemia causata dal COVID-19
 - Termine ultimo per [l'invio](https://forms.gle/yEqVdk2ApBTSLJoP6) degli abstract estesi: <strike>30 giugno 2020</strike> **12 luglio 2020** 
 - Termine ultimo per la notifica di accettazione delle proposte: <strike>31 luglio 2020</strike> **1 settembre 2020**
-- Termine ultimo per [l'invio](https://forms.gle/TCPNg7NNC3UvnFiEA) di proposte di workshop: <strike>30 giugno 2020</strike>**12 luglio 2020**
+- Termine ultimo per [l'invio](https://forms.gle/TCPNg7NNC3UvnFiEA) di proposte di workshop: <strike>30 giugno 2020</strike> **12 luglio 2020**
 - Termine ultimo per la notifica di accettazione di workshop: **31 luglio 2020**
 - Termine ultimo per l'invio delle proposte di demo: **31 agosto 2020**
 - Date del convegno: **15, 16, 17 ottobre 2020**
