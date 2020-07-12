@@ -139,9 +139,7 @@ jQuery(document).ready(function($) {
     const now = new Date().getTime();
 
     const remainingMs = endDate - now;
-    console.log(endDate);
-    console.log(now);
-    console.log(remainingMs);
+    console.log(`string: ${date_str}; end: ${endDate}; now: ${now}; remaining: ${remainingMs}`);
     
 
     if (remainingMs > 0){
