@@ -6,6 +6,19 @@ permalink: /en/
 lang: en
 ---
 
+# Update
+
+**[13/7/2020]**
+
+Since the midnight of Juy 12, 2020 the call for papers and posters has been closed.
+
+We have received **41** proposals for papers and **7** proposals for workshops. Thank you for the large and highly qualified participation.
+
+The reviewing process has **already begun** and the Organising Commitee togeter with the Scentific Committee are on work on the submitted abstracts. We are very proud to announce that the next edition od ArcheoFOSS will be of a great scientific interest, with a vaiaty of themes, case-studies and methodological and theoretial consideration.
+
+We are looking forward to share with the community the definitive conference programme!
+
+
 # TL;DR
 **Updated on 30/06/2020: Extension of the deadlines**
 - Deadline for [abstract submissions](https://forms.gle/yEqVdk2ApBTSLJoP6): <strike>30/06/2020</strike> **12/07/2020**
