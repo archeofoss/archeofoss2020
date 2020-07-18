@@ -14,7 +14,7 @@ Since the midnight of Juy 12, 2020 the call for papers and posters has been clos
 
 We have received **41** proposals for papers and **7** proposals for workshops. Thank you for the large and highly qualified participation.
 
-The reviewing process has **already begun** and the Organising Commitee togeter with the Scentific Committee are on work on the submitted abstracts. We are very proud to announce that the next edition od ArcheoFOSS will be of a great scientific interest, with a vaiaty of themes, case-studies and methodological and theoretial consideration.
+The reviewing process has **already begun** and the Organising Commitee togeter with the Scentific Committee are on work on the submitted abstracts. We are very proud to announce that the next edition od ArcheoFOSS will be of a great scientific interest, with a variety of themes, case-studies and methodological and theoretial consideration.
 
 We are looking forward to share with the community the definitive conference programme!
 
