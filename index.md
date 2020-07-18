@@ -5,6 +5,16 @@ layout: home
 permalink: /
 ---
 
+# Aggiornamento
+[13/7/2020]
+Dalla mezzanotte del 12/07/2020 è chiusa la chiamata per proposte di interventi e workshop.
+
+Abbiamo ricevuto **41** richieste di intervento e **7** richieste di workshop. Grazie a tutti per la larga e altamente qualificata partecipazione.
+
+Il processo di valutazione ad opera del Comitato Organizzativo e Comititato Scientifico è **già in atto** e siamo felici di constatare come 
+la prossima edizione si annunci di grandissimo interesse scientifico, con una varietà di temi, casi di studio e riflessioni teoriche e metodologiche.
+
+
 # TL;DR
 **Aggiorgamento del 30/06/2020: Prolungamento dei termini**
 - Il convegno, i workshop e le demo si svolgeranno **online** a causa della pandemia causata dal COVID-19
