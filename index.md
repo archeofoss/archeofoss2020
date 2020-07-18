@@ -16,7 +16,7 @@ Abbiamo ricevuto **41** richieste di intervento e **7** richieste di workshop. G
 Il processo di valutazione ad opera del Comitato Organizzativo e Comititato Scientifico è **già in atto** e siamo felici di constatare come 
 la prossima edizione si annunci di grandissimo interesse scientifico, con una varietà di temi, casi di studio e riflessioni teoriche e metodologiche.
 
-Non vediamo l'ora di condividere con l comunità ArcheoFOSS il programma di quest'anno!
+Non vediamo l'ora di condividere con la comunità ArcheoFOSS il programma di quest'anno!
 
 
 # TL;DR
