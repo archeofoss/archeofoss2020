@@ -16,7 +16,7 @@ We have received **41** proposals for papers and **7** proposals for workshops. 
 
 The reviewing process has **already begun** and the Organising Commitee togeter with the Scentific Committee are on work on the submitted abstracts. We are very proud to announce that the next edition od ArcheoFOSS will be of a great scientific interest, with an impressive variety of themes, case-studies and methodological and theoretial consideration.
 
-We are looking forward to share with the community the definitive conference programme!
+We are looking forward to share with the ArcheoFOSS community the definitive conference programme!
 
 
 # TL;DR
