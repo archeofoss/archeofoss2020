@@ -6,7 +6,9 @@ permalink: /
 ---
 
 # Aggiornamento
-[13/7/2020]
+
+**[13/7/2020]**
+
 Dalla mezzanotte del 12/07/2020 è chiusa la chiamata per proposte di interventi e workshop.
 
 Abbiamo ricevuto **41** richieste di intervento e **7** richieste di workshop. Grazie a tutti per la larga e altamente qualificata partecipazione.
