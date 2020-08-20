@@ -164,7 +164,7 @@ L'ultimo giorno del convegno verrà fatta una presentazione generale di tutte le
 
 ## Invio della proposta di demo
 Le eventuali proposte di demo devono essere concordate con il comitato organizzatore, 
-che va contattato via email ([contributi@archeofoss.org](mailto:contributi@archeofoss.org)) 
+che va contattato via email ([info@archeofoss.org](mailto:info@archeofoss.org)) 
 entro e non oltre la **31 agosto 2020**.
 
 ---
