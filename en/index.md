@@ -138,7 +138,7 @@ the conclusive day of the conference.
 
 ## Demos Submission
 The prospective proposals must be agreed with the organizing committee by mail 
-([contributi@archeofoss.org](mailto:contributi@archeofoss.org)) no later 
+([info@archeofoss.org](mailto:info@archeofoss.org)) no later 
 than **01/09/2020**.
 
 ---
