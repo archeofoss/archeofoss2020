@@ -266,9 +266,6 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
     - CNR e Università di Bologna; ex responsabile del "Virtual Heritage: tecnologie digitali integrate per la conoscenza, la valorizzazione e la comunicazione dei beni culturali attraverso sistemi di realtà virtuale"
     - Chief Editor dal 2017 di «Elsevier Digital Application in Archaeology and Cultural Heritage» (DAACH)
     - Ha coordinato e seguito numerosi progetti nel settore “Virtual Heritage”
-- **Alessandro Pintucci**, Archeologo, Ricercatore indipendente  
-[alessandro.pintucci@gmail.com](mailto:alessandro.pintucci@gmail.com)
-    - Archeologo esperto di sistemi informativi territoriali e applicazioni aperte per la modellazione 3D in ambito archeologico
 - **Serena Sensini**, Università degli Studi di Roma "Tor Vergata". Roma  
 [serena.sensini@gmail.com](mailto:serena.sensini@gmail.com)
     - Università degli Studi Roma Tre 
