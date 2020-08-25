@@ -184,7 +184,6 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Antonella **Negri**, ICCD. Rome
 - Silvia **Orlandi**, Sapienza Università di Roma
 - Sofia **Pescarin**, CNR. Bologna
-- Alessandro **Pintucci**, Archaeologist, Indipendent researcher
 - Serena **Sensini**, Università degli Studi di Roma "Tor Vergata". Rome
 - Mirella **Serlorenzi**, MiBACT. Rome
 - Valeria **Vitale**, Pelagios Commons. London
