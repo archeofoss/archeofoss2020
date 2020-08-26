@@ -12,6 +12,10 @@ The **link** will be published on this page a week before the conference.
 
 ---
 
+The **Book of Abstracts** is already and freely available in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
+
+---
+
 ## Day 1. October 15<sup>th</sup> 2020
 
 - **09:30** - Conference welcome and opening

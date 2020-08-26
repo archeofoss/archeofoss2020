@@ -9,9 +9,10 @@ permalink: /
 
 **[26/08/2020]**
 
-We are very happy to announce that the final programme of ArcheoFOSS 2020 is [now available](./programme).
+We are very proud to announce that the conference programme of ArcheoFOSS 2020 is [now available](./programme).
 
-The **Book of Abstracts** will verysoon be available for download.
+The **Book of Abstracts** is already and freely available in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
+
 
 The **list of the available workshops** is available [2020.archeofoss.org/workshops](./workshops). Don't forget to sign up to get your seat!
 
