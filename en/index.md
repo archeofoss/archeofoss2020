@@ -194,6 +194,6 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Sara **Gonizzi Barsanti**, Politecnico di Milano
 - Saverio G. **Malatesta**, DigiLab, Sapienza Università di Roma
 - Luca **Mandolesi**, adArte Srl. Rimini
-- Riccardo **Montalbano**, International Telematic University Uninettuno
+- Riccardo **Montalbano**, University of Pisa
 - Augusto **Palombini**, CNR. Rome
 - Paolo **Rosati**, Sapienza Università di Roma
