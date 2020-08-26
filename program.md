@@ -6,10 +6,6 @@ permalink: /program
 lang: en
 ---
 
-# ArcheoFOSS 2020 program
-
-## Open Software, hardware, processes, data, and formats in archaeological research 
-
 *Due to the global coronavirus (COVID-19) outbreak, the 14th edition of the international conference ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research will be held online on October, 15th - 17th 2020.*
 
 The online conference will be broadcasted using StreamYard (courtesy of University of Pisa). The **link** will be published on this page a week before the conference. 
