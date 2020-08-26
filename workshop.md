@@ -18,12 +18,12 @@ Short list of workshops:
 
 1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](##Workshop-1)
 2. [Documentation of cultural heritage data with iDAI.field 2](##Workshop-2)
-3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#Workshop-3)
-4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#Workshop-4)
-5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#Workshop-5)
-6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#Workshop-6)
+3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](##Workshop-3)
+4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](##Workshop-4)
+5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](##Workshop-5)
+6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](##Workshop-6)
 
-## **Workshop 1**
+## Workshop 1
 
 ### Bradypus: a practical guide to the creation and publication of a relational web-based database
 
@@ -42,7 +42,7 @@ Recommanded minimal config: php 7.x (with extensions: pdo, pdo-sqlite, php-mbstr
 Optimal config (local test): apache 2.x, php 7.x (with extensions: pdo, pdo-sqlite, php-mbstring, php-gd), git, updated modern browser, internet connection.
 
 
-## **Workshop 2**
+## Workshop 2
 
 ### Documentation of cultural heritage data with iDAI.field 2
 
@@ -77,7 +77,7 @@ What the attendees should prepare:
  If there are any issues, please contact iDAI.field@dainst.de
 
 
-## **Workshop 3** 
+## Workshop 3
 
 ### Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction
 
@@ -98,7 +98,7 @@ During the two hours of the workshop, you will install the reference software (B
 * Hardware: notebooks with at least 4-8 GB RAM, i5 processor and an OpenGL compatible graphic card
 * Software to be installed: Blender 3D, EMtools add-ons and yED
 
-## **Workshop 4**
+## Workshop 4
 
 ### Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment.
 
@@ -114,7 +114,7 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 * Hardware: notebooks with at least 4-8 GB RAM, i5 processor and an OpenGL compatible graphic card
 * Software to be installed: Blender 3D, 3DSC
 
-## **Workshop 5**
+## Workshop 5
 
 ### La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT
 
@@ -140,7 +140,7 @@ Software/hardware
 - pacchetto Open Office
 - connessione internet
 
-## **Workshop 6**
+## Workshop 6
 
 ### ATON: an open-source framework for creating liquid 3D web-apps for CH
 
