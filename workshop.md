@@ -1,7 +1,7 @@
 ---
 title: "ArcheoFOSS XIV 2020 workshops"
 description: "Workshops within the XIV edition of the international congress ArcheoFOSS: open software, hardware, processes, data, and formats in archaeological research"
-layout: workshop
+layout: home
 permalink: /workshop
 lang: en
 ---
