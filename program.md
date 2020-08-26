@@ -1,7 +1,7 @@
 ---
 title: "ArcheoFOSS XIV 2020 program"
 description: "Program of the XIV edition of the international congress ArcheoFOSS: open software, hardware, processes, data, and formats in archaeological research"
-layout: program
+layout: home
 permalink: /program
 lang: en
 ---
