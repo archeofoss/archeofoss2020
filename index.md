@@ -290,6 +290,6 @@ all'indirizzo [info@archeofoss.org](mailto:info@archeofoss.org).
 - Sara **Gonizzi Barsanti**, Politecnico di Milano
 - Saverio **Malatesta**, DigiLab, Sapienza Università di Roma
 - Luca **Mandolesi**, adArte Srl. Rimini
-- Riccardo **Montalbano**, Università Internazionale Telematica Uninettuno
+- Riccardo **Montalbano**, University of Pisa
 - Augusto **Palombini**, CNR, Roma
 - Paolo **Rosati**, Sapienza Università di Roma
