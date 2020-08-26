@@ -36,9 +36,8 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 
 **Technical requirements**
 
-- **Minimal configuration**, without possibility for local testing: updated modern browser and  internet connection
-- **Recommanded configuration**, with local testing: php 7.x (with extensions: pdo, pdo-sqlite, php-mbstring, php-gd), sqlite, an updated modern browser and internet connection
-- **Optimal configuration**: apache 2.x, php 7.x (with extensions: pdo, pdo-sqlite, pdo-mysql, pdo-pgsql, php-mbstring, php-gd), MySQL (or MariaDB), PostgreSQL, an updated modern browser, internet connection
+- **Recommanded configuration**: [php 7.x](https://phptherightway.com/#getting_started) (with extensions: pdo, pdo-sqlite, php-mbstring, php-gd), [Sqlite](https://www.sqlite.org/index.html), an updated modern browser and internet connection
+- **Optimal configuration**: [Apache 2.x](https://httpd.apache.org/), [php 7.x](https://phptherightway.com/#getting_started) (with extensions: pdo, pdo-sqlite, pdo-mysql, pdo-pgsql, php-mbstring, php-gd), [Sqlite](https://www.sqlite.org/index.html), [MySQL](https://www.mysql.com) (or [MariaDB](https://mariadb.org/) or [Percona](https://www.percona.com/)), [PostgreSQL](https://www.postgresql.org/), an updated modern browser, internet connection. “All-in-one” solutions such as [MAMP](https://www.mamp.info/en/downloads/) and [XAMPP](https://www.apachefriends.org/index.html) will install these other bits of software for you and tie them all together, but ease of setup comes with a trade-off of flexibility.
 
 ---
 
