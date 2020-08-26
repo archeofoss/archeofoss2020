@@ -1,7 +1,7 @@
 ---
 title: "Book of Abstracts"
 description: "Book of abstracts of the XIV edition of the   ArcheoFOSS International conference"
-layout: book-of-abstracts
+layout: home
 permalink: /book-of-abstracts
 lang: en
 ---
