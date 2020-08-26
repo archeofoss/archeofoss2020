@@ -3,14 +3,13 @@ title: "ArcheoFOSS 14 2020"
 description: "Call for papers, workshops & demos per la XIV edizione del convegno Internazionale ArcheoFOSS: software, hardware, processi, dati e formati aperti nella ricerca archeologica"
 layout: home
 permalink: /
-lang: en
 ---
 
 # Update
 
 **[26/08/2020]**
 
-The final program of ArcheoFOSS 2020 is available at [this page](./program) !
+The final program of ArcheoFOSS 2020 is available at [this page](./programme) !
 
 The [**book of abstracts**](./Book-of-Abstracts-ArcheoFOSS-2020.pdf) with short bios of authors is available as well.
 
@@ -146,17 +145,10 @@ web applications are allowed. All the published demos will be presented during
 the conclusive day of the conference.
 
 
-<<<<<<< Updated upstream
-## Invio della proposta di demo
-Le eventuali proposte di demo devono essere concordate con il comitato organizzatore, 
-che va contattato via email ([info@archeofoss.org](mailto:info@archeofoss.org)) 
-entro e non oltre la **31 agosto 2020**.
-=======
 ## Demos Submission
 The prospective proposals must be agreed with the organizing committee by mail 
 ([contributi@archeofoss.org](mailto:contributi@archeofoss.org)) no later 
 than **01/09/2020**.
->>>>>>> Stashed changes
 
 ---
 
@@ -255,18 +247,12 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
     - Director of the Epigraphic Database of Rome (EDR)
 - **Sofia Pescarin**, CNR. Bologna  
 [sofia.pescarin@cnr.it](mailto:sofia.pescarin@cnr.it)  
-<<<<<<< Updated upstream
-    - CNR e Università di Bologna; ex responsabile del "Virtual Heritage: tecnologie digitali integrate per la conoscenza, la valorizzazione e la comunicazione dei beni culturali attraverso sistemi di realtà virtuale"
-    - Chief Editor dal 2017 di «Elsevier Digital Application in Archaeology and Cultural Heritage» (DAACH)
-    - Ha coordinato e seguito numerosi progetti nel settore “Virtual Heritage”
-=======
     - CNR and University of Bologna; former head of "Virtual Heritage: integrated digital technologies for the knowledge, enhancement and communication of cultural heritage through virtual reality systems".
     - Chief Editor since 2017 of "Elsevier Digital Application in Archaeology and Cultural Heritage" (DAACH)
-    - He has coordinated and followed numerous projects in the "Virtual Heritage" sector
+    - She has coordinated and followed numerous projects in the "Virtual Heritage" sector
 - **Alessandro Pintucci**, Archeologo, Ricercatore indipendente  
 [alessandro.pintucci@gmail.com](mailto:alessandro.pintucci@gmail.com)
-    - Archaeologist expert in territorial information systems and open applications for 3D modelling in the archaeological field
->>>>>>> Stashed changes
+    - Archaeologist
 - **Serena Sensini**, Università degli Studi di Roma "Tor Vergata". Roma  
 [serena.sensini@gmail.com](mailto:serena.sensini@gmail.com)
     - Roma Tre University 
@@ -289,11 +275,6 @@ For any further information, please contact us at: [info@archeofoss.org](mailto:
 - Sara **Gonizzi Barsanti**, Politecnico di Milano
 - Saverio G. **Malatesta**, DigiLab, Sapienza Università di Roma
 - Luca **Mandolesi**, adArte Srl. Rimini
-<<<<<<< Updated upstream
 - Riccardo **Montalbano**, University of Pisa
-- Augusto **Palombini**, CNR, Roma
-=======
-- Riccardo **Montalbano**, International Telematic University Uninettuno
-- Augusto **Palombini**, VHLab, CNR-ISPC Rome
->>>>>>> Stashed changes
+- Augusto **Palombini**, CNR, Rome
 - Paolo **Rosati**, Sapienza Università di Roma
