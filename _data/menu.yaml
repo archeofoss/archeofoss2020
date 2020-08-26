@@ -4,8 +4,8 @@
   url_en: '#call-for-papers'
 - title: Workshops
   title_en: Workshops
-  url: '/workshop'
-  url_en: '/workshop'
+  url: 'workshop'
+  url_en: 'workshop'
 - title: Demos
   title_en: Demos
   url: '#call-for-demos'
