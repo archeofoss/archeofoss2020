@@ -1,6 +1,6 @@
 ---
-title: "ArcheoFOSS XIV 2020 programme"
-description: "Programme of the XIV edition of the international congress ArcheoFOSS: open software, hardware, processes, data, and formats in archaeological research"
+title: "Conference programme"
+description: "Programme of the 14th edition of the international congress ArcheoFOSS: open software, hardware, processes, data, and formats in archaeological research"
 layout: article-slim
 ---
 
@@ -17,7 +17,7 @@ The **link** will be published on this page a week before the conference.
 - **09:30** - Conference welcome and opening
 - **10:00** - Panel 1 (see detail below)
 
-### ![icon](images/icons/trowel.svg "Trowel") Panel 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology 
+#### ![icon](images/icons/trowel.svg "Trowel") Panel 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology 
 
 - **10:00** Filippo Brandolini, Francesco Carrer  
 [*Human response to Late Holocene climate change in Northern Italy: integration of geomorphological and archaeological data through a FLOS-based workflow.*](abstracts/brandolini)
@@ -57,7 +57,7 @@ The **link** will be published on this page a week before the conference.
 
 ## Day 2. October 16<sup>th</sup> 2020
 
-### ![icon](./images/icons/share.svg "Share") Panel 2. Creation, use and Promotion of Open Data and Open Formats in Archaeology
+#### ![icon](./images/icons/share.svg "Share") Panel 2. Creation, use and Promotion of Open Data and Open Formats in Archaeology
 
 - **09:30** Gabriele Gattiglia, Francesca Anichini  
 [*The ArchAIDE Archive.*](abstracts/gattiglia)
@@ -99,7 +99,7 @@ The **link** will be published on this page a week before the conference.
 
 ## Day 3. October 17<sup>th</sup> 2020
 
-### ![icon](./images/icons/gears.svg "Gears") Panel 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage 
+#### ![icon](./images/icons/gears.svg "Gears") Panel 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage 
 
 - **10:00** Joseph Lewis  
 [*Leastcostpath: Modelling Pathways and Movement Potential Within a Landscape.*](abstracts/lewis)
