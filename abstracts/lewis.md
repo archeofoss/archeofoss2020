@@ -3,7 +3,7 @@ title: "Leastcostpath: Modelling Pathways and Movement Potential Within a Landsc
 description: "Leastcostpath: Modelling Pathways and Movement Potential Within a Landscape"
 layout: article-slim
 images:
-  - abstracts/lewis-01.png|Fig. 1. Leastcostpath logo
+  - abstracts/lewis-01.jpg|Fig. 1. Leastcostpath logo
 ---
 
 **Joseph Lewis**
