@@ -13,13 +13,13 @@ The **deadline to register as a participant to the workshop is October 1st, 2020
 
 Short list of workshops:
 
-1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#Workshop-1)
-2. [Documentation of cultural heritage data with iDAI.field 2](#Workshop-2)
-3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#Workshop-3)
-4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#Workshop-4)
-5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#Workshop-5)
-6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#Workshop-6)
-7. [QFIELD](#Workshop-7)
+1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#workshop-1)
+2. [Documentation of cultural heritage data with iDAI.field 2](#workshop-2)
+3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#workshop-3)
+4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#workshop-4)
+5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#workshop-5)
+6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#workshop-6)
+7. [QFIELD](#workshop-7)
 
 ## Workshop 1
 
