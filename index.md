@@ -31,6 +31,7 @@ We are looking forward to share with the ArcheoFOSS community the definitive con
 - Deadline for demo submission: **31/08/2020**
 - Conference dates: **15,16, 17 October, 2020**
 - Download the Book of abstracts [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
+- [Book a place in one or more workshops](/workshops)
 - **And do not forget to share the programme!**
     - [Share on Telegram](https://telegram.me/share/url?url=https://2020.archeofoss.org&text=Available+programme+of+ArcheoFOSS+2020)
     - [Share on WhatsApp](https://wa.me/?text=https://2020.archeofoss.org+Available+programme+of+ArcheoFOSS+2020)
