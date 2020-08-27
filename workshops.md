@@ -51,6 +51,7 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 [Subscribe to workshop 2 on Eventbrite](https://www.eventbrite.it/e/documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)
 
 **Authors:** 
+- Juliane Watson \| [juliane.Watson@dainst.de](mailto:juliane.Watson@dainst.de) \| DAINST
 - Sebastian Cuy \| [Sebastian.Cuy@dainst.de](mailto:Sebastian.Cuy@dainst.de) \| DAINST
 - Fabian Riebschläger \| [Fabian.Riebschlaeger@dainst.de](mailto:Fabian.Riebschlaeger@dainst.de) \| DAINST
 
