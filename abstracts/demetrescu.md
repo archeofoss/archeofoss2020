@@ -2,6 +2,12 @@
 title: "The use of 3D tools to improve the transformation of the archaeological record into a virtual reconstruction: EMtools and EMviq open source software"
 description: "The use of 3D tools to improve the transformation of the archaeological record into a virtual reconstruction: EMtools and EMviq open source software"
 layout: article-slim
+images:
+  - abstracts/demetrescu-01.png|Fig. 1. 
+  - abstracts/demetrescu-02.png|Fig. 2. 
+  - abstracts/demetrescu-03.png|Fig. 3. 
+  - abstracts/demetrescu-04.jpg|Fig. 4. 
+  - abstracts/demetrescu-05.jpg|Fig. 5.
 ---
 
 **Emanuel Demetrescu**

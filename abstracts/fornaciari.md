@@ -2,6 +2,11 @@
 title: "Rome - Northeastern Palatine slopes: open-source methodologies and tools for the analysis of ancient architectures"
 description: "Rome - Northeastern Palatine slopes: open-source methodologies and tools for the analysis of ancient architectures"
 layout: article-slim
+images:
+  - abstracts/fornaciari-01.jpg|Fig. 1. The territorial context of the NE Palatine slopes.
+  - abstracts/fornaciari-02.jpg|Fig. 2. The new file-card format for ancient masonry contexts.
+  - abstracts/fornaciari-03.jpg|Fig. 3. The link with the collected data.
+  - abstracts/fornaciari-04.jpg|Fig. 4. The treatment of masonry samples.
 ---
 
 **Lorenzo Fornaciari**
