@@ -52,7 +52,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 [*Virtual Archaeology for the little guy? A case-study based assessment of the feasibility and sustainability of minimal resource VR modeling and its applicability to small-scale archaeological research.*](abstracts/price)
 
 - **15:05** Saverio Giulio Malatesta  
-[[*Cultura libera per la valorizzazione territoriale: metodologie e strumenti aperti.*]](abstracts/malatesta)
+[*Cultura libera per la valorizzazione territoriale: metodologie e strumenti aperti.*](abstracts/malatesta)
 
 - **15:30** Paolo Rosati  
 [*FLOS per i Musei: soluzioni open per formare le comunità e gestire i luoghi culturali.*](abstracts/rosati)
