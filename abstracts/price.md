@@ -2,6 +2,9 @@
 title: "Virtual Archaeology for the little guy? A case-study based assessment of the feasibility and sustainability of minimal resource VR modelling and its applicability to small-scale archaeological research"
 description: "Virtual Archaeology for the little guy? A case-study based assessment of the feasibility and sustainability of minimal resource VR modelling and its applicability to small-scale archaeological research"
 layout: article-slim
+images:
+  - abstracts/price-01.jpg|Fig. 1. A screenshot within the Unreal Engine showing the reconstructed broch structure sitting within the unusually shaped ditch. Broch-ditch
+  - abstracts/price-02.jpg|Fig. 2. This shows the overlay of the interpretive map of the geophysical survey results conducted by ORCA in 2002 & 2007 . This shows the relative positioning of the broch and the ditch in regards to the data. Note the overlay was positioned over the landscape using common elements that showed in both, such as the position of the 'fire pit' in the nearby Stones of Stenness.
 ---
 
 **Ben Price**

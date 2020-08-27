@@ -2,6 +2,11 @@
 title: "FLOS per i Musei: soluzioni open per formare le comunità e gestire i luoghi culturali"
 description: "FLOS per i Musei: soluzioni open per formare le comunità e gestire i luoghi culturali"
 layout: article-slim
+--images:
+  - abstracts/rosati-01.jpg|Fig. 1. FOSS-Museum 
+  - abstracts/rosati-02.jpg|Fig. 2. Laboratori FOSS all'interno dei musei
+  - abstracts/rosati-03.jpg|Fig. 3. Stampa 3D in scala di un'opera scultorea
+  
 ---
 
 **Paolo Rosati**

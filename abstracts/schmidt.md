@@ -2,6 +2,10 @@
 title: "SPARQLing ᚑᚌᚆᚐᚋ: Publication of Irish Ogham Stones as LOD"
 description: "SPARQLing ᚑᚌᚆᚐᚋ: Publication of Irish Ogham Stones as LOD"
 layout: article-slim
+images:
+  - abstracts/schmidt-01.jpg|Fig. 1. 2268px-UCC_Stone_4.jpg University College Cork Stone Corridor, Stone 4, CIIC 81 (CY BY 4.0 Florian Thiery) 
+  - abstracts/schmidt-02.jpg|Fig. 2. Workflow_ogham_wikidata.png Workflow for the publication of Ogham Stones in Wikidata (CC BY 4.0 Research Squirrel Engineers)
+  - abstracts/schmidt-03.jpg|Fig. 3. Wikidata_ogham.png Ogham resources in Wikidata (CC BY 4.0 Research Squirrel Engineers).
 ---
 
 **Sophie C. Schmidt**
