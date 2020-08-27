@@ -13,13 +13,20 @@ The **deadline to register as a participant to the workshop is October 1st, 2020
 
 Short list of workshops:
 
-1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#workshop-1)
-2. [Documentation of cultural heritage data with iDAI.field 2](#workshop-2)
-3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#workshop-3)
-4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#workshop-4)
-5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#workshop-5)
-6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#workshop-6)
-7. [QFIELD](#workshop-7)
+1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#workshop-1)  
+<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/bradypus-creation-and-publication-of-a-web-based-database-tickets-118269171275)
+2. [Documentation of cultural heritage data with iDAI.field 2](#workshop-2)  
+<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)
+3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#workshop-3)  
+<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction-tickets-118359070165)
+4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#workshop-4)  
+<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/hands-on-3d-survey-collection-3dsc-for-blender-tickets-118360823409)
+5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#workshop-5)  
+<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/mibact-geoportale-nazionale-per-larcheologia-tickets-118396945451)
+6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#workshop-6)  
+<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039)
+7. [QFIELD](#workshop-7)  
+<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/from-qgis-to-qfield-and-vice-versa-tickets-118399671605)
 
 ## Workshop 1
 

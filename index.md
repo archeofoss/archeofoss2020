@@ -28,14 +28,9 @@ We are looking forward to share with the ArcheoFOSS community the definitive con
 
 
 # TL;DR
-**Updated on 30/06/2020: Extension of the deadlines**
-- Deadline for [abstract submissions](https://forms.gle/yEqVdk2ApBTSLJoP6): <strike>30/06/2020</strike> **12/07/2020**
-- Notification of acceptance of the abstracts: **01/09/2020**
-- Deadline for [workshop submission](https://forms.gle/TCPNg7NNC3UvnFiEA): <strike>30/06/2020</strike> **12/07/2020**
-- Notification of acceptance of the workshops: **1/09/2020**
 - Deadline for demo submission: **31/08/2020**
 - Conference dates: **15,16, 17 October, 2020**
-- [Download the call in PDF format](./call-for-papers-ArcheoFOSS-XIV-2020-en.pdf)
-- **Do not forget to share!**
+- Download the Book of abstracts [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
+- **And do not forget to share the programme!**
     - [Share on Telegram](https://telegram.me/share/url?url=https://2020.archeofoss.org&text=Available+programme+of+ArcheoFOSS+2020)
     - [Share on WhatsApp](https://wa.me/?text=https://2020.archeofoss.org+Available+programme+of+ArcheoFOSS+2020)
