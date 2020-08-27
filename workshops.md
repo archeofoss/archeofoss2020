@@ -9,17 +9,17 @@ The last part of each day of the conference (16:00-19:00) will be dedicated to p
 focused on the topics of the conference. The attendance will be limited in 
 number to ensure a better enjoyment of the events.
 
-The **deadline to register as a participant to the workshop is October 1st, 2020**. Each workshop will be activated when there are at least 7 participants. The timetable of the activated workshops will be published on October 2nd, 2020 on this page and inside the [conference programme](./programme).
+The **deadline to register as a participant to the workshop is October 1st, 2020**. Each workshop will be activated when there are at least 7 participants. The timetable of the activated workshops will be published on October 2nd, 2020 on this page and inside the [conference programme](/programme).
 
 Short list of workshops:
 
-1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](##Workshop-1)
-2. [Documentation of cultural heritage data with iDAI.field 2](##Workshop-2)
-3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](##Workshop-3)
-4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](##Workshop-4)
-5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](##Workshop-5)
-6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#W#orkshop-6)
-7. [QFIELD](##Workshop-7)
+1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#Workshop-1)
+2. [Documentation of cultural heritage data with iDAI.field 2](#Workshop-2)
+3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#Workshop-3)
+4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#Workshop-4)
+5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#Workshop-5)
+6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#Workshop-6)
+7. [QFIELD](#Workshop-7)
 
 ## Workshop 1
 
@@ -27,9 +27,7 @@ Short list of workshops:
 
 [Subscribe to workshop 1 on Eventbrite](https://www.eventbrite.it/e/bradypus-creation-and-publication-of-a-web-based-database-tickets-118269171275)
 
-**Author:** Julian Bogdani [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
-
-*Sapienza University of Rome*
+**Author:** Julian Bogdani \| [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it) \| Sapienza University of Rome
 
 **Description**
 
@@ -53,10 +51,9 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 [Subscribe to workshop 2 on Eventbrite](https://www.eventbrite.it/e/documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)
 
 **Authors:** 
-- Sebastian Cuy, [Sebastian.Cuy@dainst.de](mailto:Sebastian.Cuy@dainst.de)
-- Fabian Riebschläger, [Fabian.Riebschlaeger@dainst.de](mailto:Fabian.Riebschlaeger@dainst.de)
+- Sebastian Cuy \| [Sebastian.Cuy@dainst.de](mailto:Sebastian.Cuy@dainst.de) \| DAINST
+- Fabian Riebschläger \| [Fabian.Riebschlaeger@dainst.de](mailto:Fabian.Riebschlaeger@dainst.de) \| DAINST
 
-*DAINST*
 
 **Description**
 
@@ -96,9 +93,7 @@ What the attendees should prepare:
 
 [Subscribe to workshop 3 on Eventbrite](https://www.eventbrite.it/e/hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction-tickets-118359070165)
 
-**Author:** Emanuel Demetrescu
-
-*CNR ISPC*
+**Author:** Emanuel Demetrescu \| CNR ISPC
 
 **Description**
 
@@ -123,16 +118,7 @@ During the two hours of the workshop, you will install the reference software (B
 
 [Subscribe to workshop 4 on Eventbrite](https://www.eventbrite.it/e/hands-on-3d-survey-collection-3dsc-for-blender-tickets-118360823409)
 
-**Author:**  Valeria Acconcia, valeria.acconcia@beniculturali.it
-Barbara Barbaro, barbara.barbaro@beniculturali.it
-Lucia Ceci, l.ceci@idria.it;
-Annalisa Falcone, annalisa.falcone@beniculturali.it
-Maria Grazia Fichera, mariagrazia.fichera@beniculturali.it
-Ada Gabucci, ada.gabucci@gmail.com
-Maria Letizia Mancinelli, marialetizia.mancinelli@beniculturali.it
-Antonella Negri, antonella.negri@beniculturali.it
-
-*CNR ISPC*
+**Author:** Emanuel Demetrescu \| CNR ISPC
 
 **Description**
 
@@ -150,19 +136,17 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 
 ### La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT
 
-[Subscribe to workshop 5 on Eventbrite]()
+[Subscribe to workshop 5 on Eventbrite](https://www.eventbrite.it/e/mibact-geoportale-nazionale-per-larcheologia-tickets-118396945451)
 
 **Authors:** 
-- Valeria Acconcia, [valeria.acconcia@beniculturali.it](mailto:valeria.acconcia@beniculturali.it)
-- Barbara Barbaro, [barbara.barbaro@beniculturali.it](mailto:barbara.barbaro@beniculturali.it)
-- Lucia Ceci, [l.ceci@idria.it](mailto:l.ceci@idria.it)
-- Annalisa Falcone, [annalisa.falcone@beniculturali.it](mailto:annalisa.falcone@beniculturali.it)
-- Maria Grazia Fichera, [mariagrazia.fichera@beniculturali.it](mailto:mariagrazia.fichera@beniculturali.it)
-- Ada Gabucci, [ada.gabucci@gmail.com](mailto:ada.gabucci@gmail.com)
-- Maria Letizia Mancinelli, [marialetizia.mancinelli@beniculturali.it](mailto:marialetizia.mancinelli@beniculturali.it)
-- Antonella Negri, [antonella.negri@beniculturali.it](mailto:antonella.negri@beniculturali.it)
-
-*CNR ISPC*
+- Valeria Acconcia \| [valeria.acconcia@beniculturali.it](mailto:valeria.acconcia@beniculturali.it) \| MiBACT
+- Barbara Barbaro \| [barbara.barbaro@beniculturali.it](mailto:barbara.barbaro@beniculturali.it) \| MiBACT
+- Lucia Ceci \| [l.ceci@idria.it](mailto:l.ceci@idria.it) \| MiBACT
+- Annalisa Falcone \| [annalisa.falcone@beniculturali.it](mailto:annalisa.falcone@beniculturali.it) \| MiBACT
+- Maria Grazia Fichera \| [mariagrazia.fichera@beniculturali.it](mailto:mariagrazia.fichera@beniculturali.it) \| MiBACT
+- Ada Gabucci \| [ada.gabucci@gmail.com](mailto:ada.gabucci@gmail.com) \| MiBACT
+- Maria Letizia Mancinelli \| [marialetizia.mancinelli@beniculturali.it](mailto:marialetizia.mancinelli@beniculturali.it) \| MiBACT
+- Antonella Negri \| [antonella.negri@beniculturali.it](mailto:antonella.negri@beniculturali.it) \| MiBACT
 
 **Description**
 
@@ -193,12 +177,9 @@ Software/hardware
 
 ### ATON: an open-source framework for creating liquid 3D web-apps for CH
 
-[Subscribe to workshop 6 on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039
-)
+[Subscribe to workshop 6 on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039)
 
-**Author:** Bruno Fanini
-
-*CNR ISPC*
+**Author:** Bruno Fanini \| CNR ISPC
 
 **Description**
 
