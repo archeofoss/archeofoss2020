@@ -81,7 +81,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 [*Digital Editions of Objects and Classes: The Conspectus as an online system of relations and references.* ](abstracts/roesler)
 
 - **12:00** Nicola Laneri, Rodolfo Brancato, Salvatore Cristofaro, Marianna Figuera, Marianna Nicolosi Asmundo, Daniele Francesco Santamaria, Daria Spampinato  
-[*Towards an ontology of the Museum of Archaeology of the University of Catania: from the legacy data digitization to the semantic web.*]((abstracts/laneri))
+[*Towards an ontology of the Museum of Archaeology of the University of Catania: from the legacy data digitization to the semantic web.*](abstracts/laneri)
 
 - **12:30** Lunch break
 
