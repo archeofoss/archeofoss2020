@@ -41,7 +41,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 [*Un workflow open source per l'elaborazione delle immagini termiche acquisite da drone.*](abstracts/ciccone)
 
 - **12:30** Domizia D’Erasmo, Renata Ago  
-[*Analisi della mobilità urbana nella Roma del XVIII secolo: un approccio alla ricerca tramite piattaforma GIS*](abstracts/d-erasmo)
+[*Analysis of Urban Mobility in 18<sup>th</sup> Century Rome: A Research Approach Through GIS Platform*](abstracts/d-erasmo)
 
 - **13:00** Lunch break
 
