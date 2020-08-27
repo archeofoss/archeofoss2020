@@ -13,18 +13,23 @@ The **deadline to register as a participant to the workshop is October 1st, 2020
 
 Short list of workshops:
 
-1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#Workshop-1)
-2. [Documentation of cultural heritage data with iDAI.field 2](#Workshop-2)
-3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#Workshop-3)
-4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#Workshop-4)
-5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#Workshop-5)
-6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#Workshop-6)
+1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](##Workshop-1)
+2. [Documentation of cultural heritage data with iDAI.field 2](##Workshop-2)
+3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](##Workshop-3)
+4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](##Workshop-4)
+5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](##Workshop-5)
+6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#W#orkshop-6)
+7. [QFIELD](##Workshop-7)
 
 ## Workshop 1
 
 ### Bradypus: a practical guide to the creation and publication of a relational web-based database
 
 [Subscribe to workshop 1 on Eventbrite](https://www.eventbrite.it/e/bradypus-creation-and-publication-of-a-web-based-database-tickets-118269171275)
+
+**Author:** Julian Bogdani
+
+*University Sapienza of Rome*
 
 **Description**
 
@@ -46,6 +51,12 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 ### Documentation of cultural heritage data with iDAI.field 2
 
 [Subscribe to workshop 2 on Eventbrite](https://www.eventbrite.it/e/documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)
+
+**Authors:** Juliane Watson,
+Sebastian Cuy,
+Fabian Riebschläger
+
+*DAINST*
 
 **Description**
 
@@ -85,6 +96,10 @@ What the attendees should prepare:
 
 [Subscribe to workshop 3 on Eventbrite](https://www.eventbrite.it/e/hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction-tickets-118359070165)
 
+**Author:** Emanuel Demetrescu
+
+*CNR ISPC*
+
 **Description**
 
 Are you interested in virtual reconstruction in archaeology? Would you like to deepen the open-source tools to manage 3D data related to an archaeological excavation (or a monument) and turn it into a reconstructive hypothesis?
@@ -108,6 +123,10 @@ During the two hours of the workshop, you will install the reference software (B
 
 [Subscribe to workshop 4 on Eventbrite](https://www.eventbrite.it/e/hands-on-3d-survey-collection-3dsc-for-blender-tickets-118360823409)
 
+**Author:**  Emanuel Demetrescu
+
+*CNR ISPC*
+
 **Description**
 
 The 3D survey in Archaeology through Photogrammetric technologies has largely taken hold improving in qualitative and quantitative terms the information available for the graphic description of monumental sites and archaeological excavations. At the same time, the use of photogrammetric surveys for the creation of virtual scenarios within the creative Industries is already widely carried out outside the scientific world of Archaeology. On the contrary, the creation of interactive digital replicas (open worlds), i.e. the transformation of 3D archaeological data into assets ready for video-games, virtual museums and digital libraries, is only in its infancy and requires the development and diffusion of special tools for the management of 3D geographic data, the optimization of 3D databases and the improvement of the quality of geometries and textures. The contribution presents the development activity and functionality of the open source suite of 3D survey Collection (3DSC) tools for Blender 3D. The tool is able to transform huge 3D datasets such as surveys of extensive archaeological excavations into optimized models navigable in real time within Game Engines such as Unreal4, Unity3D, Godot, CryEngine etc.. Through a series of concrete examples will be explained the functionality of the tool for the development of 360 panoramas (panoramic tool), color information correction from the original images of the photographic companion (photogrammetry paint tool), color calibration (color correction tool), import/export of geo-referenced data (importer-exporter tool), geometric optimization of models through the creation of levels of detail levels for realtime (LOD generator - segmentation).
@@ -125,6 +144,10 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 ### La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT
 
 [Subscribe to workshop 5 on Eventbrite]()
+
+**Author:**  Emanuel Demetrescu
+
+*CNR ISPC*
 
 **Description**
 
@@ -155,7 +178,12 @@ Software/hardware
 
 ### ATON: an open-source framework for creating liquid 3D web-apps for CH
 
-[Subscribe to workshop 6 on Eventbrite]()
+[Subscribe to workshop 6 on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039
+)
+
+**Author:** Bruno Fanini
+
+*CNR ISPC*
 
 **Description**
 
@@ -173,3 +201,26 @@ The workshop will focus on the steps to get started with ATON and deploy sample 
 **Technical requirements**
 
 The framework is compatible with all OS (linux, windows, Mac OS). PCs must be equipped with common graphics cards (possibly medium-high range) and web-browsers. The setup phases will require the simple installation of node.js (available on all OS).
+
+---
+
+## Workshop 7
+
+### QFIELD
+
+[Subscribe to workshop 7 on Eventbrite](https://www.eventbrite.it/e/from-qgis-to-qfield-and-vice-versa-tickets-118399671605)
+
+**Description**
+
+The aim of the workshop is to highlight the main benefits of using the Qfield app. An App which can be installed on an Android device for all archaeologists working in the field.
+The main feature of this new application will allow the archaeologist to upload to his/her Smartphone or tablet the .qgis project of the excavation, based on the general information concerning the site that is already available to you. At this point, it is possible to implement the collection of data directly on site, maintaining constant updates to your system, thus allowing you to review the project throughout the excavation process.
+The “pocket-GIS” with Qfield is finally a reality!
+Working with Qfield in the field, allows us to significantly reduce registration and computerisation time of inputting data into the database system; eliminating all the digitisation of field registers and all related paperwork. The advantage of entrusting all the information to the main GIS platform of the project (master), which is stored inside the PC, means this leaves only the task of checking the collected data, along with the bonus of in-depth topographical and geospatial analysis.
+In this proposal we will show a practical example of integrated use of Qgis and Qfield, which relates to an open area excavation.
+The intervention methodology proposed in this contrubute has been constructed by the personal experience of the authors, this specifically refers to Open Area Excavation works in Commercial Archaeology projects.
+
+**Technical requirements**
+
+- QGIS 3.10; 3.12; 3.14.0
+- QFIELD last release
+- Android Device (Tablet or large Smartphone)
