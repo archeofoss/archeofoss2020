@@ -109,7 +109,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 [*Leastcostpath: Modelling Pathways and Movement Potential Within a Landscape.*](abstracts/lewis)
 
 - **10:25** Augusto Palombini  
-[*Il contadino virtuale. Uno strumento ricostruttivo delle aree coltivate in antico tramite GRASS-GIS.*](abstracts/palombini)
+[*The virtual countryman. A GRASS-GIS tool for ancient cultivation identification*](abstracts/palombini)
 
 - **10:50** Simone Berto, Emanuel Demetrescu  
 [*3D Survey Collection, un software per la produzione di repliche digitali. Il caso studio del foro romano di Nora (Sardegna, CA)*](abstracts/berto)
