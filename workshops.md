@@ -27,9 +27,9 @@ Short list of workshops:
 
 [Subscribe to workshop 1 on Eventbrite](https://www.eventbrite.it/e/bradypus-creation-and-publication-of-a-web-based-database-tickets-118269171275)
 
-**Author:** Julian Bogdani
+**Author:** Julian Bogdani [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it)
 
-*University Sapienza of Rome*
+*Sapienza University of Rome*
 
 **Description**
 
@@ -52,9 +52,9 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 
 [Subscribe to workshop 2 on Eventbrite](https://www.eventbrite.it/e/documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)
 
-**Authors:** Juliane Watson,
-Sebastian Cuy,
-Fabian Riebschläger
+**Authors:** 
+- Sebastian Cuy, [Sebastian.Cuy@dainst.de](mailto:Sebastian.Cuy@dainst.de)
+- Fabian Riebschläger, [Fabian.Riebschlaeger@dainst.de](mailto:Fabian.Riebschlaeger@dainst.de)
 
 *DAINST*
 
@@ -123,7 +123,14 @@ During the two hours of the workshop, you will install the reference software (B
 
 [Subscribe to workshop 4 on Eventbrite](https://www.eventbrite.it/e/hands-on-3d-survey-collection-3dsc-for-blender-tickets-118360823409)
 
-**Author:**  Emanuel Demetrescu
+**Author:**  Valeria Acconcia, valeria.acconcia@beniculturali.it
+Barbara Barbaro, barbara.barbaro@beniculturali.it
+Lucia Ceci, l.ceci@idria.it;
+Annalisa Falcone, annalisa.falcone@beniculturali.it
+Maria Grazia Fichera, mariagrazia.fichera@beniculturali.it
+Ada Gabucci, ada.gabucci@gmail.com
+Maria Letizia Mancinelli, marialetizia.mancinelli@beniculturali.it
+Antonella Negri, antonella.negri@beniculturali.it
 
 *CNR ISPC*
 
@@ -145,7 +152,15 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 
 [Subscribe to workshop 5 on Eventbrite]()
 
-**Author:**  Emanuel Demetrescu
+**Authors:** 
+- Valeria Acconcia, [valeria.acconcia@beniculturali.it](mailto:valeria.acconcia@beniculturali.it)
+- Barbara Barbaro, [barbara.barbaro@beniculturali.it](mailto:barbara.barbaro@beniculturali.it)
+- Lucia Ceci, [l.ceci@idria.it](mailto:l.ceci@idria.it)
+- Annalisa Falcone, [annalisa.falcone@beniculturali.it](mailto:annalisa.falcone@beniculturali.it)
+- Maria Grazia Fichera, [mariagrazia.fichera@beniculturali.it](mailto:mariagrazia.fichera@beniculturali.it)
+- Ada Gabucci, [ada.gabucci@gmail.com](mailto:ada.gabucci@gmail.com)
+- Maria Letizia Mancinelli, [marialetizia.mancinelli@beniculturali.it](mailto:marialetizia.mancinelli@beniculturali.it)
+- Antonella Negri, [antonella.negri@beniculturali.it](mailto:antonella.negri@beniculturali.it)
 
 *CNR ISPC*
 
