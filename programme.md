@@ -30,7 +30,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 [*Strumenti digitali opensource per la documentazione della cultura visuale paleo-mesolitica: dati preliminari da un flusso di lavoro sulle decorazioni incise su supporto calcareo dalla Grotta di Santa Maria di Agnano (Ostuni, BR).*](abstracts/pellegrino)
 
 - **10:50**  Fabiana Battistin, Stefano de Angeli, Federico Valerio Moresi, Giancarlo Pastura, Matteo Serpetti  
-[*Valutazione integrata delle dinamiche di rischio di erosione del suolo in presenza di depositi archeologici. Il metodo proposto dal progetto RESEARCH (REmote SEnsing techniques for ARCHaeology)*](./abstracts/battistin)
+[*Valutazione integrata delle dinamiche di rischio di erosione del suolo in presenza di depositi archeologici. Il metodo proposto dal progetto RESEARCH (REmote SEnsing techniques for ARCHaeology)*](/abstracts/battistin)
 
 - **11:15** Coffee Break
 
