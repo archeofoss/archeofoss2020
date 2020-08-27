@@ -3,11 +3,11 @@ title: "Un workflow open source per l’elaborazione delle immagini termiche acq
 description: "Un workflow open source per l’elaborazione delle immagini termiche acquisite da drone"
 layout: article-slim
 images:
-  - abstracts/ciccone-01.png|Fig. 1. Schema del workflow open source per l'elaborazione di immagini termiche, 
+  - abstracts/ciccone-01.jpg|Fig. 1. Schema del workflow open source per l'elaborazione di immagini termiche, 
   - abstracts/ciccone-02.jpg|Fig. 2. Esempio di immagine RGB utilizzata. 
-  - abstracts/ciccone-03.png|Fig. 3. Esempio di immagine IR utilizzata. 
+  - abstracts/ciccone-03.jpg|Fig. 3. Esempio di immagine IR utilizzata. 
   - abstracts/ciccone-04.jpg|Fig. 4. Ortofoto in 4 bande (R, G, B, IR).
-  - abstracts/ciccone-05.png|Fig. 5. Ortofoto nella singola banda IR.
+  - abstracts/ciccone-05.jpg|Fig. 5. Ortofoto nella singola banda IR.
 ---
 
 **Gabriele Ciccone**

@@ -3,7 +3,7 @@ title: "Open Data, Open Knowledge, Open Science: un nuovo Laboratorio dell’Ist
 description: "Open Data, Open Knowledge, Open Science: un nuovo Laboratorio dell’Istituto di Scienze del Patrimonio Culturale"
 layout: article-slim
 images:
-  - abstracts/caravale-01.png|Fig. 1. Archeologia e Calcolatori in Europeana.
+  - abstracts/caravale-01.jpg|Fig. 1. Archeologia e Calcolatori in Europeana.
   - abstracts/caravale-02.jpg|Fig. 2. I toponimi di Archeologia e Calcolatori visualizzati in Peripleo.
   
 ---

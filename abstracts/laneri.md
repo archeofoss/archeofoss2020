@@ -3,9 +3,9 @@ title: "Towards an ontology of the Museum of Archaeology of the University of Ca
 description: "Towards an ontology of the Museum of Archaeology of the University of Catania: from the legacy data digitization to the semantic web"
 layout: article-slim
 images:
-  - abstracts/laneri-01.pdf|Fig. 1. Museum of Archaeology of Catania University, the G. Libertini collection, selection of some finds from the Greek age (above) and fakes (below). 
+  - abstracts/laneri-01.jpg|Fig. 1. Museum of Archaeology of Catania University, the G. Libertini collection, selection of some finds from the Greek age (above) and fakes (below). 
   - abstracts/laneri-02.jpg|Fig. 2. Museum of Archaeology of Catania University, Entity–relationship diagrams. 
-  - abstracts/laneri-03.pdf|Fig. 3. Museum of Archaeology of Catania University, digitization of chronological data.
+  - abstracts/laneri-03.jpg|Fig. 3. Museum of Archaeology of Catania University, digitization of chronological data.
 ---
 
 **Nicola Laneri**
