@@ -7,6 +7,9 @@ images:
   - abstracts/serlorenzi-02.jpg|Fig. 2. The new Digital Library.
   - abstracts/serlorenzi-03.jpg|Fig. 3. Workflow for dowloading and reusing the vector geometries and relative attributes table in the most commons geographic formats.
   - abstracts/serlorenzi-04.jpg|Fig. 4. SITAR open data services.
+geo:
+ - 41.90118
+ - 12.49862
 ---
 
 **Mirella Serlorenzi**
