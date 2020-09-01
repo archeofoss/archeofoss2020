@@ -6,7 +6,8 @@ layout: article-slim
 geo:
  - 45.40676
  - 11.87744
- 
+ ---
+  
 **Simone Berto**
 
 [simone.berto.1@phd.unipd.it](mailto:simone.berto.1@phd.unipd.it)
