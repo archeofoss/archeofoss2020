@@ -8,8 +8,8 @@ layout: article-slim
   - abstracts/rosati-02.jpg|Fig. 2. Laboratori FOSS all'interno dei musei
   - abstracts/rosati-03.jpg|Fig. 3. Stampa 3D in scala di un'opera scultorea
 geo:
- - 41.90376
- - 12.51443
+  - 41.90376
+  - 12.51443
   
 ---
 

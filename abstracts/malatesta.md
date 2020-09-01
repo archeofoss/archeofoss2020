@@ -2,8 +2,8 @@
 title: "Cultura libera per la valorizzazione territoriale: metodologie e strumenti aperti"
 description: "Cultura libera per la valorizzazione territoriale: metodologie e strumenti aperti"
 geo:
- - 41.90376
- - 12.51443
+  - 41.90376
+  - 12.51443
 layout: article-slim
 ---
 

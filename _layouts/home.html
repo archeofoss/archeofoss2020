@@ -27,6 +27,26 @@ layout: default
         <h1 class="text-black mb-3 text-center">{{ page.title }}</h1>
         <div class="my-5 content">
           {{ content}}
+
+          <div id="map" style="color: #fff">
+            {% for art in site.pages %} {% if art.geo %}
+              {
+                "title": "{{ art.title }}",
+                "url": "{{ art.url | replace: ".html", "" }}",
+                "geo": [{{ art.geo[0] }}, {{ art.geo[1] }}]
+                {% if art.img %},"img": "{{ art.img }}"{% endif %}
+              }
+            {% endif %}{% endfor %}
+          </div>
+          <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css">
+   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css">
+   <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
         </div>
       </div>
     </div>
@@ -34,59 +54,10 @@ layout: default
 </section>
 
 
-{% comment %}
-<section class="site-section">
-  <div class="container">
-    <div class="row justify-content-center" data-aos="fade-up">
-      <div class="col-lg-6 text-center heading-section mb-5">
-        
-        <h2 class="text-black mb-2">Ultime novità</h2>
-        <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-      </div>
-    </div>
 
     {% assign sorted = site.news | sort: "data" | reverse %}
     {% for art in sorted limit:5 %}
-    <div class="row hover-1-wrap mb-5 mb-lg-0">
-      <div class="col-12">
-        <div class="row">
-          <div class="mb-4 mb-lg-0 col-lg-6 {% cycle 'order-lg-2', '' %}" data-aos="fade-right">
-            <a href="#" class="hover-1">
-              <img src="{{ art.img }}" alt="{{ art.title }}" class="img-fluid">
-            </a>
-          </div>
-          <div class="col-lg-5 align-self-center {% cycle 'ml-auto', 'mr-auto order-lg-1 text-lg-right' %}" data-aos="fade-left">
-            <h2 class="text-black">{{ art.title }}</h2>
-            <p class="mb-4">{{ art.preview }}</p>
-            <p><a href="{{ art.permalink }}" class="btn btn-primary">Leggi tutto</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
+    
     {% endfor %}
 
-  </div>
-</section>
-{% endcomment %}
 
-
-{% comment %}
-<section class="site-section" id="gallery-section">
-  <div class="container-fluid">
-    <div class="row justify-content-center" data-aos="fade-up">
-      <div class="col-lg-6 text-center heading-section mb-5">
-        <h2 class="text-black mb-2">Photo Gallery</h2>
-      </div>
-    </div>
-    <div class="row no-gutters">
-
-      {% for i in (20..31) %}
-
-        <a class="col-6 col-md-6 col-lg-4 col-xl-3 gal-item d-block" data-aos="fade-up" data-aos-delay="100" href="https://picsum.photos/id/{{ i }}/800/600" data-fancybox="gal"><img src="https://picsum.photos/id/{{ i }}/800/600" alt="Image" class="img-fluid"></a>
-
-      {% endfor %}
-
-    </div>
-  </div>
-</section>
-{% endcomment %}

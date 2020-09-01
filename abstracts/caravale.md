@@ -2,13 +2,12 @@
 title: "Open Data, Open Knowledge, Open Science: un nuovo Laboratorio dell’Istituto di Scienze del Patrimonio Culturale"
 description: "Open Data, Open Knowledge, Open Science: un nuovo Laboratorio dell’Istituto di Scienze del Patrimonio Culturale"
 layout: article-slim
-geo:
-  - 41.90072
-  - 12.51251
 images:
   - abstracts/caravale-01.jpg|Fig. 1. Archeologia e Calcolatori in Europeana.
   - abstracts/caravale-02.jpg|Fig. 2. I toponimi di Archeologia e Calcolatori visualizzati in Peripleo.
- 
+geo:
+  - 41.90072
+  - 12.51251 
 ---
 
 **Alessandra Caravale**

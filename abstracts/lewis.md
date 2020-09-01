@@ -5,8 +5,8 @@ layout: article-slim
 images:
   - abstracts/lewis-01.jpg|Fig. 1. Leastcostpath logo
 geo:
- - 52.20426
- - 0.1149 
+  - 52.20426
+  - 0.1149 
 ---
 
 **Joseph Lewis**

@@ -7,8 +7,8 @@ images:
   - abstracts/lanieri-02.jpg|Fig. 2. Museum of Archaeology of Catania University, Entity–relationship diagrams. 
   - abstracts/lanieri-03.jpg|Fig. 3. Museum of Archaeology of Catania University, digitization of chronological data.
 geo:
- - 37.50356
- - 15.08649
+  - 37.50356
+  - 15.08649
 ---
 
 **Nicola Laneri**

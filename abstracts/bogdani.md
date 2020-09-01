@@ -9,8 +9,8 @@ images:
   - abstracts/bogdani-03.png|Fig. 3. Actual use of the vector data created using SVP in the web application of the Archaeological Atlas of Coptic Literature (Abu Mina, https://atlas.paths-erc.eu/places/116)
   - abstracts/bogdani-04.png|Fig. 4. SVP validation tool created to encourage a strict implementation of the standard (https://paths-erc.eu/svp-validate/)
 geo:
-  - 41.9100711
-  - 12.5359979
+  - 41.90376
+  - 12.51443
 ---
 
 

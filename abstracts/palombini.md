@@ -5,8 +5,8 @@ layout: article-slim
 images:
   - abstracts/palombini-01.jpg|Fig. 1. User interface of the predictive tool (r.countryman)
 geo:
- - 41.90072
- - 12.51251
+  - 41.90072
+  - 12.51251
 ---
 
 **Augusto Palombini**

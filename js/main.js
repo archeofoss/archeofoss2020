@@ -156,4 +156,31 @@ jQuery(document).ready(function($) {
     
   });
 
+  if ($('#map').length > 0){
+    const text = $('#map').text().replace(/\}\s+\{/gi, '},{');
+    const json = JSON.parse(`[${text}]`);
+
+    $('#map').css({height: '500px'}).text('');
+    var map = L.map('map').setView([41.9100711,12.5359979], 13);
+    L.tileLayer('https://a.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+      maxZoom: 18
+    }).addTo(map);
+
+    let markers = L.markerClusterGroup();
+
+    json.forEach( e => {
+      const img = e.img ? `<img src="${e.img}" class="img-fluid">` : '';
+      var marker = L.marker([e.geo[0], e.geo[1]])
+        .bindPopup(`<h6><a href="${e.url}" title="${e.title}">${e.title}</a></h6>
+            ${img}`);
+      markers.addLayer(marker);
+
+    });
+    map.addLayer(markers);
+    map.fitBounds(markers.getBounds());
+    
+
+  }
+
 });
