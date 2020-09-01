@@ -7,6 +7,9 @@ images:
   - abstracts/fornaciari-02.jpg|Fig. 2. The new file-card format for ancient masonry contexts.
   - abstracts/fornaciari-03.jpg|Fig. 3. The link with the collected data.
   - abstracts/fornaciari-04.jpg|Fig. 4. The treatment of masonry samples.
+geo:
+ - 40.76869
+ - 14.79168
 ---
 
 **Lorenzo Fornaciari**
