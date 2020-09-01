@@ -2,6 +2,9 @@
 title: "FOSS, open data e open contents in archeologia: breve storia, stato dell’arte e scenari futuri"
 description: "Towards an ontology of the Museum of Archaeology of the University of Catania: from the legacy data digitization to the semantic web"
 layout: article-slim
+geo: 
+ - 45.4365
+ - 11.00321
 ---
 
 **Piergiovanna Grossi**
