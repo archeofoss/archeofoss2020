@@ -149,6 +149,7 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 **Authors:** 
 - Valeria Acconcia \| [valeria.acconcia@beniculturali.it](mailto:valeria.acconcia@beniculturali.it) \| MiBACT
 - Barbara Barbaro \| [barbara.barbaro@beniculturali.it](mailto:barbara.barbaro@beniculturali.it) \| MiBACT
+- Valeria Boi \| [valeria.boi@beniculturali.it](mailto:valeria.boi@beniculturali.it) \| MiBACT
 - Lucia Ceci \| [l.ceci@idria.it](mailto:l.ceci@idria.it) \| MiBACT
 - Annalisa Falcone \| [annalisa.falcone@beniculturali.it](mailto:annalisa.falcone@beniculturali.it) \| MiBACT
 - Maria Grazia Fichera \| [mariagrazia.fichera@beniculturali.it](mailto:mariagrazia.fichera@beniculturali.it) \| MiBACT
