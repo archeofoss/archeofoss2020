@@ -25,7 +25,7 @@ For each proposal please include:
 - A title
 - The names of the presenters, developers, ecc.
 - The URL of the website project, if available.
-- The URL where the presentation is already published (eg. a YouTube), or
-- the actual file/files
+- The URL where the presentation is already published (eg. a YouTube, SlideShare, etc.), or
+- the actual file/files and formal permission to publish and embed it in the ArcheoFOSS website
 
 Please feel free to contact us for specific file formats or questions.
