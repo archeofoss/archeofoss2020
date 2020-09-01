@@ -2,6 +2,9 @@
 title: "Developing long-term infrastructure for open archaeology research data: iDAI.world"
 description: "Developing long-term infrastructure for open archaeology research data: iDAI.world"
 layout: article-slim
+geo:
+ - 52.46069
+ - 13.30065
 ---
 
 
