@@ -2,6 +2,9 @@
 title: "Analisi e confronto di formati spaziali aperti e non aperti per la ricerca archeologica"
 description: "Analisi e confronto di formati spaziali aperti e non aperti per la ricerca archeologica"
 layout: article-slim
+geo:
+ - 40.83125
+ - 14.2444
 ---
 
 
