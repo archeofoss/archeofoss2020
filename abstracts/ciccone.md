@@ -8,7 +8,7 @@ images:
   - abstracts/ciccone-03.jpg|Fig. 3. Esempio di immagine IR utilizzata. 
   - abstracts/ciccone-04.jpg|Fig. 4. Ortofoto in 4 bande (R, G, B, IR).
   - abstracts/ciccone-05.jpg|Fig. 5. Ortofoto nella singola banda IR.
-  geo:
+geo:
   - 41.85203
   - 12.62899
 ---
