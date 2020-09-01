@@ -2,6 +2,9 @@
 title: "Towards FreeCAD experimentations and validation as a FOSS HBIM platform for building archaeology purposes"
 description: "Towards FreeCAD experimentations and validation as a FOSS HBIM platform for building archaeology purposes"
 layout: article-slim
+geo:
+ - 45.06235
+ - 7.66214
 ---
 
 **Filippo Diara**
