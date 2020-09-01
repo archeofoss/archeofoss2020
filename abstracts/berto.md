@@ -2,6 +2,9 @@
 title: "3D Survey Collection, un software per la produzione di repliche digitali. Il caso studio del foro romano di Nora (Sardegna, CA)"
 description: "3D Survey Collection, un software per la produzione di repliche digitali. Il caso studio del foro romano di Nora (Sardegna, CA)"
 layout: article-slim
+geo:
+ - 45.40676
+ - 11.87744
 ---
 **Simone Berto**
 
