@@ -6,6 +6,9 @@ images:
   - abstracts/gattiglia-01.jpg|Fig. 1. Screenshot of the ArchAIDE archive (https://doi.org/10.5284/1050896)  
   - abstracts/gattiglia-02.jpg|Fig. 2. Carrot Amphora DR103 in the 3D viewer. https://archaeologydataservice.ac.uk/archives/view/archaide_2019/downloads_amphora.cfm?amph=Carrot_Amphora_DR10
   - abstracts/gattiglia-03.jpg|Fig. 3. 3D printed Roman amphorae from the ArchAIDE archive
+geo:
+ - 43.71877
+ - 10.39872 
 ---
 
 **Gabriele Gattiglia**
