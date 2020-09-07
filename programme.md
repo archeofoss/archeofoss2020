@@ -93,7 +93,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 - **14:50** [CEST] Coffe break
 
-- **15:00** CEST Alessandra Caravale, Alessandra Piergrossi, Irene Rossi  
+- **15:00** [CEST] Alessandra Caravale, Alessandra Piergrossi, Irene Rossi  
 [*Open Data, Open Knowledge, Open Science: un nuovo Laboratorio dell’Istituto di Scienze del Patrimonio Culturale.*](abstracts/caravale)
 
 - **15:25** [CEST] Piergiovanna Grossi, Marco Ciurcina  
