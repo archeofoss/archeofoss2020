@@ -96,8 +96,6 @@
             <div class="col-md-4">
               <h2 class="footer-heading mb-4">Archeo.FOSS</h2>
               <p>Open software, hardware, processes, data and formats in archaeological research</p>
-              <hr>
-              {% include 'mailchimp.html'  %}
 
             </div>
             <div class="col-md-4 text-center">
@@ -105,6 +103,8 @@
               {% for item in site.data.social %}
               <a href="{{ item.url }}" class="pl-0 pr-3" title="{{ item.title }}"><i class="fab fa-lg fa-{{ item.icon }}"></i></a>
               {% endfor %}
+              <hr>
+              {% include mailchimp.html %}
             </div>
             <div class="col-md-4 text-right text-light">
               Copyright &copy; ArcheoFOSS <script>document.write(new Date().getFullYear());</script> <br />
