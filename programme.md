@@ -148,5 +148,5 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
     - Bruno Fanini  
     [ATON: an open-source framework for creating liquid 3D web-apps for CH](workshops#workshop-6)
     - Roberto Montagnetti, Giuseppe Guarino  
-    [QFIELD](workshops#workshop-7)
+    [From QGIS to QFIELD and vice versa](workshops#workshop-7)
 
