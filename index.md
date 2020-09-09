@@ -9,9 +9,9 @@ permalink: /
 
 **[09/09/2020]**
 
-Published the definitive schedule of the workshops, both in the main [programme page](./programme) and in the [workshop dedicated page](./workshops).
+Published the definitive schedule of the workshops, available both at the main [programme page](./programme) and at the [workshops’ dedicated page](./workshops).
 
-Remember that workshops can be booked on [Eventbrite](https://www.eventbrite.it/o/archeofoss-31023076975). Hurry up!
+Remember that workshops can be booked on [Eventbrite](https://www.eventbrite.it/o/archeofoss-31023076975), since tge number of the available seets is limited. Hurry up!
 
 **[26/08/2020]**
 
