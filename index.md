@@ -7,6 +7,12 @@ permalink: /
 
 ## Latest news
 
+**[09/09/2020]**
+
+Published the definitive schedule of the workshops, both in the main [programme page](./programme) and in the [workshop dedicated page](./workshops).
+
+Remember that workshops can be booked on [Eventbrite](https://www.eventbrite.it/o/archeofoss-31023076975). Hurry up!
+
 **[26/08/2020]**
 
 We are very proud to announce that the conference programme of ArcheoFOSS 2020 is [now available](./programme).
