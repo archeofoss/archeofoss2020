@@ -25,7 +25,7 @@ Short list of workshops:
 <i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/mibact-geoportale-nazionale-per-larcheologia-tickets-118396945451)
 6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#workshop-6)  
 <i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039)
-7. [QFIELD](#workshop-7)  
+7. [From QGIS to QFIELD and vice versa](#workshop-7)  
 <i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/from-qgis-to-qfield-and-vice-versa-tickets-118399671605)
 
 ## Workshop 1
@@ -229,7 +229,7 @@ The framework is compatible with all OS (linux, windows, Mac OS). PCs must be eq
 
 ## Workshop 7
 
-### QFIELD
+### From QGIS to QFIELD and vice versa
 
 {: .text-danger}
 **Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
