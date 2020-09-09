@@ -32,6 +32,9 @@ Short list of workshops:
 
 ### Bradypus: a practical guide to the creation and publication of a relational web-based database
 
+{: .text-danger}
+**Definitively scheduled for 15<sup>th</sup> of October 2020, 16:00-19:00 CEST**
+
 [Subscribe to workshop 1 on Eventbrite](https://www.eventbrite.it/e/bradypus-creation-and-publication-of-a-web-based-database-tickets-118269171275)
 
 **Author:** Julian Bogdani \| [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it) \| Sapienza University of Rome
@@ -54,6 +57,9 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 ## Workshop 2
 
 ### Documentation of cultural heritage data with iDAI.field 2
+
+{: .text-danger}
+**Definitively scheduled for 16<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
 [Subscribe to workshop 2 on Eventbrite](https://www.eventbrite.it/e/documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)
 
@@ -99,6 +105,9 @@ What the attendees should prepare:
 
 ### Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction
 
+{: .text-danger}
+**Definitively scheduled for 15<sup>th</sup> of October 2020, 16:00-19:00 CEST**
+
 [Subscribe to workshop 3 on Eventbrite](https://www.eventbrite.it/e/hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction-tickets-118359070165)
 
 **Author:** Emanuel Demetrescu \| CNR ISPC
@@ -124,6 +133,9 @@ During the two hours of the workshop, you will install the reference software (B
 
 ### Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment.
 
+{: .text-danger}
+**Definitively scheduled for 16<sup>th</sup> of October 2020, 16:00-19:00 CEST**
+
 [Subscribe to workshop 4 on Eventbrite](https://www.eventbrite.it/e/hands-on-3d-survey-collection-3dsc-for-blender-tickets-118360823409)
 
 **Author:** Emanuel Demetrescu \| CNR ISPC
@@ -143,6 +155,9 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 ## Workshop 5
 
 ### La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT
+
+{: .text-danger}
+**Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
 [Subscribe to workshop 5 on Eventbrite](https://www.eventbrite.it/e/mibact-geoportale-nazionale-per-larcheologia-tickets-118396945451)
 
@@ -186,6 +201,9 @@ Software/hardware
 
 ### ATON: an open-source framework for creating liquid 3D web-apps for CH
 
+{: .text-danger}
+**Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
+
 [Subscribe to workshop 6 on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039)
 
 **Author:** Bruno Fanini \| CNR ISPC
@@ -213,7 +231,12 @@ The framework is compatible with all OS (linux, windows, Mac OS). PCs must be eq
 
 ### QFIELD
 
+{: .text-danger}
+**Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
+
 [Subscribe to workshop 7 on Eventbrite](https://www.eventbrite.it/e/from-qgis-to-qfield-and-vice-versa-tickets-118399671605)
+
+**Authors:** Roberto Montagnetti, Giuseppe Guarino
 
 **Description**
 

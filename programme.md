@@ -57,7 +57,13 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **15:30** [CEST] Paolo Rosati  
 [*FLOS per i Musei: soluzioni open per formare le comunità e gestire i luoghi culturali.*](abstracts/rosati)
 
-- **16:00-19:00** [CEST] Workshop session 1
+- **16:00-19:00** [CEST] Workshop session 1  
+**Please note that the two workshops will run in parallel, on two different channels**
+    - Julian Bogdani  
+    [Bradypus: a practical guide to the creation and publication of a relational web-based database](/workshops#workshop-1)
+    - Emanuel Demetrescu  
+    [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](/workshops#workshop-3)
+
 
 ## Day 2. October 16<sup>th</sup> 2020
 
@@ -99,7 +105,13 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **15:25** [CEST] Piergiovanna Grossi, Marco Ciurcina  
 [*FOSS, open data e open contents in archeologia: breve storia, stato dell’arte e scenari futuri.*](abstracts/grossi)
 
-- **16:00-19:00** [CEST] Workshop session 2
+- **16:00-19:00** [CEST] Workshop session 2  
+**Please note that the two workshops will run in parallel, on two different channels**
+    - Juliane Watson, Sebastian Cuy and Fabian Riebschläger  
+    [Documentation of cultural heritage data with iDAI.field 2](workshops#workshop-2)
+    - Emanuel Demetrescu  
+    [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](workshops#workshop-4)
+
 
 ## Day 3. October 17<sup>th</sup> 2020
 
@@ -129,4 +141,12 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 - **14:15** [CEST] Round Table *ArcheoFOSS. An insight into the future*
 
-- **16:00-19:00** [CEST] Workshop session 3
+- **16:00-19:00** [CEST] Workshop session 3  
+**Please note that the three workshops will run in parallel, on three different channels**
+    - Valeria Acconcia, Barbara Barbaro, Valeria Boi, Lucia Ceci, Annalisa Falcone, Maria Grazia Fichera, Ada Gabucci, Maria Letizia Mancinelli, Antonella Negri  
+    [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](workshops#workshop-5)
+    - Bruno Fanini  
+    [ATON: an open-source framework for creating liquid 3D web-apps for CH](workshops#workshop-6)
+    - Roberto Montagnetti, Giuseppe Guarino  
+    [QFIELD](workshops#workshop-7)
+
