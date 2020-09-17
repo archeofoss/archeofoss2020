@@ -1,6 +1,6 @@
 ---
-title: "Open Data, Open Knowledge, Open Science: un nuovo Laboratorio dell’Istituto di Scienze del Patrimonio Culturale"
-description: "Open Data, Open Knowledge, Open Science: un nuovo Laboratorio dell’Istituto di Scienze del Patrimonio Culturale"
+title: "Open Data, Open Knowledge, Open Science: the new OpenLab of the  Institute for Heritage Science (CNR)"
+description: "Open Data, Open Knowledge, Open Science: the new OpenLab of the  Institute for Heritage Science (CNR)"
 layout: article-slim
 images:
   - abstracts/caravale-01.jpg|Fig. 1. Archeologia e Calcolatori in Europeana.
