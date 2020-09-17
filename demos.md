@@ -19,7 +19,7 @@ web applications are allowed.
 ## Demos Submission
 The proposals must be sent to the the organizing committee by mail at
 ([info@archeofoss.org](mailto:info@archeofoss.org)) no later 
-than <strike>01/09/2020</strike> **20/09/2020**.
+than <strike>01/09/2020</strike> **04/10/2020**.
 
 For each proposal please include:
 - A title
