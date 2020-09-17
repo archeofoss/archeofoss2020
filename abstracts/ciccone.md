@@ -1,5 +1,5 @@
 ---
-title: "Un workflow open source per l’elaborazione delle immagini termiche acquisite da drone"
+title: "An open source workflow for processing thermal images acquired by drone"
 description: "Un workflow open source per l’elaborazione delle immagini termiche acquisite da drone"
 layout: article-slim
 images:
