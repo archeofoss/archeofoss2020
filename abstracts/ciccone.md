@@ -1,6 +1,6 @@
 ---
 title: "An open source workflow for processing thermal images acquired by drone"
-description: "Un workflow open source per l’elaborazione delle immagini termiche acquisite da drone"
+description: "An open source workflow for processing thermal images acquired by drone"
 layout: article-slim
 images:
   - abstracts/ciccone-01.jpg|Fig. 1. Schema del workflow open source per l'elaborazione di immagini termiche, 
