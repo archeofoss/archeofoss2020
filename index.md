@@ -7,6 +7,13 @@ permalink: /
 
 ## Latest news
 
+**[17/09/2020]**
+
+Available the URLs of the broadcast of the conference! Each day has two
+separate URLs, one for the morning and one for the afternoon.
+Each workshop has its own URL as well. Please find, save and share the URLs
+in the main [programme page](/programme).
+
 **[09/09/2020]**
 
 Published the definitive schedule of the workshops, available both at the main [programme page](./programme) and at the [workshops’ dedicated page](./workshops).

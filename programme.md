@@ -4,11 +4,14 @@ description: "Programme of the 14th edition of the international congress Archeo
 layout: article-slim
 ---
 
-Due to the global coronavirus (COVID-19) outbreak, the 14<sup>th</sup> edition of the international conference ArcheoFOSS Open Software, hardware, processes, data and formats in archaeological research will be held online on October, 15<sup>th</sup> - 17<sup>th</sup> 2020.
+Due to the global coronavirus (COVID-19) outbreak, the 14<sup>th</sup> edition of the 
+International Conference ArcheoFOSS Open Software, Hardware, Processes, 
+Data and Formats in Archaeological Research will be held online on 
+October, 15<sup>th</sup> - 17<sup>th</sup> 2020.
 
 
 The online conference will be broadcasted using [StreamYard](https://streamyard.com/). 
-The **link** will be published on this page a week before the conference. 
+**Below are published the links of the broadcast, for each session and for each workshop**. 
 
 ---
 
@@ -17,6 +20,9 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 ## Day 1. October 15<sup>th</sup> 2020
+
+{: .border .bg-white .p-2}
+<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d1-am](/whatch/d1-am)
 
 - **09:30** [CEST] - Conference welcome and opening
 - **10:00** [CEST] - Panel 1 (see detail below)
@@ -45,6 +51,11 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 - **13:00** [CEST] Lunch break
 
+---
+
+{: .border .bg-white .p-2}
+<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d1-am](/whatch/d1-am)
+
 - **14:15** [CEST] Filippo Diara, Fulvio Rinaudo  
 [*Towards FreeCAD experimentations and validation as a FOSS HBIM platform for building archaeology purposes.*](abstracts/diara)
 
@@ -60,14 +71,20 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **16:00-19:00** [CEST] Workshop session 1  
 **Please note that the two workshops will run in parallel, on two different channels**
     - Julian Bogdani  
-    [Bradypus: a practical guide to the creation and publication of a relational web-based database](/workshops#workshop-1)
+    [Bradypus: a practical guide to the creation and publication of a relational web-based database](/workshops#workshop-1)  
+    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/bradypus](/whatch/bradypus)
+
     - Emanuel Demetrescu  
-    [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](/workshops#workshop-3)
+    [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](/workshops#workshop-3)  
+    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/em](/whatch/em)
 
 
 ## Day 2. October 16<sup>th</sup> 2020
 
 #### ![icon](./images/icons/share.svg "Share") Panel 2. Creation, use and Promotion of Open Data and Open Formats in Archaeology
+
+{: .border .bg-white .p-2}
+<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d2-am](/whatch/d2-am)
 
 - **09:30** [CEST] Gabriele Gattiglia, Francesca Anichini  
 [*The ArchAIDE Archive.*](abstracts/gattiglia)
@@ -91,6 +108,12 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 - **12:30** [CEST] Lunch break
 
+---
+
+{: .border .bg-white .p-2}
+<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d2-pm](/whatch/d2-pm)
+
+
 - **14:00** [CEST] Julian Bogdani  
 [*Fieldnotes for the development and publication of open standards for the vectorization of archaeologic and architectonic topographic legacy data.*](abstracts/bogdani)
 
@@ -108,14 +131,20 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **16:00-19:00** [CEST] Workshop session 2  
 **Please note that the two workshops will run in parallel, on two different channels**
     - Juliane Watson, Sebastian Cuy and Fabian Riebschläger  
-    [Documentation of cultural heritage data with iDAI.field 2](workshops#workshop-2)
+    [Documentation of cultural heritage data with iDAI.field 2](workshops#workshop-2)  
+    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/idai-field](/whatch/idai-field)
     - Emanuel Demetrescu  
-    [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](workshops#workshop-4)
+    [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](workshops#workshop-4)  
+    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/3dsc](/whatch/3dsc)
 
 
 ## Day 3. October 17<sup>th</sup> 2020
 
 #### ![icon](./images/icons/gears.svg "Gears") Panel 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage 
+
+{: .border .bg-white .p-2}
+<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d3-am](/whatch/d3-am)
+
 
 - **10:00** [CEST] Joseph Lewis  
 [*Leastcostpath: Modelling Pathways and Movement Potential Within a Landscape.*](abstracts/lewis)
@@ -139,14 +168,22 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 - **13:00** [CEST] Lunch break
 
+---
+
+{: .border .bg-white .p-2}
+<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d3-pm](/whatch/d3-pm)
+
 - **14:15** [CEST] Round Table *ArcheoFOSS. An insight into the future*
 
 - **16:00-19:00** [CEST] Workshop session 3  
 **Please note that the three workshops will run in parallel, on three different channels**
     - Valeria Acconcia, Barbara Barbaro, Valeria Boi, Lucia Ceci, Annalisa Falcone, Maria Grazia Fichera, Ada Gabucci, Maria Letizia Mancinelli, Antonella Negri  
-    [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](workshops#workshop-5)
+    [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](workshops#workshop-5)  
+    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/gnia](/whatch/gnia)
     - Bruno Fanini  
-    [ATON: an open-source framework for creating liquid 3D web-apps for CH](workshops#workshop-6)
+    [ATON: an open-source framework for creating liquid 3D web-apps for CH](workshops#workshop-6)  
+    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/aton](/whatch/aton)
     - Roberto Montagnetti, Giuseppe Guarino  
-    [From QGIS to QFIELD and vice versa](workshops#workshop-7)
+    [From QGIS to QFIELD and vice versa](workshops#workshop-7)  
+    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/qfield](/whatch/qfield)
 

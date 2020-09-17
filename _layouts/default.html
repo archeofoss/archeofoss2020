@@ -6,6 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 
+    {% for item in site.data.redirects %}
+    {% if page.url == item.from and item.to %}
+    <meta http-equiv="refresh" content="0; URL={{ item.to }}">
+    <link rel="canonical" href="{{ item.to }}">
+    {% endif %}
+    {% endfor %}
+
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta property="og:url" content="{{ page.url | absolute_url }}" />
