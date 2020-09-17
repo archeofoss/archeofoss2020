@@ -38,7 +38,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 [*Rome - NE Palatine slopes: open-source methodologies and tools for the analysis of ancient architectures.*](abstracts/fornaciari)
 
 - **12:05** [CEST] Gabriele Ciccone  
-[*Un workflow open source per l'elaborazione delle immagini termiche acquisite da drone.*](abstracts/ciccone)
+[*An open source workflow for processing thermal images acquired by drone.*](abstracts/ciccone)
 
 - **12:30** [CEST] Domizia D’Erasmo, Renata Ago  
 [*Analysis of Urban Mobility in 18<sup>th</sup> Century Rome: A Research Approach Through GIS Platform*](abstracts/d-erasmo)
