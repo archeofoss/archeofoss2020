@@ -42,7 +42,7 @@ We are looking forward to share with the ArcheoFOSS community the definitive con
 
 # TL;DR
 **Updated on 01/09/2020: Extension of the deadline of Demo presentations**
-- Deadline for demo submission: <strike>31/08/2020</strike>**20/09/2020**
+- Deadline for demo submission: <strike>31/08/2020</strike>**4/10/2020**
 - Conference dates: **15,16, 17 October, 2020**
 - Download the Book of abstracts [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
 - [Book a place in one or more workshops](/workshops)
