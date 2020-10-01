@@ -153,7 +153,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 [*The virtual countryman. A GRASS-GIS tool for ancient cultivation identification*](abstracts/palombini)
 
 - **10:50** [CEST] Simone Berto, Emanuel Demetrescu  
-[*3D Survey Collection, un software per la produzione di repliche digitali. Il caso studio del foro romano di Nora (Sardegna, CA)*](abstracts/berto)
+[*3D Survey Collection, a software for the production of digital replicas. The case study of the roman forum of Nora (Sardinia, CA)*](abstracts/berto)
 
 - **11:15** [CEST] Coffee break
 
