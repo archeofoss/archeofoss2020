@@ -7,6 +7,11 @@ permalink: /
 
 ## Latest news
 
+**[02/10/2020]**
+This morning have been closed the subscriptions to the workshops. Thank you all for the **very large** partecipation. We will give
+your contacts to each workshop organizator, and vice-versa. Wokshop organizers and Archeofoss organizing commitee (info@archeofoss.org)
+remain fully available for any question or doubt. We will keep in touch very soon!
+
 **[17/09/2020]**
 
 Available the URLs of the broadcast of the conference! Each day has two
