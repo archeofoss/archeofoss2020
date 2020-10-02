@@ -6,7 +6,9 @@ layout: article-slim
 
 **Before the Conference**
 
-All the submitted abstracts – together with the short biography of the author (max. 700 characters), picture, affiliation and email address – will be gathered in a golden open access volume, in digital format. The volume, provided to the authors and participants, will be freely available on the ArcheoFOSS website.
+The **Book of Abstracts** is freely available (golden open access, CC BY-SA 4.0) since 26/08/2020 in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
+
+
 
 **After the Conference**
 
