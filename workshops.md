@@ -9,44 +9,34 @@ The last part of each day of the conference (16:00-19:00) will be dedicated to p
 focused on the topics of the conference. The attendance will be limited in 
 number to ensure a better enjoyment of the events.
 
-The **deadline to register as a participant to the workshop is October 1st, 2020**. Each workshop will be activated when there are at least 7 participants. The timetable of the activated workshops will be published on October 2nd, 2020 on this page and inside the [conference programme](/programme).
 
 Short list of workshops:
 
 1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#bradypus-a-practical-guide-to-the-creation-and-publication-of-a-relational-web-based-database)  
-<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/ bradypus-creation-and-publication-of-a-web-based-database-tickets-118269171275)  
 <i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/bradypus](/whatch/bradypus)
 
 2. [Documentation of cultural heritage data with iDAI.field 2](#documentation-of-cultural-heritage-data-with-idaifield-2)  
-<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/ documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)  
 <i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/idai-field](/whatch/idai-field)
 
 3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction)  
-<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction-tickets-118359070165)  
 <i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/em](/whatch/em)
 
 4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#hands-on-3d-survey-collection-3dsc-for-blender-publish-an-archaeological-site-in-a-game-engine-as-an-optimized-open-world-environment)  
-<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/hands-on-3d-survey-collection-3dsc-for-blender-tickets-118360823409)  
 <i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/3dsc](/whatch/3dsc)
 
 5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#la-documentazione-archeologica-fra-digitalizzazione-dei-dati-e-dematerializzazione-dei-processi-soluzioni-e-strumenti-per-limplementazione-del-geoportale-nazionale-per-larcheologia-e-per-linteroperabilità-con-il-sistema-generale-del-catalogo-mibact)  
-<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/mibact-geoportale-nazionale-per-larcheologia-tickets-118396945451)  
 <i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/gnia](/whatch/gnia)
 
 6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#aton-an-open-source-framework-for-creating-liquid-3d-web-apps-for-ch)  
-<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039)  
 <i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/aton](/whatch/aton)
 
 7. [From QGIS to QFIELD and vice versa](#from-qgis-to-qfield-and-vice-versa)  
-<i class="fa fa-ticket"></i> [Subscribe to workshop on Eventbrite](https://www.eventbrite.it/e/from-qgis-to-qfield-and-vice-versa-tickets-118399671605)  
 <i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/qfield](/whatch/qfield)
 
 ## Bradypus: a practical guide to the creation and publication of a relational web-based database
 
 {: .text-danger}
 **Definitively scheduled for 15<sup>th</sup> of October 2020, 16:00-19:00 CEST**
-
-[Subscribe to workshop 1 on Eventbrite](https://www.eventbrite.it/e/bradypus-creation-and-publication-of-a-web-based-database-tickets-118269171275)
 
 <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/bradypus](/whatch/bradypus)
 
@@ -71,8 +61,6 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 
 {: .text-danger}
 **Definitively scheduled for 16<sup>th</sup> of October 2020, 16:00-19:00 CEST**
-
-[Subscribe to workshop 2 on Eventbrite](https://www.eventbrite.it/e/documentation-of-cultural-heritage-data-with-idaifield-2-tickets-118357361053)
 
 <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/idai-field](/whatch/idai-field)
 
@@ -119,8 +107,6 @@ What the attendees should prepare:
 {: .text-danger}
 **Definitively scheduled for 15<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-[Subscribe to workshop 3 on Eventbrite](https://www.eventbrite.it/e/hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction-tickets-118359070165)
-
 <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/em](/whatch/em)
 
 **Author:** Emanuel Demetrescu \| CNR ISPC
@@ -147,8 +133,6 @@ During the two hours of the workshop, you will install the reference software (B
 {: .text-danger}
 **Definitively scheduled for 16<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-[Subscribe to workshop 4 on Eventbrite](https://www.eventbrite.it/e/hands-on-3d-survey-collection-3dsc-for-blender-tickets-118360823409)
-
 <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/3dsc](/whatch/3dsc)
 
 **Author:** Emanuel Demetrescu \| CNR ISPC
@@ -169,8 +153,6 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 
 {: .text-danger}
 **Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
-
-[Subscribe to workshop 5 on Eventbrite](https://www.eventbrite.it/e/mibact-geoportale-nazionale-per-larcheologia-tickets-118396945451)
 
 <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/gnia](/whatch/gnia)
 
@@ -215,9 +197,6 @@ Software/hardware
 {: .text-danger}
 **Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-[Subscribe to workshop 6 on Eventbrite](https://www.eventbrite.it/e/aton-un-framework-open-per-la-creazione-di-web-app-3d-liquide-per-i-bbcc-tickets-118398145039)
-
-
 <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/aton](/whatch/aton)
 
 **Author:** Bruno Fanini \| CNR ISPC
@@ -245,8 +224,6 @@ The framework is compatible with all OS (linux, windows, Mac OS). PCs must be eq
 
 {: .text-danger}
 **Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
-
-[Subscribe to workshop 7 on Eventbrite](https://www.eventbrite.it/e/from-qgis-to-qfield-and-vice-versa-tickets-118399671605)
 
 <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/qfield](/whatch/qfield)
 
