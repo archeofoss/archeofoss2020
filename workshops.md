@@ -13,32 +13,32 @@ number to ensure a better enjoyment of the events.
 Short list of workshops:
 
 1. [Bradypus: a practical guide to the creation and publication of a relational web-based database](#bradypus-a-practical-guide-to-the-creation-and-publication-of-a-relational-web-based-database)  
-<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/bradypus](/whatch/bradypus)
+<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/watch/bradypus](/watch/bradypus)
 
 2. [Documentation of cultural heritage data with iDAI.field 2](#documentation-of-cultural-heritage-data-with-idaifield-2)  
-<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/idai-field](/whatch/idai-field)
+<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/watch/idai-field](/watch/idai-field)
 
 3. [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](#hands-on-extended-matrix-blender-3d-emtools-for-virtual-reconstruction)  
-<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/em](/whatch/em)
+<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/watch/em](/watch/em)
 
 4. [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](#hands-on-3d-survey-collection-3dsc-for-blender-publish-an-archaeological-site-in-a-game-engine-as-an-optimized-open-world-environment)  
-<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/3dsc](/whatch/3dsc)
+<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/watch/3dsc](/watch/3dsc)
 
 5. [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](#la-documentazione-archeologica-fra-digitalizzazione-dei-dati-e-dematerializzazione-dei-processi-soluzioni-e-strumenti-per-limplementazione-del-geoportale-nazionale-per-larcheologia-e-per-linteroperabilità-con-il-sistema-generale-del-catalogo-mibact)  
-<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/gnia](/whatch/gnia)
+<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/watch/gnia](/watch/gnia)
 
 6. [ATON: an open-source framework for creating liquid 3D web-apps for CH](#aton-an-open-source-framework-for-creating-liquid-3d-web-apps-for-ch)  
-<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/aton](/whatch/aton)
+<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/watch/aton](/watch/aton)
 
 7. [From QGIS to QFIELD and vice versa](#from-qgis-to-qfield-and-vice-versa)  
-<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/whatch/qfield](/whatch/qfield)
+<i class="fas fa-broadcast-tower"></i> Broadcast URL: [2020.archeofoss.org/watch/qfield](/watch/qfield)
 
 ## Bradypus: a practical guide to the creation and publication of a relational web-based database
 
 {: .text-danger}
 **Definitively scheduled for 15<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/bradypus](/whatch/bradypus)
+<i class="fas fa-broadcast-tower"></i> watch at [2020.archeofoss.org/watch/bradypus](/watch/bradypus)
 
 **Author:** Julian Bogdani \| [julian.bogdani@uniroma1.it](mailto:julian.bogdani@uniroma1.it) \| Sapienza University of Rome
 
@@ -62,7 +62,7 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 {: .text-danger}
 **Definitively scheduled for 16<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/idai-field](/whatch/idai-field)
+<i class="fas fa-broadcast-tower"></i> watch at [2020.archeofoss.org/watch/idai-field](/watch/idai-field)
 
 **Authors:** 
 - Juliane Watson \| [juliane.Watson@dainst.de](mailto:juliane.Watson@dainst.de) \| DAINST
@@ -107,7 +107,7 @@ What the attendees should prepare:
 {: .text-danger}
 **Definitively scheduled for 15<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/em](/whatch/em)
+<i class="fas fa-broadcast-tower"></i> watch at [2020.archeofoss.org/watch/em](/watch/em)
 
 **Author:** Emanuel Demetrescu \| CNR ISPC
 
@@ -133,7 +133,7 @@ During the two hours of the workshop, you will install the reference software (B
 {: .text-danger}
 **Definitively scheduled for 16<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/3dsc](/whatch/3dsc)
+<i class="fas fa-broadcast-tower"></i> watch at [2020.archeofoss.org/watch/3dsc](/watch/3dsc)
 
 **Author:** Emanuel Demetrescu \| CNR ISPC
 
@@ -154,7 +154,7 @@ The 3D survey in Archaeology through Photogrammetric technologies has largely ta
 {: .text-danger}
 **Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/gnia](/whatch/gnia)
+<i class="fas fa-broadcast-tower"></i> watch at [2020.archeofoss.org/watch/gnia](/watch/gnia)
 
 **Authors:** 
 - Valeria Acconcia \| [valeria.acconcia@beniculturali.it](mailto:valeria.acconcia@beniculturali.it) \| MiBACT
@@ -197,7 +197,7 @@ Software/hardware
 {: .text-danger}
 **Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/aton](/whatch/aton)
+<i class="fas fa-broadcast-tower"></i> watch at [2020.archeofoss.org/watch/aton](/watch/aton)
 
 **Author:** Bruno Fanini \| CNR ISPC
 
@@ -225,7 +225,7 @@ The framework is compatible with all OS (linux, windows, Mac OS). PCs must be eq
 {: .text-danger}
 **Definitively scheduled for 17<sup>th</sup> of October 2020, 16:00-19:00 CEST**
 
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/qfield](/whatch/qfield)
+<i class="fas fa-broadcast-tower"></i> watch at [2020.archeofoss.org/watch/qfield](/watch/qfield)
 
 **Authors:** Roberto Montagnetti, Giuseppe Guarino
 
