@@ -22,7 +22,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ## Day 1. October 15<sup>th</sup> 2020
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d1-am](/whatch/d1-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d1-am](/watch/d1-am)
 
 - **09:30** [CEST] - Conference welcome and opening
 - **10:00** [CEST] - Panel 1 (see detail below)
@@ -54,7 +54,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d1-am](/whatch/d1-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d1-am](/watch/d1-am)
 
 - **14:15** [CEST] Filippo Diara, Fulvio Rinaudo  
 [*Towards FreeCAD experimentations and validation as a FOSS HBIM platform for building archaeology purposes.*](abstracts/diara)
@@ -72,11 +72,11 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 **Please note that the two workshops will run in parallel, on two different channels**
     - Julian Bogdani  
     [Bradypus: a practical guide to the creation and publication of a relational web-based database](/workshops#workshop-1)  
-    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/bradypus](/whatch/bradypus)
+    <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/bradypus](/watch/bradypus)
 
     - Emanuel Demetrescu  
     [Hands on Extended Matrix: Blender 3D EMtools for virtual reconstruction](/workshops#workshop-3)  
-    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/em](/whatch/em)
+    <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/em](/watch/em)
 
 
 ## Day 2. October 16<sup>th</sup> 2020
@@ -84,7 +84,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 #### ![icon](./images/icons/share.svg "Share") Panel 2. Creation, use and Promotion of Open Data and Open Formats in Archaeology
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d2-am](/whatch/d2-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d2-am](/watch/d2-am)
 
 - **09:30** [CEST] Gabriele Gattiglia, Francesca Anichini  
 [*The ArchAIDE Archive.*](abstracts/gattiglia)
@@ -111,7 +111,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d2-pm](/whatch/d2-pm)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d2-pm](/watch/d2-pm)
 
 
 - **14:00** [CEST] Julian Bogdani  
@@ -132,10 +132,10 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 **Please note that the two workshops will run in parallel, on two different channels**
     - Juliane Watson, Sebastian Cuy and Fabian Riebschläger  
     [Documentation of cultural heritage data with iDAI.field 2](workshops#workshop-2)  
-    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/idai-field](/whatch/idai-field)
+    <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/idai-field](/watch/idai-field)
     - Emanuel Demetrescu  
     [Hands on 3D survey collection (3DSC) for Blender: publish an archaeological site in a game engine as an optimized, open world environment](workshops#workshop-4)  
-    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/3dsc](/whatch/3dsc)
+    <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/3dsc](/watch/3dsc)
 
 
 ## Day 3. October 17<sup>th</sup> 2020
@@ -143,7 +143,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 #### ![icon](./images/icons/gears.svg "Gears") Panel 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage 
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d3-am](/whatch/d3-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d3-am](/watch/d3-am)
 
 
 - **10:00** [CEST] Joseph Lewis  
@@ -171,7 +171,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/d3-pm](/whatch/d3-pm)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d3-pm](/watch/d3-pm)
 
 - **14:15** [CEST] Round Table *ArcheoFOSS. An insight into the future*
 
@@ -179,11 +179,11 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 **Please note that the three workshops will run in parallel, on three different channels**
     - Valeria Acconcia, Barbara Barbaro, Valeria Boi, Lucia Ceci, Annalisa Falcone, Maria Grazia Fichera, Ada Gabucci, Maria Letizia Mancinelli, Antonella Negri  
     [La documentazione archeologica fra digitalizzazione dei dati e dematerializzazione dei processi: soluzioni e strumenti per l’implementazione del Geoportale Nazionale per l’Archeologia e per l’interoperabilità con il Sistema Generale del Catalogo MiBACT](workshops#workshop-5)  
-    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/gnia](/whatch/gnia)
+    <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/gnia](/watch/gnia)
     - Bruno Fanini  
     [ATON: an open-source framework for creating liquid 3D web-apps for CH](workshops#workshop-6)  
-    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/aton](/whatch/aton)
+    <i class="fas fa-broadcast-tower"></i> Whtch at [2020.archeofoss.org/watch/aton](/watch/aton)
     - Roberto Montagnetti, Giuseppe Guarino  
     [From QGIS to QFIELD and vice versa](workshops#workshop-7)  
-    <i class="fas fa-broadcast-tower"></i> Whatch at [2020.archeofoss.org/whatch/qfield](/whatch/qfield)
+    <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/qfield](/watch/qfield)
 
