@@ -29,7 +29,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 #### ![icon](images/icons/trowel.svg "Trowel") Panel 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology
 
-**Chair**: Augusto Palombini, National Italian National Research Council |Institute for Technologies Applied to Cultural Heritage ITABC
+**Chair**: Augusto Palombini, Italian National Research Council - Institute of Cultural Heritage Science
 
 
 - **10:00** [CEST] Filippo Brandolini, Francesco Carrer  
