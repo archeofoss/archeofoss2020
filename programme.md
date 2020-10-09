@@ -27,7 +27,10 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **09:30** [CEST] - Conference welcome and opening
 - **10:00** [CEST] - Panel 1 (see detail below)
 
-#### ![icon](images/icons/trowel.svg "Trowel") Panel 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology 
+#### ![icon](images/icons/trowel.svg "Trowel") Panel 1. Use and Application of Free/Libre and Open Source (FLOS) Tools in Archaeology
+
+**Chair**: Augusto Palombini, Italian National Research Council - Institute of Cultural Heritage Science
+
 
 - **10:00** [CEST] Filippo Brandolini, Francesco Carrer  
 [*Human response to Late Holocene climate change in Northern Italy: integration of geomorphological and archaeological data through a FLOS-based workflow.*](abstracts/brandolini)
@@ -55,6 +58,9 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 {: .border .bg-white .p-2}
 <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d1-am](/watch/d1-am)
+
+**Chair**: Anna Marras, University of Turin
+
 
 - **14:15** [CEST] Filippo Diara, Fulvio Rinaudo  
 [*Towards FreeCAD experimentations and validation as a FOSS HBIM platform for building archaeology purposes.*](abstracts/diara)
@@ -84,6 +90,9 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 {: .border .bg-white .p-2}
 <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d2-am](/watch/d2-am)
 
+**Chair**: Valeria Vitale, Pelagios Commons (London)
+
+
 - **09:30** [CEST] Gabriele Gattiglia, Francesca Anichini  
 [*The ArchAIDE Archive.*](abstracts/gattiglia)
 
@@ -111,6 +120,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 {: .border .bg-white .p-2}
 <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d2-pm](/watch/d2-pm)
 
+**Chair**: Gabriele Gattiglia, University of Pisa
 
 - **14:00** [CEST] Julian Bogdani  
 [*Fieldnotes for the development and publication of open standards for the vectorization of archaeologic and architectonic topographic legacy data.*](abstracts/bogdani)
@@ -140,6 +150,8 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 {: .border .bg-white .p-2}
 <i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d3-am](/watch/d3-am)
+
+**Chair**: Benjamin Ducke, Director of the Department of Information Technology - German Archaeological Institute (DAI), Berlin 
 
 
 - **10:00** [CEST] Joseph Lewis  

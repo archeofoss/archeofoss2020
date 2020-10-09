@@ -5,7 +5,7 @@ layout: article-slim
 ---
 
 
-## Scientific commiteee
+## Scientific commitee
 - **Luca Bezzi**, ArcTeam. Cles (TN)  
 [luca.bezzi@arc-team.com](luca.bezzi@arc-team.com)
     - Independent researcher and member of ArcTeam, Cles (TN)
