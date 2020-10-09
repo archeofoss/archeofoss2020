@@ -22,7 +22,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ## Day 1. October 15<sup>th</sup> 2020
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d1-am](/watch/d1-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/](/watch/)
 
 - **09:30** [CEST] - Conference welcome and opening
 - **10:00** [CEST] - Panel 1 (see detail below)
@@ -57,7 +57,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d1-am](/watch/d1-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/](/watch/)
 
 **Chair**: Anna Marras, University of Turin
 
@@ -88,7 +88,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 #### ![icon](./images/icons/share.svg "Share") Panel 2. Creation, use and Promotion of Open Data and Open Formats in Archaeology
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d2-am](/watch/d2-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/](/watch/)
 
 **Chair**: Valeria Vitale, Pelagios Commons (London)
 
@@ -118,7 +118,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d2-pm](/watch/d2-pm)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/](/watch/)
 
 **Chair**: Gabriele Gattiglia, University of Pisa
 
@@ -149,7 +149,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 #### ![icon](./images/icons/gears.svg "Gears") Panel 3. Development and Customization of FLOS Software and Hardware Solutions for Cultural Heritage 
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d3-am](/watch/d3-am)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/](/watch/)
 
 **Chair**: Benjamin Ducke, Director of the Department of Information Technology - German Archaeological Institute (DAI), Berlin 
 
@@ -179,7 +179,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/d3-pm](/watch/d3-pm)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/](/watch/)
 
 - **14:15** [CEST] Round Table *ArcheoFOSS. An insight into the future*
 
