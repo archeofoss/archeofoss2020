@@ -53,7 +53,7 @@ The aim of the portal is to allow access to the project’s epigraphic data on R
 ---
 
 
-# SITAR
+# SITAR - Sistema Informativo Territoriale Archeologico di Roma
 
 ### Authors: Mirella **Serlorenzi** and SITAR team
 
