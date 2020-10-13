@@ -55,7 +55,7 @@ The aim of the portal is to allow access to the project’s epigraphic data on R
 
 # SITAR
 
-### Authors: Mirella **Serlorenzi**
+### Authors: Mirella **Serlorenzi** and SITAR team
 
 SITAR (Sistema Informativo Territoriale Archeologico di Roma) is a public archaeology project promoted by the Soprintendenza Speciale Archeologia Belle Arti e Paesaggio di Roma. To enhance visibility, transparency and dissemination of archaeological knowledge has been the main ambition since the early stages of the project (2007); it was carried out through scientific data sharing related to archaeological excavations undertaken in the city of Rome.  
 The OPEN DATA digital platform contains spatial data, attributes and documents from over 6000 excavations, these information can be easily visualized, queried and acquired in the main open formats, both raster and vector, as well as through geo-services protocols (WMS/WFS). Platform indexing and searching engines, together with an advanced OCR (optical character recognition) system, allow users to carry out full-text searches within the Digital Library's database. SITAR has been designed to ensure maximum inbound and outbound interoperability with other information systems through RESTful API with JSON format.
