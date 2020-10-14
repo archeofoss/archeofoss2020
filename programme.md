@@ -26,8 +26,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 
 - **09:30** [CEST] - Conference welcome and opening
 
-- Demo presentation: [*AF 2006-2020. An incomplete Introspective view on the FLOS/CH community*](/demos/#af-2006-2020-an-incomplete-introspective-view-on-the-flosch-community)
-
+- Demo presentation: [*AF 2006-2020. An incomplete Introspective view on the FLOS/CH community*](/demos#af-2006-2020-an-incomplete-introspective-view-on-the-flosch-community)
 
 - **10:00** [CEST] - Panel 1 (see detail below)
 
@@ -45,7 +44,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **10:50** [CEST]  Fabiana Battistin, Stefano de Angeli, Federico Valerio Moresi, Giancarlo Pastura, Matteo Serpetti  
 [*Valutazione integrata delle dinamiche di rischio di erosione del suolo in presenza di depositi archeologici. Il metodo proposto dal progetto RESEARCH (REmote SEnsing techniques for ARCHaeology)*](/abstracts/battistin)
 
-- Demo presentation: [*Roman Open Data: computational tool to analyze the Roman Empire trading system*](/demos/#roman-open-data-computational-tool-to-analyze-the-roman-empire-trading-system)
+- Demo presentation: [*Roman Open Data: computational tool to analyze the Roman Empire trading system*](/demos#roman-open-data-computational-tool-to-analyze-the-roman-empire-trading-system)
 
 - **11:15** [CEST] Coffee Break
 
@@ -108,7 +107,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **10:20** [CEST] Mirella Serlorenzi, Riccardo Montalbano, Ascanio D’Andrea, Carlo Cifarelli  
 [*SITAR: a new OPEN DATA infrastructure for a public archaeology of Rome.*](abstracts/serlorenzi)
 
-- Demo presentation: [*SITAR - Sistema Informativo Territoriale Archeologico di Roma*](/demos/#sitar---sistema-informativo-territoriale-archeologico-di-roma)
+- Demo presentation: [*SITAR - Sistema Informativo Territoriale Archeologico di Roma*](/demos#sitar---sistema-informativo-territoriale-archeologico-di-roma)
 
 - **10:45** [CEST] Coffee break
 
@@ -136,7 +135,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **14:25** [CEST] Andrea D’Andrea, Francesca Forte  
 [*Analisi e confronto di formati spaziali aperti e non aperti per la ricerca archeologica.*](abstracts/d-andrea)
 
-- Demo presentation: [*PAThs: the Archaeological Atlas of Coptic Literature*](/demos/#paths-the-archaeological-atlas-of-coptic-literature)
+- Demo presentation: [*PAThs: the Archaeological Atlas of Coptic Literature*](/demos#paths-the-archaeological-atlas-of-coptic-literature)
 
 - **14:50** [CEST] Coffe break
 
