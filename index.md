@@ -7,6 +7,12 @@ permalink: /
 
 ## Latest news
 
+**[14/10/2020]**
+It is now available an open Telegram group that can be used during the conference days.
+You can inscribe to the group by following the link: [https://t.me/archeofoss](https://t.me/archeofoss).
+Please use the group to notify broardcast issues or to ask questions to the conference presenters.
+
+
 **[02/10/2020]**
 This morning have been closed the subscriptions to the workshops. Thank you all for the **very large** partecipation. We will give
 your contacts to each workshop organizator, and vice-versa. Wokshop organizers and Archeofoss organizing commitee (info@archeofoss.org)
