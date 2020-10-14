@@ -179,7 +179,7 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 ---
 
 {: .border .bg-white .p-2}
-<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/](/watch/)
+<i class="fas fa-broadcast-tower"></i> Watch at [2020.archeofoss.org/watch/round-table](/watch/round-table)
 
 - **14:15** [CEST] Round Table *ArcheoFOSS. An insight into the future*
 
