@@ -7,6 +7,21 @@ permalink: /
 
 ## Latest news
 
+**[15/10/2020]**
+ArcheoFOSS 2020 is on air!
+
+To follow the conference works:
+- live on our site ([https://2020.archeofoss.org/watch/](watch/))
+- live on YouTube:
+    - Day 1: [https://www.youtube.com/watch?v=3XtJyoz3Ppc](https://www.youtube.com/watch?v=3XtJyoz3Ppc)
+    - Day 2: [https://www.youtube.com/watch?v=bgkLcKsKtOA](https://www.youtube.com/watch?v=bgkLcKsKtOA)
+    - Day 3: [https://www.youtube.com/watch?v=GieO7FGBbrQ](https://www.youtube.com/watch?v=GieO7FGBbrQ)
+- or live on Facebook ([https://www.facebook.com/archeofoss/](https://www.facebook.com/archeofoss/))
+
+Ask your questions on directly on YouTube and Facebook or join our public Telegram group ([https://t.me/archeofoss](https://t.me/archeofoss))
+
+For small talk and coffe break, we coud meet in the virtual bar, at [https://mm.topstream.it/Bar-di-ArcheoFOSS](https://mm.topstream.it/Bar-di-ArcheoFOSS). It is always open!
+
 **[14/10/2020]**
 It is now available an open Telegram group that can be used during the conference days.
 You can inscribe to the group by following the link: [https://t.me/archeofoss](https://t.me/archeofoss).
