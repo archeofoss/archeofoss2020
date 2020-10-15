@@ -9,6 +9,7 @@ layout: article-slim
 1. [Roman Open Data: computational tool to analyze the Roman Empire trading system](#roman-open-data-computational-tool-to-analyze-the-roman-empire-trading-system)
 1. [SITAR: Sistema Informativo Territoriale Archeologico di Roma](#)
 1. [AF 2006-2020. An incomplete Introspective view on the FLOS/CH community](#af-2006-2020-an-incomplete-introspective-view-on-the-flosch-community)
+2. [Virtual Archaeology for the little guy? A case-study based assessment of the feasibility and sustainability of minimal resource VR modelling and its applicability to small-scale archaeological research](#virtual-archaeology-for-the-little-guy-a-case-study-based-assessment-of-the-feasibility-and-sustainability-of-minimal-resource-vr-modelling-and-its-applicability-to-small-scale-archaeological-research)
 
 
 
@@ -83,4 +84,25 @@ software, applications and data portals. Hopefully it will offer useful consider
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/9ey-5-D07uk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+---
+
+
+# Virtual Archaeology for the little guy? A case-study based assessment of the feasibility and sustainability of minimal resource VR modelling and its applicability to small-scale archaeological research
+
+### Authors: Ben **Price**
+
+The prevalence and sheer accessibility of computer games engines has been a revolution in the indie games development scene for a number of years now, and use of games engines in archaeology is certainly no new thing, but can this free resource be used for non-games related tools for archaeological investigation and if so can it be done without the backing of a multidisciplinary  team?
+
+In my recent PhD thesis, I attempted to answer just this question and explore the realms of free to use and open source tools to create a Virtual Reality tool that can investigate virtual landscapes produced with LIDAR and a smattering of reconstructed models. The goals of the investigation were to see what the pitfalls were along the development track and whether these could be overcome by a single developer, whether such a tool was even feasible with a games engine (in this case the Unreal Engine 4) and what impressions such a tool would have on archaeologists familiar with the real landscape. This paper is a summarisation of that thesis, discussing how this accessible method of application creation can not only provide an academically beneficial method of investigation but also show that it is affordable and within the means of dedicated people to produce.
+
+The free development tools used were the Unreal Engine 4 by Epic Games which is royalty  free for free projects, the Cloudcompare open source project, and the GDAL open source  toolset for geographic data. Other software that was used was free for students but not generally free, such as Autodesks Maya, Allgorithmic (now Adobe) Substance. Other free resources were used such as a plethora of free plugins for the Unreal Engine, all with the aim of keeping costs as low as possible. 
+
+In essence the project proved that yes, it is possible to produce such a tool but the process (currently) is not for the fainthearted. However recent additions to the Unreal Engine have the potential to significantly improve the workflow resulting in faster conversion of LIDAR data to 3D landscapes.
+
+- View as a movie on YouTube [https://youtu.be/6JZwZnU4Cpg](https://youtu.be/6JZwZnU4Cpg)
+
+<div class="embed-responsive embed-responsive-16by9">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/6JZwZnU4Cpg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
