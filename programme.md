@@ -73,9 +73,6 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **14:40** [CEST] Paolo Rosati  
 [*FLOS per i Musei: soluzioni open per formare le comunità e gestire i luoghi culturali.*](abstracts/rosati)
 
-- **15:05** [CEST] Saverio Giulio Malatesta  
-[*Cultura libera per la valorizzazione territoriale: metodologie e strumenti aperti.*](abstracts/malatesta)
-
 - **16:00-19:00** [CEST] Workshop session 1  
 **Please note that the two workshops will run in parallel, on two different channels**
     - Julian Bogdani  
