@@ -70,14 +70,11 @@ The **Book of Abstracts** is already and freely available in Zenodo [![DOI](http
 - **14:15** [CEST] Filippo Diara, Fulvio Rinaudo  
 [*Towards FreeCAD experimentations and validation as a FOSS HBIM platform for building archaeology purposes.*](abstracts/diara)
 
-- **14:40** [CEST] Ben Price  
-[*Virtual Archaeology for the little guy? A case-study based assessment of the feasibility and sustainability of minimal resource VR modeling and its applicability to small-scale archaeological research.*](abstracts/price)
+- **14:40** [CEST] Paolo Rosati  
+[*FLOS per i Musei: soluzioni open per formare le comunità e gestire i luoghi culturali.*](abstracts/rosati)
 
 - **15:05** [CEST] Saverio Giulio Malatesta  
 [*Cultura libera per la valorizzazione territoriale: metodologie e strumenti aperti.*](abstracts/malatesta)
-
-- **15:30** [CEST] Paolo Rosati  
-[*FLOS per i Musei: soluzioni open per formare le comunità e gestire i luoghi culturali.*](abstracts/rosati)
 
 - **16:00-19:00** [CEST] Workshop session 1  
 **Please note that the two workshops will run in parallel, on two different channels**
