@@ -22,6 +22,9 @@ Ask your questions on directly on YouTube and Facebook or join our public Telegr
 
 For small talk and coffe break, we coud meet in the virtual bar, at [https://mm.topstream.it/Bar-di-ArcheoFOSS](https://mm.topstream.it/Bar-di-ArcheoFOSS). It is always open!
 
+To partecipate to the final Round Table *ArcheoFOSS. An insight into the future* join us at 
+[2020.archeofoss.org/watch/round-table (Zoom.us provided by Sapienza)](/watch/round-table)
+
 **[14/10/2020]**
 It is now available an open Telegram group that can be used during the conference days.
 You can inscribe to the group by following the link: [https://t.me/archeofoss](https://t.me/archeofoss).
