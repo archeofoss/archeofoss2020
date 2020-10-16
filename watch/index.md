@@ -3,7 +3,7 @@ title: "Watch live ArcheoFOSS International Conference 2020"
 layout: article-slim
 ---
 
-## Day 2: 16 October 2020
+## Day 2: 16 October 2020 (now live)
 
 <div class="embed-responsive embed-responsive-16by9">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bgkLcKsKtOA " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
