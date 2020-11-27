@@ -63,7 +63,7 @@ layout: article-slim
     - Since 1990 he has directed the magazine "Archaeology and Calculators".
     - Founding member of the International Academy of Humanities Computing and Digital Humanities
     - Scientific director of the international research project "The history of archaeological informatics", conducted in agreement with the Accademia Nazionale dei Lincei
-    - It has supported the ArcheoFOSS conference since its inception, hosting the Proceedings of numerous editions in the magazine "Archeology and Calculators".
+    - She has supported the ArcheoFOSS conference since its inception, hosting the Proceedings of numerous editions in the journal "Archeology and Calculators".
 - **Antonella Negri**, ICCD. Rome  
 [antonella.negri@beniculturali.it](mailto:antonella.negri@beniculturali.it)  
     - Central Institute for Catalogue and Documentation (ICCD) - Ministry for Cultural Heritage and Activities and Tourism (MiBACT)
