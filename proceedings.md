@@ -30,17 +30,17 @@ The second step of the evaluation is entrusted to an expert in the subject under
 
 ### Editorial guidelines
 
-Language: papers for the proceedings can be submitted in English (preferred) or Italian. Before submitting the texts, a linguistic review by a native speaker is strongly recommended.
+**Language**: papers for the proceedings can be submitted in English (preferred) or Italian. Before submitting the texts, a linguistic review by a native speaker is strongly recommended.
 
-Abstract: In any case, a short abstract (maximum 600 characters) in English must be included.
+**Abstract**: In any case, a short abstract (maximum 600 characters) in English must be included.
 
-Length: Each paper must not exceed the maximum length of 20,000 characters including blank spaces, bibliography and captions.
+**Length**: Each paper must not exceed the maximum length of 20,000 characters including blank spaces, bibliography and captions.
 
-Images: The text can be accompanied by up to 6 images, in a quality suitable for printing (300dpi). Images must be delivered as independent files and must always be accompanied by a caption (to be included at the end of the main text) with precise indication of the source. All authors must have the rights to reproduce the images. A release form covering text and images will be provided for the purpose.
+**Images**: The text can be accompanied by up to 6 images, in a quality suitable for printing (300dpi). Images must be delivered as independent files and must always be accompanied by a caption (to be included at the end of the main text) with precise indication of the source. All authors must have the rights to reproduce the images. A release form covering text and images will be provided for the purpose.
 
-Bibliography: for bibliographical references and citation lists the use of Chicago Manual of Style, Author year [https://www.chicagomanualofstyle.org/tools_citationguide.html](https://www.chicagomanualofstyle.org/tools_citationguide.html) is required and the use of citation management systems such as Zotero or Mendeley is strongly recommended (in which case the bibliographical database must accompany the text). It is advisable to limit the use of footnotes as much as possible and to include bibliographical references in the text, in brackets (Author year system: e.g., Montalbano 2020).
+**Bibliography**: for bibliographical references and citation lists the use of Chicago Manual of Style, Author year ([https://www.chicagomanualofstyle.org/tools_citationguide.html](https://www.chicagomanualofstyle.org/tools_citationguide.html)) is required and the use of citation management systems such as Zotero or Mendeley is strongly recommended (in which case the bibliographical database must accompany the text). It is advisable to limit the use of footnotes as much as possible and to include bibliographical references in the text, in brackets (Author year system: e.g., Montalbano 2020).
 
-Affiliation: Affiliation (when available) and an email address for each author is required.
+**Affiliation**: Affiliation (when available) and an email address for each author is required.
 
 ### Templates
 
