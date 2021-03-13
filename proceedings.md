@@ -18,7 +18,7 @@ The process of paper collecting and evaluating will be entirely managed through 
 
 ### Deadline
 
-The papers must be sent by **March 15, 2021**.
+The papers must be sent by ~~**March 15, 2021**~~ **March 31st, 2021**.
 
 Considering challenging time constraints, the delay in delivery may lead to the exclusion of the contribution from publication.
 
