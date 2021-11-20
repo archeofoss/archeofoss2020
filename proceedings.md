@@ -13,7 +13,7 @@ The **Book of Abstracts** is freely available (golden open access, CC BY-SA 4.0)
 
 The proceedings will be published as an open-access volume by [Archaeopress](https://www.archaeopress.com/). The volume will be available in digital format (PDF) during the works of the 2021 conference edition (23-26 Novembrer 2021) and the printed version will be available during the first week of December 2021.
 
-During the 2021 edition works it will be possible to order a copy of the printed version and benefit of the special offer of **£28.50** instead of the full price of £38.00. Please use this offer-leaflet to ordre your volume now!
+During the 2021 edition works it will be possible to order a copy of the printed version and benefit of the special offer of **£28.50** instead of the full price of £38.00. Please use [this offer-leaflet](images/AA Bogdani pre-order offer.pdf) to order your volume now!
 
 
 ### License
