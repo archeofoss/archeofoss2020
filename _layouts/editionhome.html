@@ -7,8 +7,9 @@ layout: default
       <div class="align-self-end text-center col-md-6 offset-md-3">
         <div class="intro-text">
           <h1>Archeo<span class="text-primary">.</span>FOSS</h1>
+            <h2>XIV <span class="text-primary">|</span> 2020</h2>
           <p class="mb-4">
-            International conference on Open software, hardware, processes, data and formats 
+            Open software, hardware, processes, data and formats 
             <span class="d-block">in archaeological research</span></p>
             <img src="{{ "images/archeofoss-2.svg" | relative_url }}" alt="Image" class="img-fluid cover-img">
         </div>
@@ -18,7 +19,7 @@ layout: default
   </div>
 </section> 
 
-{% if content %}
+
 <section class="site-section" id="about-section">
   <div class="container">
     <div class="row">
@@ -26,9 +27,12 @@ layout: default
         <h1 class="text-black mb-3 text-center">{{ page.title }}</h1>
         <div class="my-5 content">
           {{ content}}
+
+          {% include map.html %}
+
         </div>
       </div>
     </div>
   </div>
 </section>
-{% endif %}
+

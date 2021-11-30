@@ -1,14 +1,22 @@
-- title: Watch the conference
-  url: /watch/
-- title: Programme
-  url: /programme
-- title: Workshops
-  url: /workshops
-- title: Demos
-  url: /demos
-- title: Proceedings
-  url: /proceedings
-- title: About
-  url: /about-us
-- title: Archive
-  url: https://archivio.archeofoss.org
+default:
+  - title: Current edition
+    url: /2022/
+  - title: Previous editions
+    url: /previous-editions
+  - title: Scientific committee
+    url: /scientific-committee
+'2020':
+  - title: Start
+    url: /2020/
+  - title: Watch
+    url: /2020/watch/
+  - title: Programme
+    url: /2020/programme
+  - title: Workshops
+    url: /2020/workshops
+  - title: Demos
+    url: /2020/demos
+  - title: Proceedings
+    url: /2020/proceedings
+  - title: People
+    url: /2020/people

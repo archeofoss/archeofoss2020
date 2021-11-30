@@ -1,5 +1,5 @@
 ---
-title: "About us"
+title: "People"
 description: "Scientific and organizing commitees of ArcheoFOSS 2020"
 layout: article-slim
 ---

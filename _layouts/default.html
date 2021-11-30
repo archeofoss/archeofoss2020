@@ -1,3 +1,8 @@
+{% if page.url contains '/2020/' %}
+{% assign year = '2020' %}
+{% elsif page.url contains '/2021/' %}
+{% assign year = '2021' %}
+{% endif %}
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -60,22 +65,14 @@
             <div class="col-8 col-xl-2">
               <h1 class="mb-0 site-logo">
                 <a href={{ "/" | relative_url }} class="h2 mb-0">
-                  ARCHEO<span class="text-primary">.</span>FOSS <span class="text-primary">|2020</span></a>
+                  ARCHEO<span class="text-primary">.</span>FOSS 
+                  {% if year %} <span class="text-primary">|2020</span>{% endif %}
+                </a>
               </h1>
             </div>
   
             <div class="col-12 col-md-10 d-none d-xl-block">
-              <nav class="site-navigation position-relative text-right" role="navigation">
-                <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                  {% for item in site.data.menu %}
-                  <li>
-                    <a href="{{ item.url  }}" title="{{ item.title }}" class="nav-link">
-                      {{ item.title }}
-                    </a>
-                  </li>
-                  {% endfor %}
-                </ul>
-              </nav>
+              {% include menu.html year=year %}
             </div>
 
             <div class="col-4 d-inline-block d-xl-none ml-md-0 py-3" style="position: relative; top: 3px;">
