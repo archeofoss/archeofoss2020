@@ -11,7 +11,7 @@ ednumber: 2021
 **[22/11/2021]**
 
 ArcheoFOSS goes live tomorrow! **ATTENTION**: The links for the Facebook and YouTube live streams have been posted on the **[Watch the conference](./watch-the-conference)** page.
-We remind you that you can also subscribe to the [Telegram channel](https://t.me/ArcheoFOSS_2021) dedicated to this year's edition to ask your questions!
+We remind you that you can also subscribe to the [Telegram channel](https://t.me/ArcheoFOSS) dedicated to this year's edition to ask your questions!
 Thank you, we look forward to seeing you tomorrow!
 
 **[21/11/2021]**
@@ -41,7 +41,7 @@ The call for talks and workshop is now closed. A **possible extension of the dea
 
 From now on, for **questions/clarifications/updates** about the conference, the **Telegram** channel of the 15th edition of ArcheoFOSS is operative.
 
-Subscribe through this link: [https://t.me/ArcheoFOSS_2021](https://t.me/ArcheoFOSS_2021)
+Subscribe through this link: [https://t.me/ArcheoFOSS](https://t.me/ArcheoFOSS)
 
 **[20/05/2021]**
 
