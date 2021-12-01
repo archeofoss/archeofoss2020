@@ -10,7 +10,7 @@ ednumber: 2021
 
 **[22/11/2021]**
 
-ArcheoFOSS goes live tomorrow! **ATTENTION**: The links for the Facebook and YouTube live streams have been posted on the **[Watch the conference](/watch-the-conference)** page.
+ArcheoFOSS goes live tomorrow! **ATTENTION**: The links for the Facebook and YouTube live streams have been posted on the **[Watch the conference](./watch-the-conference)** page.
 We remind you that you can also subscribe to the [Telegram channel](https://t.me/ArcheoFOSS_2021) dedicated to this year's edition to ask your questions!
 Thank you, we look forward to seeing you tomorrow!
 

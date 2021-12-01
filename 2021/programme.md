@@ -11,11 +11,12 @@ Data and Formats in Archaeological Research will be held online on
 
 **The pre-conference proceedings are [now available!](https://www.academia.edu/61681414/Book_of_Abstracts_ArcheoFOSS_International_Conference_2021)**
 
-## TALKS
 
 ### 23/11/2021
 
-#### Section 1: GIS
+#### ![icon](../images/2020/icons/trowel.svg "Trowel") Section 1: GIS
+
+**Chair**: Valeria Vitale. Institute of Classical Studies
 
 **9:30-9:40**
 
@@ -46,7 +47,6 @@ Guillem Domingo-Ribas<sup>1</sup>; Filippo Brandolini<sup>1</sup>
 <sup>1</sup>School of History, Classics and Archaeology, Newcastle University, UK
 
 **10:10-10:30**
-
 **Questions and Answers for the 1-4 Talks**
 
 **PAUSE: 10:30-10:45**
@@ -83,12 +83,13 @@ Giorgia Dato<sup>1</sup>; Eugenio Saccà<sup>2</sup>; Alessandro Spadaro<sup>3</
 <sup>1</sup>Independent Researcher; <sup>2</sup>Università degli Studi della Basilicata - Scuola di specializzazione in beni archeologici; <sup>3</sup>Università degli Studi di Roma Tre - Facoltà di Architettura
 
 **11:25-11:45**
-
 **Questions and Answers for the 5-8 Talks**
 
 **PAUSE: 11:45-12:00**
 
-#### Section 3: 3D
+#### ![icon](../images/2020/icons/share.svg "Share") Section 3: 3D
+
+**Chair**: Sara Gonizzi Barsanti. Università degli Studi della Campania Luigi Vanvitelli
 
 **12:00-12:10**
 
@@ -124,14 +125,14 @@ Cristina Gonzalez-Esteban<sup>1</sup>
 
 **LUNCH: 13:00-14:00**
 
-#### Section 4: Open Data
+#### ![icon](../images/2020/icons/gears.svg "Gears") Section 4: Open Data
 
 **14:00-14:10**
 
 _Using programming environments for academic research and writing_
 
 Morgan Lemmer-Webber<sup>1</sup><sup>,</sup><sup>2</sup>  
- <sup>1</sup>Independent Scholar; <sup>2</sup>University of Wisconsin, Madison (PhD conferred May 2021)
+ <sup>1</sup>Independent Scholar; <sup>2</sup>University of Wisconsin, Madison
 
 **14:10-14:20**
 
