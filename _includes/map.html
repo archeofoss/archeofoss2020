@@ -1,8 +1,12 @@
 <h2>Map of the conference participants</h2>
 <p>Workshops and Demos are comming soon</p>
-<p class="lead"><a href="/programme" title="Conference programme">Follow this link for the full conference programme</a></p>
+<p class="lead">
+    <a href="./programme" title="Conference programme">
+        Follow this link for the full conference programme
+    </a>
+</p>
 <div id="map" style="color: #fff">
-{% for art in site.pages %} {% if art.geo %}
+{% for art in site.pages %} {% if art.geo and art.path contains include.year %}
     {
     "title": "{{ art.title }}",
     "url": "{{ art.url | replace: ".html", "" }}",

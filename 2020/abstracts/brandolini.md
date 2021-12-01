@@ -6,7 +6,7 @@ images:
   - ../images/2020/abstracts/brandolini-01.jpg|Fig. 1. Project FLOS-based workflow.
   - ../images/2020/abstracts/brandolini-02.jpg|Fig. 2. The three covariates employed in the PPA. From the left MTI, SOIL, VAE.
   - ../images/2020/abstracts/brandolini-03.jpg|Fig. 3. Spatial distribution of the Roman Point Pattern (white dots) and the Medieval Point Pattern (black dots) within the study area (bounded region).
-  ../images/2020/abstracts/brandolini-04.jpg|Fig. 4. Homogeneous and inhomogeneous cross-K function measurements.
+  - ../images/2020/abstracts/brandolini-04.jpg|Fig. 4. Homogeneous and inhomogeneous cross-K function measurements.
 geo:
   - 54.97918
   - -1.61466

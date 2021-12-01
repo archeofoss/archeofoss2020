@@ -2,15 +2,15 @@
 title: "ArcheoFOSS 2021"
 description: "ArcheoFOSS 2021: Open software, hardware, processes, data and formats in archaeological research"
 layout: editionhome
-edyear: XV
-ednumber: 2021
+edyear: 2021
+ednumber: XV
 ---
 
 ## Latest news
 
 **[22/11/2021]**
 
-ArcheoFOSS goes live tomorrow! **ATTENTION**: The links for the Facebook and YouTube live streams have been posted on the **[Watch the conference](./watch-the-conference)** page.
+ArcheoFOSS goes live tomorrow! **ATTENTION**: The links for the Facebook and YouTube live streams have been posted on the **[Watch the conference](./watch)** page.
 We remind you that you can also subscribe to the [Telegram channel](https://t.me/ArcheoFOSS) dedicated to this year's edition to ask your questions!
 Thank you, we look forward to seeing you tomorrow!
 

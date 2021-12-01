@@ -2,8 +2,8 @@
 title: "ArcheoFOSS 2020"
 description: "ArcheoFOSS 2020: Open software, hardware, processes, data and formats in archaeological research"
 layout: editionhome
-edyear: XIV
-ednumber: 2020
+edyear: 2020
+ednumber: XIV
 ---
 
 ## Latest news
