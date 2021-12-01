@@ -19,7 +19,7 @@ To follow the conference works:
     - Day 3: [https://www.youtube.com/watch?v=GieO7FGBbrQ](https://www.youtube.com/watch?v=GieO7FGBbrQ)
 - or live on Facebook ([https://www.facebook.com/archeofoss/](https://www.facebook.com/archeofoss/))
 
-Ask your questions on directly on YouTube and Facebook or join our public Telegram group ([https://t.me/archeofoss](https://t.me/archeofoss))
+Ask your questions on directly on YouTube and Facebook or join our public Telegram group ([https://t.me/ArcheoFOSS](https://t.me/ArcheoFOSS))
 
 For small talk and coffe break, we coud meet in the virtual bar, at [https://mm.topstream.it/Bar-di-ArcheoFOSS](https://mm.topstream.it/Bar-di-ArcheoFOSS). It is always open!
 
@@ -28,7 +28,7 @@ To partecipate to the final Round Table *ArcheoFOSS. An insight into the future*
 
 **[14/10/2020]**
 It is now available an open Telegram group that can be used during the conference days.
-You can inscribe to the group by following the link: [https://t.me/archeofoss](https://t.me/archeofoss).
+You can inscribe to the group by following the link: [https://t.me/ArcheoFOSS](https://t.me/ArcheoFOSS).
 Please use the group to notify broardcast issues or to ask questions to the conference presenters.
 
 

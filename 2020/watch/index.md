@@ -10,7 +10,7 @@ layout: article-slim
     <iframe width="560" height="315" src="https://www.youtube.com/embed/GieO7FGBbrQ " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ask a question by joining the Telegram group](https://t.me/archeofoss)
+[Ask a question by joining the Telegram group](https://t.me/ArcheoFOSS)
 
 
 ---
@@ -22,7 +22,7 @@ layout: article-slim
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3XtJyoz3Ppc " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ask a question by joining the Telegram group](https://t.me/archeofoss)
+[Ask a question by joining the Telegram group](https://t.me/ArcheoFOSS)
 
 ## Day 2: 16 October 2020 (now live)
 
@@ -30,4 +30,4 @@ layout: article-slim
     <iframe width="560" height="315" src="https://www.youtube.com/embed/bgkLcKsKtOA " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-[Ask a question by joining the Telegram group](https://t.me/archeofoss)
+[Ask a question by joining the Telegram group](https://t.me/ArcheoFOSS)
