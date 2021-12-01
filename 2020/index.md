@@ -2,6 +2,8 @@
 title: "ArcheoFOSS 2020"
 description: "ArcheoFOSS 2020: Open software, hardware, processes, data and formats in archaeological research"
 layout: editionhome
+edyear: XIV
+ednumber: 2020
 ---
 
 ## Latest news
@@ -22,7 +24,7 @@ Ask your questions on directly on YouTube and Facebook or join our public Telegr
 For small talk and coffe break, we coud meet in the virtual bar, at [https://mm.topstream.it/Bar-di-ArcheoFOSS](https://mm.topstream.it/Bar-di-ArcheoFOSS). It is always open!
 
 To partecipate to the final Round Table *ArcheoFOSS. An insight into the future* join us at 
-[2020.archeofoss.org/watch/round-table (Zoom.us provided by Sapienza)](/watch/round-table)
+[2020.archeofoss.org/watch/round-table (Zoom.us provided by Sapienza)](watch/round-table)
 
 **[14/10/2020]**
 It is now available an open Telegram group that can be used during the conference days.
@@ -40,7 +42,7 @@ remain fully available for any question or doubt. We will get back to you very s
 Available the URLs of the broadcast of the conference! Each day has two
 separate URLs, one for the morning and one for the afternoon.
 Each workshop has its own URL as well. Please find, save and share the URLs
-in the main [programme page](/programme).
+in the main [programme page](programme).
 
 **[09/09/2020]**
 
@@ -73,7 +75,7 @@ We are looking forward to share with the ArcheoFOSS community the definitive con
 - Deadline for demo submission: <strike>31/08/2020</strike>**4/10/2020**
 - Conference dates: **15,16, 17 October, 2020**
 - Download the Book of abstracts [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4002961.svg)](https://doi.org/10.5281/zenodo.4002961).
-- [Book a place in one or more workshops](/workshops)
+- [Book a place in one or more workshops](workshops)
 - **And do not forget to share the programme!**
     - [Share on Telegram](https://telegram.me/share/url?url=https://2020.archeofoss.org/programme&text=Available+programme+of+ArcheoFOSS+2020)
     - [Share on WhatsApp](https://wa.me/?text=https://2020.archeofoss.org/programme+Available+programme+of+ArcheoFOSS+2020)

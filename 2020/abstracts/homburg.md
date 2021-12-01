@@ -3,10 +3,10 @@ title: "Little Minions and SPARQL Unicorns as tools for archaeology"
 description: "Little Minions and SPARQL Unicorns as tools for archaeology"
 layout: article-slim
 images:
-  - abstracts/homburg-01.jpg|Fig. 1. SPARQLing Unicorn QGIS Plugin Logo 
-  - abstracts/homburg-02.jpg|Fig. 2. SPARQLing Unicorn QGIS Plugin Query Dialog 
-  - abstracts/homburg-03.jpg|Fig. 3. SPARQLing Unicorn QGIS Plugin QGIS Map with caves containing prehistoric art from Wikidata 
-  - abstracts/homburg-04.jpg|Fig. 4. SPARQLing Unicorn QGIS Plugin QGIS Map with Pleiades Places
+  ../images/2020/abstracts/homburg-01.jpg|Fig. 1. SPARQLing Unicorn QGIS Plugin Logo 
+  ../images/2020/abstracts/homburg-02.jpg|Fig. 2. SPARQLing Unicorn QGIS Plugin Query Dialog 
+  ../images/2020/abstracts/homburg-03.jpg|Fig. 3. SPARQLing Unicorn QGIS Plugin QGIS Map with caves containing prehistoric art from Wikidata 
+  ../images/2020/abstracts/homburg-04.jpg|Fig. 4. SPARQLing Unicorn QGIS Plugin QGIS Map with Pleiades Places
 ---
 
 **Timo Homburg**

@@ -5,9 +5,7 @@ layout: article-slim
 ---
 
 
-The last part of each day of the conference (16:00-19:00) will be dedicated to practical workshops 
-focused on the topics of the conference. The attendance will be limited in 
-number to ensure a better enjoyment of the events.
+The last part of each day of the conference (16:00-19:00) will be dedicated to practical workshops focused on the topics of the conference. The attendance will be limited in number to ensure a better enjoyment of the events.
 
 
 Short list of workshops:
@@ -61,9 +59,9 @@ A follow-up might be planed on request two weeks after the workshop as a public 
 
 **Description**
 
-iDAI.field 2 is an Open Source cross-platform tool for the documentation of archaeological field research. It enables researchers to deal with different needs of a variety of disciplines and methods like excavation, survey, architectural or object studies. The core data model can deal with most circumstances and can be adapted as needed, while also trying to maintain standardization where possible. 
+iDAI.field 2 is an Open Source cross-platform tool for the documentation of archaeological field research. It enables researchers to deal with different needs of a variety of disciplines and methods like excavation, survey, architectural or object studies. The core data model can deal with most circumstances and can be adapted as needed, while also trying to maintain standardization where possible.
 
-The very robust synchronization between clients supports distributed work, collaboration and data entry in the field or in places with no internet coverage. Spatial data, images and drawing as well as descriptive data can be stored, managed and interlinked. Type catalogues can be included and linked with findings. While the data is stored in a NoSQL database, the various export and import functionalities allow the integration of other fieldwork software like for example QGIS, iDIG and survey2gis into the toolchain as well as statistics software like R. 
+The very robust synchronization between clients supports distributed work, collaboration and data entry in the field or in places with no internet coverage. Spatial data, images and drawing as well as descriptive data can be stored, managed and interlinked. Type catalogues can be included and linked with findings. While the data is stored in a NoSQL database, the various export and import functionalities allow the integration of other fieldwork software like for example QGIS, iDIG and survey2gis into the toolchain as well as statistics software like R.
 
 In the hands-on Workshop attendees will learn:
 

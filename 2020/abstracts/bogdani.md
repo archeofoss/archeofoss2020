@@ -4,10 +4,10 @@ description: "Fieldnotes for the development and publication of open standards f
 layout: article-slim
 img: /images/abstracts/bogdani-02.png
 images:
-  - abstracts/bogdani-01.png|Fig. 1. PATh’s data portal. The SVP official documentation page (https://docs.paths-erc.eu/data/svp)
-  - abstracts/bogdani-02.png|Fig. 2. A graphical example of the SVP
-  - abstracts/bogdani-03.png|Fig. 3. Actual use of the vector data created using SVP in the web application of the Archaeological Atlas of Coptic Literature (Abu Mina, https://atlas.paths-erc.eu/places/116)
-  - abstracts/bogdani-04.png|Fig. 4. SVP validation tool created to encourage a strict implementation of the standard (https://paths-erc.eu/svp-validate/)
+  ../images/2020/abstracts/bogdani-01.png|Fig. 1. PATh’s data portal. The SVP official documentation page (https://docs.paths-erc.eu/data/svp)
+  ../images/2020/abstracts/bogdani-02.png|Fig. 2. A graphical example of the SVP
+  ../images/2020/abstracts/bogdani-03.png|Fig. 3. Actual use of the vector data created using SVP in the web application of the Archaeological Atlas of Coptic Literature (Abu Mina, https://atlas.paths-erc.eu/places/116)
+  ../images/2020/abstracts/bogdani-04.png|Fig. 4. SVP validation tool created to encourage a strict implementation of the standard (https://paths-erc.eu/svp-validate/)
 geo:
   - 41.90376
   - 12.51443

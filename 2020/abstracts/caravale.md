@@ -3,8 +3,8 @@ title: "Open Data, Open Knowledge, Open Science: the new OpenLab of the  Institu
 description: "Open Data, Open Knowledge, Open Science: the new OpenLab of the  Institute for Heritage Science (CNR)"
 layout: article-slim
 images:
-  - abstracts/caravale-01.jpg|Fig. 1. Archeologia e Calcolatori in Europeana.
-  - abstracts/caravale-02.jpg|Fig. 2. I toponimi di Archeologia e Calcolatori visualizzati in Peripleo.
+  ../images/2020/abstracts/caravale-01.jpg|Fig. 1. Archeologia e Calcolatori in Europeana.
+  ../images/2020/abstracts/caravale-02.jpg|Fig. 2. I toponimi di Archeologia e Calcolatori visualizzati in Peripleo.
 geo:
   - 41.90072
   - 12.51251 

@@ -3,7 +3,7 @@ title: "Leastcostpath: Modelling Pathways and Movement Potential Within a Landsc
 description: "Leastcostpath: Modelling Pathways and Movement Potential Within a Landscape"
 layout: article-slim
 images:
-  - abstracts/lewis-01.jpg|Fig. 1. Leastcostpath logo
+  ../images/2020/abstracts/lewis-01.jpg|Fig. 1. Leastcostpath logo
 geo:
   - 52.20426
   - 0.1149 

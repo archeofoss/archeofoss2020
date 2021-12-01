@@ -3,11 +3,11 @@ title: "An open source workflow for processing thermal images acquired by drone"
 description: "An open source workflow for processing thermal images acquired by drone"
 layout: article-slim
 images:
-  - abstracts/ciccone-01.jpg|Fig. 1. Schema del workflow open source per l'elaborazione di immagini termiche, 
-  - abstracts/ciccone-02.jpg|Fig. 2. Esempio di immagine RGB utilizzata. 
-  - abstracts/ciccone-03.jpg|Fig. 3. Esempio di immagine IR utilizzata. 
-  - abstracts/ciccone-04.jpg|Fig. 4. Ortofoto in 4 bande (R, G, B, IR).
-  - abstracts/ciccone-05.jpg|Fig. 5. Ortofoto nella singola banda IR.
+  ../images/2020/abstracts/ciccone-01.jpg|Fig. 1. Schema del workflow open source per l'elaborazione di immagini termiche, 
+  ../images/2020/abstracts/ciccone-02.jpg|Fig. 2. Esempio di immagine RGB utilizzata. 
+  ../images/2020/abstracts/ciccone-03.jpg|Fig. 3. Esempio di immagine IR utilizzata. 
+  ../images/2020/abstracts/ciccone-04.jpg|Fig. 4. Ortofoto in 4 bande (R, G, B, IR).
+  ../images/2020/abstracts/ciccone-05.jpg|Fig. 5. Ortofoto nella singola banda IR.
 geo:
   - 41.85203
   - 12.62899

@@ -3,7 +3,7 @@ title: "The virtual countryman. A GRASS-GIS tool for ancient cultivation identif
 description: "The virtual countryman. A GRASS-GIS tool for ancient cultivation identification"
 layout: article-slim
 images:
-  - abstracts/palombini-01.jpg|Fig. 1. User interface of the predictive tool (r.countryman)
+  ../images/2020/abstracts/palombini-01.jpg|Fig. 1. User interface of the predictive tool (r.countryman)
 geo:
   - 41.90072
   - 12.51251

@@ -6,7 +6,7 @@ layout: article-slim
 
 ## Conference proceedings
 
-![Bogdani, Montalbano, Rosati, ArcheoFOSS 2020](images/AF-2020.jpg "Bogdani, Montalbano, Rosati, ArcheoFOSS 2020"){:.img-fluid}
+![Bogdani, Montalbano, Rosati, ArcheoFOSS 2020](../images/2020/AF-2020.jpg "Bogdani, Montalbano, Rosati, ArcheoFOSS 2020"){:.img-fluid}
 
 The proceedings of the 14th edition of ArcheoFOSS conference have been published by Archaeopress as open-access and in print. The open-acces (CC BY-SA-NC) PDF can be donwloaded at [Archaeopress.com](https://www.archaeopress.com/ArchaeopressShop/Public/displayProductDetail.asp?id={31193B62-F0B1-4C51-BA08-3D85FCA58990}).
 
@@ -14,7 +14,7 @@ The proceedings of the 14th edition of ArcheoFOSS conference have been published
 
 Paperback; 174x245mm; 204pp; Illustrated in colour throughout. Papers in Italian and English. Print RRP: £38.00. 796 2021. Available both in print and Open Access. Printed ISBN 9781803271248. Epublication ISBN 9781803271255
 
-During the 2021 edition works it will be possible to order a copy of the printed version and benefit of the special offer of **£28.50** instead of the full price of £38.00. Please use [this offer-leaflet](images/AA Bogdani pre-order offer.pdf) to order your volume now!
+During the 2021 edition works it will be possible to order a copy of the printed version and benefit of the special offer of **£28.50** instead of the full price of £38.00. Please use [this offer-leaflet](/images/2020/AA Bogdani pre-order offer.pdf) to order your volume now!
 
 
 ### Table of contents

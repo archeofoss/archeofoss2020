@@ -5,9 +5,15 @@ default:
     url: /previous-editions
   - title: Scientific committee
     url: /scientific-committee
+'2021':
+  - title: Watch the conference
+    url: /2021/watch-the-conference
+  - title: Programme
+    url: /2021/programme
+  - title: About
+    url: /2021/about-us
+
 '2020':
-  - title: Start
-    url: /2020/
   - title: Watch
     url: /2020/watch/
   - title: Programme

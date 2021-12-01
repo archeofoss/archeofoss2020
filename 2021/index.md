@@ -1,8 +1,9 @@
 ---
 title: "ArcheoFOSS 2021"
 description: "ArcheoFOSS 2021: Open software, hardware, processes, data and formats in archaeological research"
-layout: home
-permalink: /
+layout: editionhome
+edyear: XV
+ednumber: 2021
 ---
 
 ## Latest news

@@ -5,7 +5,7 @@ layout: article-slim
 ---
 
 ### Available demos
-1. [PAThs: the Archaeological Atlas of Coptic Literature](#)
+1. [PAThs: the Archaeological Atlas of Coptic Literature](#paths-the-archaeological-atlas-of-coptic-literature)
 1. [Roman Open Data: computational tool to analyze the Roman Empire trading system](#roman-open-data-computational-tool-to-analyze-the-roman-empire-trading-system)
 1. [SITAR: Sistema Informativo Territoriale Archeologico di Roma](#)
 1. [AF 2006-2020. An incomplete Introspective view on the FLOS/CH community](#af-2006-2020-an-incomplete-introspective-view-on-the-flosch-community)
@@ -38,7 +38,7 @@ It is by far the most important open access database related to Late Antique and
 
 ### Authors: J. **Pérez González**, J.M. **Bermúdez Lorenzo**, J. **Remesal Rodríguez**
 
-Interface developed by: Giménez, X., Rull, G., Mosca, A., Rondelli, B. 
+Interface developed by: Giménez, X., Rull, G., Mosca, A., Rondelli, B.
 
 The [romanopendata.eu](https://romanopendata.eu) portal is the culmination of the knowledge representation efforts conducted during the “EPNet: Production and distribution of food during the Roman Empire” project (ERC ID: 340828). The Users can explore both epigraphies and amphoras from the database of CEIPAC, one of the most precise archaeological and historical semantic markers available from the Roman Empire trading system. 
  
@@ -50,9 +50,7 @@ The aim of the portal is to allow access to the project’s epigraphic data on R
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Xpo612g2lSA " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-
 ---
-
 
 # SITAR - Sistema Informativo Territoriale Archeologico di Roma
 
@@ -67,6 +65,7 @@ The OPEN DATA digital platform contains spatial data, attributes and documents f
 <div class="embed-responsive embed-responsive-16by9">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ojpqCYIPX90" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 
 ---
 
