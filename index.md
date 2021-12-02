@@ -6,4 +6,8 @@ permalink: /
 ---
 
 
-Una breve instroduzione del convegno: 5 righe.
+Archeofoss is an International Conference on Open software, 
+hardware, processes, data and formats in archaeological research,
+organised on a yearly basis by an open community of researchers
+
+[Teleram group](https://t.me/ArcheoFOSS)
